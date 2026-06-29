@@ -1,0 +1,6473 @@
+{
+  "slack_messages": [
+    {
+      "channel": "#engineering",
+      "user": "alice_johnson",
+      "message": "Security audit results .?.  !?!!!!!!!. ! .!",
+      "timestamp": "2026-08-04T09:12:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#product",
+      "user": "john_doe",
+      "message": "PR #128 review !?!.???    ?!! ...! ",
+      "timestamp": "2026-08-03T19:30:00Z",
+      "reactions": [
+        "\ud83c\udf89",
+        "\ud83d\udc4d",
+        "\u26a0\ufe0f"
+      ],
+      "thread_ts": "2026-06-20T12:55:00Z"
+    },
+    {
+      "channel": "#finance",
+      "user": "mike_rodriguez",
+      "message": "Hiring pipeline  !!!.!.. ? ??!.. ???",
+      "timestamp": "2026-08-03T19:03:00Z",
+      "reactions": [
+        "\ud83c\udf89",
+        "\ud83d\udd34",
+        "\ud83d\udd25"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#product",
+      "user": "mike_rodriguez",
+      "message": "Sales Q2 review  !???.!??!???!  !.. ",
+      "timestamp": "2026-08-03T07:49:00Z",
+      "reactions": [
+        "\ud83c\udf89"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#product",
+      "user": "mike_rodriguez",
+      "message": "Mobile app roadmap .!!!.! .!?!? .. ....",
+      "timestamp": "2026-08-03T04:39:00Z",
+      "reactions": [
+        "\u2764\ufe0f",
+        "\ud83d\udc4d",
+        "\ud83c\udf89"
+      ],
+      "thread_ts": "2026-06-15T22:34:00Z"
+    },
+    {
+      "channel": "#finance",
+      "user": "david_kim",
+      "message": "Marketing campaign launch ! ? .?... ?! .?!. !!",
+      "timestamp": "2026-08-02T23:51:00Z",
+      "reactions": [
+        "\ud83d\udc40",
+        "\ud83d\udcaa"
+      ],
+      "thread_ts": "2026-06-19T09:27:00Z"
+    },
+    {
+      "channel": "#finance",
+      "user": "mike_rodriguez",
+      "message": "Sprint planning ? .?!?!!..!  ..!?.!!",
+      "timestamp": "2026-08-01T13:15:00Z",
+      "reactions": [
+        "\u26a0\ufe0f"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#engineering",
+      "user": "emma_wilson",
+      "message": "Office renovation !? !?!. .!!??!.? ???",
+      "timestamp": "2026-08-01T12:42:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#leadership",
+      "user": "tom_brown",
+      "message": "Security audit results   !.  ..? ?! ?!?.   ",
+      "timestamp": "2026-08-01T08:27:00Z",
+      "reactions": [
+        "\ud83d\udc40"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#sales",
+      "user": "lisa_martinez",
+      "message": "Team lunch tomorrow .? .? ??. .?! ??.!. ",
+      "timestamp": "2026-08-01T06:07:00Z",
+      "reactions": [
+        "\ud83d\udcaa",
+        "\ud83d\udd34",
+        "\ud83d\udc4d"
+      ],
+      "thread_ts": "2026-06-22T09:31:00Z"
+    },
+    {
+      "channel": "#product",
+      "user": "carol_lee",
+      "message": "Referral program !!?  ?!?? !.!.? ? . ",
+      "timestamp": "2026-08-01T01:41:00Z",
+      "reactions": [
+        "\u2764\ufe0f",
+        "\u2705"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#support",
+      "user": "tom_brown",
+      "message": "Mobile app roadmap ! .!.?!!  !??  ?!?  ",
+      "timestamp": "2026-07-31T19:45:00Z",
+      "reactions": [
+        "\ud83d\udd25",
+        "\u26a0\ufe0f",
+        "\ud83d\ude80"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#leadership",
+      "user": "sarah_chen",
+      "message": "Product demo feedback !!  .?!  !.  ?!!??! ",
+      "timestamp": "2026-07-31T14:27:00Z",
+      "reactions": [
+        "\ud83d\ude80",
+        "\u2705"
+      ],
+      "thread_ts": "2026-07-20T13:25:00Z"
+    },
+    {
+      "channel": "#leadership",
+      "user": "emma_wilson",
+      "message": "Vendor contract ?!. ? ! !?...?!!.!!!",
+      "timestamp": "2026-07-31T03:35:00Z",
+      "reactions": [
+        "\ud83d\udc40",
+        "\ud83d\udd25"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#sales",
+      "user": "carol_lee",
+      "message": "Sales Q2 review   .?..!.?!.?. . ??? ",
+      "timestamp": "2026-07-30T17:55:00Z",
+      "reactions": [
+        "\ud83d\udd25"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#product",
+      "user": "carol_lee",
+      "message": "Team lunch tomorrow . ??. .?! ?!  !. ...",
+      "timestamp": "2026-07-30T13:42:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#random",
+      "user": "john_doe",
+      "message": "Referral program . ????.. ??.!??? ..!",
+      "timestamp": "2026-07-29T21:54:00Z",
+      "reactions": [
+        "\ud83d\udd34",
+        "\u2705",
+        "\ud83d\udc40"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#leadership",
+      "user": "alice_johnson",
+      "message": "API gateway update ! ?!..!?!.?   !? ??.",
+      "timestamp": "2026-07-29T19:10:00Z",
+      "reactions": [
+        "\ud83d\udc40"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#engineering",
+      "user": "emma_wilson",
+      "message": "Database migration ??. ? ..!!. ?!!? .? ",
+      "timestamp": "2026-07-29T06:58:00Z",
+      "reactions": [
+        "\ud83c\udf89",
+        "\ud83d\udc40"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#random",
+      "user": "lisa_martinez",
+      "message": "Support ticket backlog ...     !?!.!..   ?.",
+      "timestamp": "2026-07-29T02:48:00Z",
+      "reactions": [
+        "\u2705",
+        "\u2764\ufe0f"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#engineering",
+      "user": "emma_wilson",
+      "message": "Mobile app roadmap ! !?  .? ? .!. .?!. ",
+      "timestamp": "2026-07-28T22:10:00Z",
+      "reactions": [
+        "\u2705",
+        "\ud83d\udcaa"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#support",
+      "user": "john_doe",
+      "message": "Referral program  ????? .!????!?.!. ?",
+      "timestamp": "2026-07-28T20:10:00Z",
+      "reactions": [
+        "\ud83d\ude80",
+        "\u2764\ufe0f",
+        "\ud83d\udd34"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#finance",
+      "user": "alice_johnson",
+      "message": "Sprint planning !!??...!.!   ! ?!!!!",
+      "timestamp": "2026-07-27T21:39:00Z",
+      "reactions": [
+        "\ud83d\udc40",
+        "\ud83c\udf89"
+      ],
+      "thread_ts": "2026-07-31T19:45:00Z"
+    },
+    {
+      "channel": "#general",
+      "user": "mike_rodriguez",
+      "message": "Database migration ..???!...?.!! !..! .",
+      "timestamp": "2026-07-27T18:25:00Z",
+      "reactions": [
+        "\u2764\ufe0f",
+        "\u26a0\ufe0f"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#general",
+      "user": "emma_wilson",
+      "message": "Office renovation . ?! .!.    !.?  .?!",
+      "timestamp": "2026-07-27T16:50:00Z",
+      "reactions": [],
+      "thread_ts": "2026-07-17T13:47:00Z"
+    },
+    {
+      "channel": "#leadership",
+      "user": "lisa_martinez",
+      "message": "Marketing campaign launch ! !  ..?. ! .?!!.. !",
+      "timestamp": "2026-07-27T14:58:00Z",
+      "reactions": [
+        "\u2705"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#general",
+      "user": "mike_rodriguez",
+      "message": "Support ticket backlog . ?.!!??..!???. !???",
+      "timestamp": "2026-07-26T19:35:00Z",
+      "reactions": [
+        "\u26a0\ufe0f",
+        "\ud83d\udd34"
+      ],
+      "thread_ts": "2026-06-17T19:34:00Z"
+    },
+    {
+      "channel": "#sales",
+      "user": "lisa_martinez",
+      "message": "Office renovation !. !? ..!?.!.!  .. !",
+      "timestamp": "2026-07-26T11:06:00Z",
+      "reactions": [],
+      "thread_ts": "2026-08-03T07:49:00Z"
+    },
+    {
+      "channel": "#general",
+      "user": "emma_wilson",
+      "message": "Support ticket backlog  ? !! ! .?!?.  ?.? .",
+      "timestamp": "2026-07-26T00:45:00Z",
+      "reactions": [
+        "\ud83d\udc4d",
+        "\u26a0\ufe0f"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#finance",
+      "user": "david_kim",
+      "message": "Design mockups approved .  ?. ?! ..! . .?? ?",
+      "timestamp": "2026-07-24T08:05:00Z",
+      "reactions": [
+        "\ud83d\udc4d",
+        "\ud83c\udf89"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#engineering",
+      "user": "john_doe",
+      "message": "\ud83d\ude80 HUGE NEWS: Series A closed!  .....!! !!.!! !!.?!",
+      "timestamp": "2026-07-23T17:02:00Z",
+      "reactions": [],
+      "thread_ts": "2026-06-02T22:27:00Z"
+    },
+    {
+      "channel": "#general",
+      "user": "emma_wilson",
+      "message": "Bug bash results  ?!..? ..!.??!!. .. ",
+      "timestamp": "2026-07-23T02:06:00Z",
+      "reactions": [
+        "\ud83d\ude80",
+        "\ud83d\udc40"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#support",
+      "user": "lisa_martinez",
+      "message": "Q3 budget meeting  ?...!  ?!.??.!. !! ",
+      "timestamp": "2026-07-22T22:43:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#support",
+      "user": "tom_brown",
+      "message": "Vendor contract ? ?!? .!!?.?!.. .? ?",
+      "timestamp": "2026-07-22T15:04:00Z",
+      "reactions": [
+        "\u26a0\ufe0f",
+        "\ud83d\ude80"
+      ],
+      "thread_ts": "2026-06-24T06:00:00Z"
+    },
+    {
+      "channel": "#random",
+      "user": "emma_wilson",
+      "message": "New hire announcement !?!!?. ??....!? .! !",
+      "timestamp": "2026-07-22T10:07:00Z",
+      "reactions": [
+        "\u2705",
+        "\ud83d\udc40"
+      ],
+      "thread_ts": "2026-07-22T15:04:00Z"
+    },
+    {
+      "channel": "#engineering",
+      "user": "sarah_chen",
+      "message": "OKR finalization .  .!.. .... ..? ?  ",
+      "timestamp": "2026-07-22T08:22:00Z",
+      "reactions": [
+        "\u2705",
+        "\ud83d\udc40",
+        "\ud83d\ude80"
+      ],
+      "thread_ts": "2026-06-17T21:40:00Z"
+    },
+    {
+      "channel": "#random",
+      "user": "carol_lee",
+      "message": "Hiring pipeline  ??!.?.!??!. . !.!. ",
+      "timestamp": "2026-07-22T02:36:00Z",
+      "reactions": [
+        "\ud83d\udcaa",
+        "\ud83d\udd34",
+        "\u2764\ufe0f"
+      ],
+      "thread_ts": "2026-07-16T01:29:00Z"
+    },
+    {
+      "channel": "#product",
+      "user": "john_doe",
+      "message": "Mobile app roadmap ?!!  !?. ?.. ! !!.?.",
+      "timestamp": "2026-07-21T22:30:00Z",
+      "reactions": [
+        "\ud83d\udc4d",
+        "\u2764\ufe0f"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#general",
+      "user": "alice_johnson",
+      "message": "\ud83d\ude80 HUGE NEWS: Series A closed! .!!!  !.!  ! ?!? ???",
+      "timestamp": "2026-07-21T22:13:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#engineering",
+      "user": "david_kim",
+      "message": "Database migration .?..??!?! .?  !!?.!.",
+      "timestamp": "2026-07-21T15:47:00Z",
+      "reactions": [
+        "\ud83d\udc40",
+        "\ud83d\ude80",
+        "\u2705"
+      ],
+      "thread_ts": "2026-06-10T21:46:00Z"
+    },
+    {
+      "channel": "#engineering",
+      "user": "john_doe",
+      "message": "Bug bash results !!.  ! ? . ? !..!? !",
+      "timestamp": "2026-07-20T21:44:00Z",
+      "reactions": [
+        "\ud83d\udd34",
+        "\ud83d\ude80"
+      ],
+      "thread_ts": "2026-06-15T20:40:00Z"
+    },
+    {
+      "channel": "#product",
+      "user": "david_kim",
+      "message": "Team lunch tomorrow ?. ?!. ..!!  .  .?? ",
+      "timestamp": "2026-07-20T13:25:00Z",
+      "reactions": [
+        "\u26a0\ufe0f"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#leadership",
+      "user": "lisa_martinez",
+      "message": "Investor call summary  ?! !! ! ? !?.?!!. !",
+      "timestamp": "2026-07-19T03:46:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#sales",
+      "user": "mark_taylor",
+      "message": "Security audit results ?!!. ... !. ...?.! .",
+      "timestamp": "2026-07-19T03:04:00Z",
+      "reactions": [
+        "\ud83d\udc40"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#support",
+      "user": "lisa_martinez",
+      "message": "Server maintenance .!.!  ?!!!.. ..?!  .",
+      "timestamp": "2026-07-19T01:41:00Z",
+      "reactions": [
+        "\ud83d\udcaa",
+        "\ud83d\udd25",
+        "\ud83d\udc4d"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#general",
+      "user": "lisa_martinez",
+      "message": "Customer X outage update  ! ? ! ???????  ?!!?",
+      "timestamp": "2026-07-18T23:36:00Z",
+      "reactions": [
+        "\ud83c\udf89",
+        "\u26a0\ufe0f"
+      ],
+      "thread_ts": "2026-06-10T12:51:00Z"
+    },
+    {
+      "channel": "#engineering",
+      "user": "carol_lee",
+      "message": "Hiring pipeline .? ?.! ?!. ..??! !!?",
+      "timestamp": "2026-07-18T22:44:00Z",
+      "reactions": [],
+      "thread_ts": "2026-06-06T03:44:00Z"
+    },
+    {
+      "channel": "#product",
+      "user": "mark_taylor",
+      "message": "Customer Y contract signed ?? .?!?? ?! ?.?..??.",
+      "timestamp": "2026-07-18T21:26:00Z",
+      "reactions": [
+        "\u2705",
+        "\u2764\ufe0f",
+        "\ud83d\ude80"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#general",
+      "user": "sarah_chen",
+      "message": "Marketing campaign launch  !!.!! !!!. ?!!!!!!!",
+      "timestamp": "2026-07-18T19:26:00Z",
+      "reactions": [
+        "\ud83d\udd34",
+        "\ud83d\udd25"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#leadership",
+      "user": "john_doe",
+      "message": "Compliance check ?  !. . ?     !!?.?.",
+      "timestamp": "2026-07-18T08:41:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#finance",
+      "user": "emma_wilson",
+      "message": "Investor call summary !?.! ? ?! .. ? ?..?.",
+      "timestamp": "2026-07-17T22:23:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#general",
+      "user": "emma_wilson",
+      "message": "Server maintenance ! !  ?.?.??. .! !  .",
+      "timestamp": "2026-07-17T18:40:00Z",
+      "reactions": [
+        "\ud83d\udd25",
+        "\ud83c\udf89",
+        "\ud83d\udcaa"
+      ],
+      "thread_ts": "2026-06-21T18:45:00Z"
+    },
+    {
+      "channel": "#sales",
+      "user": "mike_rodriguez",
+      "message": "Security audit results  . .!..??!! !!..! ??",
+      "timestamp": "2026-07-17T13:47:00Z",
+      "reactions": [
+        "\ud83d\udd25",
+        "\u26a0\ufe0f",
+        "\ud83d\ude80"
+      ],
+      "thread_ts": "2026-07-18T08:41:00Z"
+    },
+    {
+      "channel": "#product",
+      "user": "mark_taylor",
+      "message": "Customer X outage update !.  ? !? ! ..  ! .. ",
+      "timestamp": "2026-07-17T08:58:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#leadership",
+      "user": "david_kim",
+      "message": "Marketing campaign launch ..! .!..!??!  ? !!!.",
+      "timestamp": "2026-07-17T03:20:00Z",
+      "reactions": [],
+      "thread_ts": "2026-08-01T06:07:00Z"
+    },
+    {
+      "channel": "#engineering",
+      "user": "lisa_martinez",
+      "message": "Referral program  ?!?!??...???.??..!!",
+      "timestamp": "2026-07-16T20:17:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#finance",
+      "user": "david_kim",
+      "message": "Compliance check     ??   .. ?.!?!!.!",
+      "timestamp": "2026-07-16T11:51:00Z",
+      "reactions": [
+        "\ud83d\udd34",
+        "\u26a0\ufe0f"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#product",
+      "user": "john_doe",
+      "message": "Security audit results ! !!???.!!. . ..! ??",
+      "timestamp": "2026-07-16T01:29:00Z",
+      "reactions": [
+        "\ud83d\udd34",
+        "\u2705"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#support",
+      "user": "mike_rodriguez",
+      "message": "Sales Q2 review ?! !!.? ...!. !??!??",
+      "timestamp": "2026-07-15T22:28:00Z",
+      "reactions": [
+        "\ud83d\udc40",
+        "\ud83d\udc4d"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#support",
+      "user": "tom_brown",
+      "message": "OKR finalization .!. .?!?!.  !?!? .??",
+      "timestamp": "2026-07-15T16:52:00Z",
+      "reactions": [
+        "\u2764\ufe0f",
+        "\ud83c\udf89"
+      ],
+      "thread_ts": "2026-06-05T10:17:00Z"
+    },
+    {
+      "channel": "#general",
+      "user": "alice_johnson",
+      "message": "Sales Q2 review  ? ? ?...? .!.. . .?",
+      "timestamp": "2026-07-15T14:33:00Z",
+      "reactions": [
+        "\ud83d\udc4d"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#finance",
+      "user": "mike_rodriguez",
+      "message": "Hiring pipeline !! !!.???!  ?.! ?!!.",
+      "timestamp": "2026-07-15T13:06:00Z",
+      "reactions": [
+        "\ud83d\udcaa",
+        "\ud83c\udf89",
+        "\ud83d\ude80"
+      ],
+      "thread_ts": "2026-06-05T04:14:00Z"
+    },
+    {
+      "channel": "#finance",
+      "user": "tom_brown",
+      "message": "Sales Q2 review  .!.??.?.. ! .?.?.!!",
+      "timestamp": "2026-07-15T12:56:00Z",
+      "reactions": [
+        "\u2705"
+      ],
+      "thread_ts": "2026-07-02T13:07:00Z"
+    },
+    {
+      "channel": "#finance",
+      "user": "emma_wilson",
+      "message": "Team lunch tomorrow  !.!?..?!??!? !!?.! ",
+      "timestamp": "2026-07-15T04:10:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#sales",
+      "user": "lisa_martinez",
+      "message": "API gateway update ?? !!!.? ..?.? ?! ? ",
+      "timestamp": "2026-07-14T17:55:00Z",
+      "reactions": [
+        "\ud83d\udcaa",
+        "\ud83d\udc40",
+        "\ud83d\udd25"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#support",
+      "user": "sarah_chen",
+      "message": "Product demo feedback ??.?! .!  ??.. ??..!",
+      "timestamp": "2026-07-14T13:04:00Z",
+      "reactions": [
+        "\ud83d\udcaa"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#product",
+      "user": "mike_rodriguez",
+      "message": "Team lunch tomorrow !!?  !?!??     !!! .",
+      "timestamp": "2026-07-14T00:25:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#sales",
+      "user": "alice_johnson",
+      "message": "API gateway update .??.!!?...  !!?!  !!",
+      "timestamp": "2026-07-13T06:38:00Z",
+      "reactions": [
+        "\u2764\ufe0f",
+        "\ud83d\udcaa",
+        "\ud83d\udc40"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#sales",
+      "user": "sarah_chen",
+      "message": "Bug bash results .!? .!.!.???...? !!.",
+      "timestamp": "2026-07-13T00:57:00Z",
+      "reactions": [
+        "\ud83c\udf89",
+        "\u2705"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#random",
+      "user": "carol_lee",
+      "message": "Customer X outage update !.   ??    ! .??.?.!",
+      "timestamp": "2026-07-12T23:00:00Z",
+      "reactions": [
+        "\ud83d\udc4d",
+        "\ud83d\ude80"
+      ],
+      "thread_ts": "2026-07-28T20:10:00Z"
+    },
+    {
+      "channel": "#finance",
+      "user": "lisa_martinez",
+      "message": "Sprint planning  .?  !?!.???.!.!.!.?",
+      "timestamp": "2026-07-12T11:35:00Z",
+      "reactions": [
+        "\u26a0\ufe0f"
+      ],
+      "thread_ts": "2026-06-20T02:12:00Z"
+    },
+    {
+      "channel": "#engineering",
+      "user": "lisa_martinez",
+      "message": "Product demo feedback ..!.  ??!???!?.   .!",
+      "timestamp": "2026-07-12T07:47:00Z",
+      "reactions": [
+        "\u2764\ufe0f",
+        "\ud83d\udc40",
+        "\ud83d\udd25"
+      ],
+      "thread_ts": "2026-07-15T04:10:00Z"
+    },
+    {
+      "channel": "#finance",
+      "user": "john_doe",
+      "message": "Security audit results ?.! ?.   !.? !? ?.!.",
+      "timestamp": "2026-07-11T10:44:00Z",
+      "reactions": [
+        "\ud83d\udcaa",
+        "\u2764\ufe0f"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#leadership",
+      "user": "lisa_martinez",
+      "message": "Design mockups approved !??? .!!? !!!?.  ! .",
+      "timestamp": "2026-07-11T02:12:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#engineering",
+      "user": "john_doe",
+      "message": "Customer X outage update ! .?...????. !?.!?!?",
+      "timestamp": "2026-07-10T23:42:00Z",
+      "reactions": [],
+      "thread_ts": "2026-06-01T20:53:00Z"
+    },
+    {
+      "channel": "#engineering",
+      "user": "lisa_martinez",
+      "message": "Support ticket backlog ? ??...??  . ??.!. .",
+      "timestamp": "2026-07-10T16:49:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#sales",
+      "user": "john_doe",
+      "message": "New hire announcement !.!??!.?. ..!   ..!?",
+      "timestamp": "2026-07-10T16:40:00Z",
+      "reactions": [
+        "\ud83d\udc40",
+        "\ud83d\udc4d"
+      ],
+      "thread_ts": "2026-06-12T14:09:00Z"
+    },
+    {
+      "channel": "#random",
+      "user": "carol_lee",
+      "message": "Hiring pipeline  !  ..!!?  .?!.?!  ?",
+      "timestamp": "2026-07-10T15:40:00Z",
+      "reactions": [
+        "\ud83d\udd34",
+        "\ud83d\ude80",
+        "\u2705"
+      ],
+      "thread_ts": "2026-06-25T16:56:00Z"
+    },
+    {
+      "channel": "#product",
+      "user": "tom_brown",
+      "message": "Sales Q2 review !.. !?.! ?!.?.!!!. .",
+      "timestamp": "2026-07-10T05:00:00Z",
+      "reactions": [
+        "\ud83d\udd34"
+      ],
+      "thread_ts": "2026-07-22T02:36:00Z"
+    },
+    {
+      "channel": "#sales",
+      "user": "sarah_chen",
+      "message": "Compliance check ! . .!   !??.!?? .? ",
+      "timestamp": "2026-07-10T04:52:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#support",
+      "user": "mike_rodriguez",
+      "message": "Team lunch tomorrow ?? .?....? ?!!..?.?!",
+      "timestamp": "2026-07-09T23:20:00Z",
+      "reactions": [
+        "\ud83d\udd25"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#random",
+      "user": "mike_rodriguez",
+      "message": "\ud83d\ude80 HUGE NEWS: Series A closed! .!!  .? ! !.??!!  ?!",
+      "timestamp": "2026-07-08T15:43:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#finance",
+      "user": "lisa_martinez",
+      "message": "Customer X outage update ?.??!??  !. . .   ! ",
+      "timestamp": "2026-07-08T07:04:00Z",
+      "reactions": [
+        "\ud83d\udcaa",
+        "\u26a0\ufe0f",
+        "\ud83d\udc4d"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#support",
+      "user": "john_doe",
+      "message": "API gateway update .!!?! !?!?!! . .! ? ",
+      "timestamp": "2026-07-07T15:51:00Z",
+      "reactions": [
+        "\ud83d\ude80",
+        "\u2705",
+        "\ud83d\udcaa"
+      ],
+      "thread_ts": "2026-07-26T19:35:00Z"
+    },
+    {
+      "channel": "#leadership",
+      "user": "alice_johnson",
+      "message": "Hiring pipeline ??. ...?? !.?.?? .!!",
+      "timestamp": "2026-07-07T11:15:00Z",
+      "reactions": [],
+      "thread_ts": "2026-06-18T23:36:00Z"
+    },
+    {
+      "channel": "#sales",
+      "user": "alice_johnson",
+      "message": "Referral program !!.! !!. .!?.!.!  .?",
+      "timestamp": "2026-07-07T10:11:00Z",
+      "reactions": [
+        "\ud83c\udf89",
+        "\u2764\ufe0f",
+        "\ud83d\ude80"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#engineering",
+      "user": "mike_rodriguez",
+      "message": "Mobile app roadmap  ?.!? !?!!....?!.  ?",
+      "timestamp": "2026-07-07T03:17:00Z",
+      "reactions": [],
+      "thread_ts": "2026-06-05T23:18:00Z"
+    },
+    {
+      "channel": "#product",
+      "user": "john_doe",
+      "message": "PR #128 review .!  .!! ?..?..!...!!",
+      "timestamp": "2026-07-06T10:04:00Z",
+      "reactions": [
+        "\u26a0\ufe0f",
+        "\ud83d\ude80"
+      ],
+      "thread_ts": "2026-07-22T10:07:00Z"
+    },
+    {
+      "channel": "#sales",
+      "user": "lisa_martinez",
+      "message": "API gateway update .?! ??!  !?!.?.??. .",
+      "timestamp": "2026-07-06T04:32:00Z",
+      "reactions": [
+        "\ud83d\udd34",
+        "\u2764\ufe0f"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#product",
+      "user": "mark_taylor",
+      "message": "Bug bash results ???!.??!!???.?.?!. .",
+      "timestamp": "2026-07-06T02:39:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#leadership",
+      "user": "emma_wilson",
+      "message": "Database migration  ?!!!.!.?!. .. .?. !",
+      "timestamp": "2026-07-06T02:32:00Z",
+      "reactions": [
+        "\ud83d\udc40"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#product",
+      "user": "david_kim",
+      "message": "Marketing campaign launch !?. ?!.!!.. ?..!. ?.",
+      "timestamp": "2026-07-05T17:26:00Z",
+      "reactions": [
+        "\ud83c\udf89"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#general",
+      "user": "mike_rodriguez",
+      "message": "New hire announcement !?!?..?! ?!?!!?     ",
+      "timestamp": "2026-07-05T14:58:00Z",
+      "reactions": [],
+      "thread_ts": "2026-06-14T02:35:00Z"
+    },
+    {
+      "channel": "#leadership",
+      "user": "tom_brown",
+      "message": "Salary review ?? .?? ?.!..!  ??!!.",
+      "timestamp": "2026-07-05T12:44:00Z",
+      "reactions": [
+        "\ud83d\udc40",
+        "\u2764\ufe0f"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#product",
+      "user": "john_doe",
+      "message": "API gateway update ? !?....!?!! ? .?..?",
+      "timestamp": "2026-07-05T09:43:00Z",
+      "reactions": [
+        "\ud83c\udf89",
+        "\u2764\ufe0f",
+        "\ud83d\udd34"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#general",
+      "user": "mark_taylor",
+      "message": "Security audit results !??? ? .  !! ? ! ? ?",
+      "timestamp": "2026-07-05T08:08:00Z",
+      "reactions": [
+        "\ud83d\udc4d"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#random",
+      "user": "mark_taylor",
+      "message": "Mobile app roadmap ! .? ?. ..?!? ?!?! !",
+      "timestamp": "2026-07-05T07:47:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#general",
+      "user": "sarah_chen",
+      "message": "Server maintenance  !?.?...!...!????.?.",
+      "timestamp": "2026-07-05T04:38:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#engineering",
+      "user": "lisa_martinez",
+      "message": "Salary review !.! .??.!..!.?? !?. ",
+      "timestamp": "2026-07-04T15:46:00Z",
+      "reactions": [
+        "\ud83c\udf89"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#engineering",
+      "user": "mike_rodriguez",
+      "message": "Marketing campaign launch ????!  !  !?!  .? ?!",
+      "timestamp": "2026-07-04T14:00:00Z",
+      "reactions": [
+        "\ud83d\ude80",
+        "\u2705"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#support",
+      "user": "lisa_martinez",
+      "message": "Vendor contract ..!!   ??? !.??.???.",
+      "timestamp": "2026-07-04T12:37:00Z",
+      "reactions": [
+        "\u26a0\ufe0f",
+        "\ud83d\udc4d"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#engineering",
+      "user": "tom_brown",
+      "message": "Server maintenance  .?. .!.! ? ?!.? .?!",
+      "timestamp": "2026-07-04T07:28:00Z",
+      "reactions": [
+        "\ud83d\udc40",
+        "\ud83d\udd34"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#general",
+      "user": "david_kim",
+      "message": "Customer Y contract signed  .??.!!?.! !!!?.  ! ",
+      "timestamp": "2026-07-04T06:03:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#general",
+      "user": "carol_lee",
+      "message": "Marketing campaign launch   . ??.?! !! .!!!   ",
+      "timestamp": "2026-07-04T01:10:00Z",
+      "reactions": [
+        "\ud83c\udf89",
+        "\u26a0\ufe0f",
+        "\ud83d\udd34"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#general",
+      "user": "john_doe",
+      "message": "Vendor contract ??! !!!.!.   !!?.. !",
+      "timestamp": "2026-07-03T21:43:00Z",
+      "reactions": [
+        "\u26a0\ufe0f"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#finance",
+      "user": "david_kim",
+      "message": "New hire announcement .! ? ? ? .!... ?? ?.",
+      "timestamp": "2026-07-03T20:24:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#finance",
+      "user": "mike_rodriguez",
+      "message": "New hire announcement  ..  !. ?!!?!?!.   .",
+      "timestamp": "2026-07-03T02:41:00Z",
+      "reactions": [
+        "\ud83d\udd34"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#support",
+      "user": "david_kim",
+      "message": "Referral program !?!.! ..!???!? .  ? ",
+      "timestamp": "2026-07-02T13:07:00Z",
+      "reactions": [
+        "\ud83d\ude80",
+        "\u2705",
+        "\u26a0\ufe0f"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#engineering",
+      "user": "tom_brown",
+      "message": "OKR finalization !!!. !..? ? .!!  .!?",
+      "timestamp": "2026-07-02T12:54:00Z",
+      "reactions": [
+        "\ud83d\udd34",
+        "\ud83d\udd25",
+        "\ud83d\udc4d"
+      ],
+      "thread_ts": "2026-06-11T07:46:00Z"
+    },
+    {
+      "channel": "#leadership",
+      "user": "alice_johnson",
+      "message": "Customer X outage update  ...!!.!.?..!??.!???",
+      "timestamp": "2026-07-02T08:48:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#sales",
+      "user": "alice_johnson",
+      "message": "Bug bash results  . !? .?!..!!!?.? ! ",
+      "timestamp": "2026-07-02T02:23:00Z",
+      "reactions": [
+        "\u2764\ufe0f"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#sales",
+      "user": "alice_johnson",
+      "message": "\ud83d\ude80 HUGE NEWS: Series A closed!  ? ..  ! .??.? ? . ?",
+      "timestamp": "2026-07-01T21:45:00Z",
+      "reactions": [
+        "\ud83d\udcaa",
+        "\ud83c\udf89",
+        "\ud83d\ude80"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#support",
+      "user": "carol_lee",
+      "message": "Referral program .  !?!!?.  ??!.. !?.",
+      "timestamp": "2026-07-01T16:26:00Z",
+      "reactions": [],
+      "thread_ts": "2026-06-25T01:13:00Z"
+    },
+    {
+      "channel": "#random",
+      "user": "alice_johnson",
+      "message": "\ud83d\ude80 HUGE NEWS: Series A closed!  ...!! .????.? ? ? .",
+      "timestamp": "2026-07-01T14:17:00Z",
+      "reactions": [
+        "\u2764\ufe0f",
+        "\ud83d\udc40",
+        "\u26a0\ufe0f"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#general",
+      "user": "david_kim",
+      "message": "Office renovation  !!? ?. !  ?   .!?!.",
+      "timestamp": "2026-07-01T00:23:00Z",
+      "reactions": [
+        "\ud83d\udcaa",
+        "\ud83d\udc4d"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#general",
+      "user": "lisa_martinez",
+      "message": "Investor call summary ...??!!?! !! ? !!?!!",
+      "timestamp": "2026-06-30T13:24:00Z",
+      "reactions": [
+        "\ud83d\udd34",
+        "\ud83d\udc4d"
+      ],
+      "thread_ts": "2026-06-19T19:43:00Z"
+    },
+    {
+      "channel": "#support",
+      "user": "mark_taylor",
+      "message": "Marketing campaign launch . ...!.!??  ?!? ?. ?",
+      "timestamp": "2026-06-30T11:44:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#product",
+      "user": "david_kim",
+      "message": "Sprint planning .!. ???.??..!!.!.!? ",
+      "timestamp": "2026-06-30T10:29:00Z",
+      "reactions": [
+        "\ud83d\udd25",
+        "\u26a0\ufe0f"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#general",
+      "user": "john_doe",
+      "message": "Server maintenance  !??.!..? .!. !..!!.",
+      "timestamp": "2026-06-29T16:42:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#sales",
+      "user": "lisa_martinez",
+      "message": "Hiring pipeline ???!. !.!.  ?  ?.?.!",
+      "timestamp": "2026-06-29T13:10:00Z",
+      "reactions": [
+        "\u2764\ufe0f"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#product",
+      "user": "david_kim",
+      "message": "Salary review ..? !!! ?!!?!...!!. ",
+      "timestamp": "2026-06-29T12:28:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#engineering",
+      "user": "john_doe",
+      "message": "Sprint planning ?..!!?  ?.?.?  !?!. ",
+      "timestamp": "2026-06-29T06:55:00Z",
+      "reactions": [
+        "\u2764\ufe0f",
+        "\ud83d\udcaa",
+        "\ud83d\udd34"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#support",
+      "user": "lisa_martinez",
+      "message": "New hire announcement . . ??.!?  .! ..?.? ",
+      "timestamp": "2026-06-28T21:23:00Z",
+      "reactions": [
+        "\ud83c\udf89",
+        "\u26a0\ufe0f",
+        "\ud83d\udd34"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#leadership",
+      "user": "lisa_martinez",
+      "message": "Hiring pipeline .?!.?.? .  !!? ?!?  ",
+      "timestamp": "2026-06-28T18:02:00Z",
+      "reactions": [
+        "\u2705"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#sales",
+      "user": "john_doe",
+      "message": "Mobile app roadmap .!!. ?!??.!. .! !!!!",
+      "timestamp": "2026-06-28T16:23:00Z",
+      "reactions": [],
+      "thread_ts": "2026-07-06T04:32:00Z"
+    },
+    {
+      "channel": "#finance",
+      "user": "lisa_martinez",
+      "message": "Referral program ?  ??. !.?.  !!!? .!",
+      "timestamp": "2026-06-28T11:03:00Z",
+      "reactions": [
+        "\ud83d\udcaa",
+        "\u2764\ufe0f",
+        "\ud83d\udd25"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#finance",
+      "user": "sarah_chen",
+      "message": "OKR finalization   !!!...?!! !!!.. ..",
+      "timestamp": "2026-06-27T22:34:00Z",
+      "reactions": [
+        "\ud83c\udf89"
+      ],
+      "thread_ts": "2026-06-06T21:15:00Z"
+    },
+    {
+      "channel": "#engineering",
+      "user": "mike_rodriguez",
+      "message": "Customer Y contract signed  ! .???! .! !?. ?! .",
+      "timestamp": "2026-06-27T12:35:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#support",
+      "user": "emma_wilson",
+      "message": "Security audit results ?..  ???.??!? .!.. !",
+      "timestamp": "2026-06-27T12:23:00Z",
+      "reactions": [
+        "\u2764\ufe0f"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#support",
+      "user": "sarah_chen",
+      "message": "Sales Q2 review !.      !? ! ......!",
+      "timestamp": "2026-06-27T10:07:00Z",
+      "reactions": [
+        "\u2705",
+        "\ud83d\udd34",
+        "\ud83d\udd25"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#sales",
+      "user": "mike_rodriguez",
+      "message": "Bug bash results    ...??!? !. . .?.!",
+      "timestamp": "2026-06-27T04:31:00Z",
+      "reactions": [
+        "\ud83d\udcaa"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#engineering",
+      "user": "carol_lee",
+      "message": "Referral program !?!    ?!?.?.!??.  ?",
+      "timestamp": "2026-06-27T02:57:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#random",
+      "user": "alice_johnson",
+      "message": "Q3 budget meeting   ?? !!!!  ? !!! ?.!",
+      "timestamp": "2026-06-26T11:52:00Z",
+      "reactions": [
+        "\ud83d\udcaa"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#sales",
+      "user": "carol_lee",
+      "message": "Compliance check .?!!! .  ..  ! !?.! ",
+      "timestamp": "2026-06-26T04:47:00Z",
+      "reactions": [
+        "\ud83d\udcaa",
+        "\u26a0\ufe0f"
+      ],
+      "thread_ts": "2026-07-31T03:35:00Z"
+    },
+    {
+      "channel": "#product",
+      "user": "mark_taylor",
+      "message": "Marketing campaign launch ?   .! ?!.?.!?...!! ",
+      "timestamp": "2026-06-25T16:56:00Z",
+      "reactions": [
+        "\u2764\ufe0f",
+        "\ud83d\udc4d"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#leadership",
+      "user": "lisa_martinez",
+      "message": "New hire announcement . !?? .!!?..  .? !?.",
+      "timestamp": "2026-06-25T16:26:00Z",
+      "reactions": [],
+      "thread_ts": "2026-06-13T22:29:00Z"
+    },
+    {
+      "channel": "#engineering",
+      "user": "alice_johnson",
+      "message": "Design mockups approved ???!?!?. . ?.!?!??.?",
+      "timestamp": "2026-06-25T05:28:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#finance",
+      "user": "john_doe",
+      "message": "Customer X outage update !?  ?! !!??. ?!  !? ",
+      "timestamp": "2026-06-25T01:13:00Z",
+      "reactions": [
+        "\u2705"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#product",
+      "user": "david_kim",
+      "message": "Q3 budget meeting !?!?!!. ..?!!?! ?..?",
+      "timestamp": "2026-06-24T06:00:00Z",
+      "reactions": [],
+      "thread_ts": "2026-07-15T14:33:00Z"
+    },
+    {
+      "channel": "#sales",
+      "user": "john_doe",
+      "message": "PR #128 review   .....? ! ??..? ?!?",
+      "timestamp": "2026-06-24T03:16:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#general",
+      "user": "tom_brown",
+      "message": "Mobile app roadmap !.? !..!??.!?...?! .",
+      "timestamp": "2026-06-24T01:26:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#sales",
+      "user": "mark_taylor",
+      "message": "Security audit results  ?.!!.?.!! !!??    ?",
+      "timestamp": "2026-06-23T20:24:00Z",
+      "reactions": [
+        "\u2764\ufe0f"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#random",
+      "user": "carol_lee",
+      "message": "\ud83d\ude80 HUGE NEWS: Series A closed! ?! ? ?! ?..!?  .? .?",
+      "timestamp": "2026-06-23T02:51:00Z",
+      "reactions": [
+        "\ud83d\udd25",
+        "\u2705",
+        "\ud83d\ude80"
+      ],
+      "thread_ts": "2026-06-05T20:43:00Z"
+    },
+    {
+      "channel": "#random",
+      "user": "mike_rodriguez",
+      "message": "Design mockups approved  !!...  ??!.? !   . ",
+      "timestamp": "2026-06-22T20:14:00Z",
+      "reactions": [
+        "\ud83c\udf89",
+        "\ud83d\udc40"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#random",
+      "user": "david_kim",
+      "message": "Referral program .! ..!..!   .!  . !.",
+      "timestamp": "2026-06-22T17:44:00Z",
+      "reactions": [
+        "\ud83c\udf89",
+        "\u2764\ufe0f"
+      ],
+      "thread_ts": "2026-06-01T00:20:00Z"
+    },
+    {
+      "channel": "#leadership",
+      "user": "john_doe",
+      "message": "Vendor contract ?!!!!!..!!.!. .!.? ?",
+      "timestamp": "2026-06-22T16:38:00Z",
+      "reactions": [],
+      "thread_ts": "2026-06-06T13:33:00Z"
+    },
+    {
+      "channel": "#engineering",
+      "user": "david_kim",
+      "message": "\ud83d\ude80 HUGE NEWS: Series A closed! ! ?.?.?! !!..  ??..?",
+      "timestamp": "2026-06-22T10:56:00Z",
+      "reactions": [
+        "\ud83d\udd34",
+        "\ud83c\udf89",
+        "\ud83d\udc40"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#support",
+      "user": "david_kim",
+      "message": "Salary review !.. ..! .?     . !  ",
+      "timestamp": "2026-06-22T09:31:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#general",
+      "user": "carol_lee",
+      "message": "Sales Q2 review .? !?.!! ?.?? !. .! ",
+      "timestamp": "2026-06-22T09:02:00Z",
+      "reactions": [
+        "\u2705"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#finance",
+      "user": "tom_brown",
+      "message": "Security audit results ! ?.? .?.. ?? !??? !",
+      "timestamp": "2026-06-22T05:51:00Z",
+      "reactions": [
+        "\ud83d\udd34",
+        "\ud83d\udcaa",
+        "\ud83d\udc4d"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#leadership",
+      "user": "tom_brown",
+      "message": "PR #128 review  .?  ?!!  !!.! ! .  ",
+      "timestamp": "2026-06-21T21:23:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#finance",
+      "user": "mark_taylor",
+      "message": "Hiring pipeline ? ??   ! .!? ??.??!?",
+      "timestamp": "2026-06-21T18:45:00Z",
+      "reactions": [
+        "\ud83d\udc40"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#support",
+      "user": "mike_rodriguez",
+      "message": "Security audit results ?.! ?.!?? ??.?.! ? .",
+      "timestamp": "2026-06-21T16:54:00Z",
+      "reactions": [
+        "\ud83d\udd25"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#support",
+      "user": "sarah_chen",
+      "message": "Vendor contract . ..?.!!!??. ...!! ?",
+      "timestamp": "2026-06-21T14:26:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#engineering",
+      "user": "mike_rodriguez",
+      "message": "Sprint planning .??.? .   !? !?!.??.",
+      "timestamp": "2026-06-21T13:17:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#engineering",
+      "user": "mark_taylor",
+      "message": "Marketing campaign launch   !!?  !?? ?  ? !  !",
+      "timestamp": "2026-06-21T13:12:00Z",
+      "reactions": [
+        "\ud83c\udf89",
+        "\ud83d\udd34",
+        "\ud83d\udd25"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#finance",
+      "user": "alice_johnson",
+      "message": "Team lunch tomorrow ?!!.??!? ?!?!.??! .?",
+      "timestamp": "2026-06-21T03:49:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#product",
+      "user": "alice_johnson",
+      "message": "Vendor contract ..? ?. !..?!... .! !",
+      "timestamp": "2026-06-21T01:15:00Z",
+      "reactions": [
+        "\ud83d\udc4d",
+        "\ud83c\udf89"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#engineering",
+      "user": "alice_johnson",
+      "message": "Product demo feedback ! !!?!?! .?.. ??.! .",
+      "timestamp": "2026-06-20T20:24:00Z",
+      "reactions": [],
+      "thread_ts": "2026-07-12T11:35:00Z"
+    },
+    {
+      "channel": "#general",
+      "user": "mike_rodriguez",
+      "message": "Customer Y contract signed .? ..??? !.?!.!?!! .",
+      "timestamp": "2026-06-20T19:08:00Z",
+      "reactions": [
+        "\ud83d\udd25",
+        "\ud83c\udf89"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#finance",
+      "user": "john_doe",
+      "message": "OKR finalization !!. !?! !!!.!.!???? ",
+      "timestamp": "2026-06-20T18:30:00Z",
+      "reactions": [],
+      "thread_ts": "2026-06-21T16:54:00Z"
+    },
+    {
+      "channel": "#engineering",
+      "user": "lisa_martinez",
+      "message": "Customer Y contract signed . ! ..  .??? .!!   .",
+      "timestamp": "2026-06-20T16:03:00Z",
+      "reactions": [
+        "\u2705",
+        "\ud83d\udd25",
+        "\u2764\ufe0f"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#engineering",
+      "user": "alice_johnson",
+      "message": "OKR finalization ...!  ???? . ?.!. .!",
+      "timestamp": "2026-06-20T12:55:00Z",
+      "reactions": [
+        "\u26a0\ufe0f",
+        "\ud83d\udd25",
+        "\ud83d\udc4d"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#sales",
+      "user": "lisa_martinez",
+      "message": "New hire announcement  ? !.? . .!???.!  ?!",
+      "timestamp": "2026-06-20T12:36:00Z",
+      "reactions": [
+        "\ud83d\ude80",
+        "\u2705",
+        "\u2764\ufe0f"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#general",
+      "user": "david_kim",
+      "message": "Security audit results !?!. ! .. ?. ?.!. ??",
+      "timestamp": "2026-06-20T02:16:00Z",
+      "reactions": [
+        "\ud83d\ude80",
+        "\ud83d\udcaa"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#leadership",
+      "user": "tom_brown",
+      "message": "Security audit results ..?!?...!! ? . ?!.! ",
+      "timestamp": "2026-06-20T02:12:00Z",
+      "reactions": [
+        "\ud83c\udf89",
+        "\ud83d\ude80"
+      ],
+      "thread_ts": "2026-06-18T05:20:00Z"
+    },
+    {
+      "channel": "#engineering",
+      "user": "john_doe",
+      "message": "Design mockups approved .?..!?  !!  ?!.!?!.?",
+      "timestamp": "2026-06-20T00:50:00Z",
+      "reactions": [
+        "\u2764\ufe0f",
+        "\ud83d\ude80"
+      ],
+      "thread_ts": "2026-06-14T17:15:00Z"
+    },
+    {
+      "channel": "#general",
+      "user": "carol_lee",
+      "message": "API gateway update ?.!!. .. !?!!.!??? !",
+      "timestamp": "2026-06-19T19:43:00Z",
+      "reactions": [
+        "\ud83d\udd34",
+        "\ud83c\udf89",
+        "\ud83d\ude80"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#leadership",
+      "user": "carol_lee",
+      "message": "Vendor contract .. ?!!  . ..!.?!...?",
+      "timestamp": "2026-06-19T12:40:00Z",
+      "reactions": [
+        "\ud83d\udc4d"
+      ],
+      "thread_ts": "2026-07-29T19:10:00Z"
+    },
+    {
+      "channel": "#sales",
+      "user": "carol_lee",
+      "message": "Office renovation . . ?.!?   ..??!.!.?",
+      "timestamp": "2026-06-19T09:27:00Z",
+      "reactions": [
+        "\ud83d\ude80",
+        "\ud83d\udd34",
+        "\ud83d\udd25"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#engineering",
+      "user": "david_kim",
+      "message": "\ud83d\ude80 HUGE NEWS: Series A closed! !!!  .?! ! ! ? .!.?!",
+      "timestamp": "2026-06-19T04:00:00Z",
+      "reactions": [
+        "\ud83d\udc40"
+      ],
+      "thread_ts": "2026-06-29T13:10:00Z"
+    },
+    {
+      "channel": "#leadership",
+      "user": "tom_brown",
+      "message": "Security audit results ??.!.. ?!..??? ...?!",
+      "timestamp": "2026-06-18T23:36:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#general",
+      "user": "tom_brown",
+      "message": "API gateway update ? ?! ? ?.! !!!?!!!!!",
+      "timestamp": "2026-06-18T22:50:00Z",
+      "reactions": [
+        "\u2764\ufe0f",
+        "\u2705",
+        "\u26a0\ufe0f"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#sales",
+      "user": "mike_rodriguez",
+      "message": "New hire announcement  !.! ?!.?.? .!!??? ?",
+      "timestamp": "2026-06-18T21:35:00Z",
+      "reactions": [
+        "\ud83c\udf89",
+        "\u2764\ufe0f",
+        "\ud83d\udd34"
+      ],
+      "thread_ts": "2026-07-29T02:48:00Z"
+    },
+    {
+      "channel": "#support",
+      "user": "emma_wilson",
+      "message": "PR #128 review .!?!??  .!! . ? ??..",
+      "timestamp": "2026-06-18T14:12:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#support",
+      "user": "alice_johnson",
+      "message": "API gateway update ????      ! !.?!.?.?",
+      "timestamp": "2026-06-18T13:09:00Z",
+      "reactions": [
+        "\u26a0\ufe0f"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#sales",
+      "user": "sarah_chen",
+      "message": "PR #128 review .!   ?!??? . !..! ?!",
+      "timestamp": "2026-06-18T06:54:00Z",
+      "reactions": [
+        "\ud83d\ude80"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#finance",
+      "user": "mike_rodriguez",
+      "message": "Product demo feedback ..??! .!!.. ? ! ? .!",
+      "timestamp": "2026-06-18T05:20:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#general",
+      "user": "john_doe",
+      "message": "Cloud infra costs .  ? .? ?.?! !??!!!.",
+      "timestamp": "2026-06-17T21:40:00Z",
+      "reactions": [
+        "\u26a0\ufe0f",
+        "\ud83d\udc40"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#finance",
+      "user": "emma_wilson",
+      "message": "Team lunch tomorrow ? . ..  .?!.?!!?!.  ",
+      "timestamp": "2026-06-17T19:51:00Z",
+      "reactions": [],
+      "thread_ts": "2026-07-12T23:00:00Z"
+    },
+    {
+      "channel": "#finance",
+      "user": "john_doe",
+      "message": "Design mockups approved  .??! ?.?!?..?!.??!?",
+      "timestamp": "2026-06-17T19:34:00Z",
+      "reactions": [],
+      "thread_ts": "2026-06-01T23:12:00Z"
+    },
+    {
+      "channel": "#general",
+      "user": "david_kim",
+      "message": "New hire announcement !?.!!??.. !..!?!!! .",
+      "timestamp": "2026-06-17T19:07:00Z",
+      "reactions": [
+        "\u2764\ufe0f",
+        "\ud83d\udd25",
+        "\u26a0\ufe0f"
+      ],
+      "thread_ts": "2026-06-09T15:53:00Z"
+    },
+    {
+      "channel": "#product",
+      "user": "mark_taylor",
+      "message": "Hiring pipeline ..? ?  ?  .?!? ...? ",
+      "timestamp": "2026-06-17T11:01:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#product",
+      "user": "carol_lee",
+      "message": "Mobile app roadmap !.  !  !?!???! ..!? ",
+      "timestamp": "2026-06-17T03:39:00Z",
+      "reactions": [
+        "\ud83d\udcaa"
+      ],
+      "thread_ts": "2026-06-23T20:24:00Z"
+    },
+    {
+      "channel": "#sales",
+      "user": "mike_rodriguez",
+      "message": "OKR finalization !!  . ?? ?? ? .!!.??",
+      "timestamp": "2026-06-17T01:07:00Z",
+      "reactions": [
+        "\ud83d\udc4d",
+        "\ud83d\ude80",
+        "\ud83d\udd25"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#general",
+      "user": "emma_wilson",
+      "message": "Investor call summary .??....??.  .!!.  ..",
+      "timestamp": "2026-06-16T21:50:00Z",
+      "reactions": [
+        "\u26a0\ufe0f"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#product",
+      "user": "alice_johnson",
+      "message": "OKR finalization !!?? .?.  ??.!... ! ",
+      "timestamp": "2026-06-16T20:25:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#finance",
+      "user": "tom_brown",
+      "message": "Security audit results !!!.? ? ..!  .?!.  ?",
+      "timestamp": "2026-06-16T10:42:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#leadership",
+      "user": "emma_wilson",
+      "message": "Support ticket backlog  ? . !?. ? ?. . ..?!",
+      "timestamp": "2026-06-16T08:33:00Z",
+      "reactions": [
+        "\ud83d\udc40",
+        "\u2764\ufe0f"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#random",
+      "user": "alice_johnson",
+      "message": "API gateway update ?...!??!?. !.????..?",
+      "timestamp": "2026-06-16T05:13:00Z",
+      "reactions": [
+        "\u2764\ufe0f",
+        "\ud83c\udf89"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#finance",
+      "user": "alice_johnson",
+      "message": "Salary review .! .!???!   ! !? !.!",
+      "timestamp": "2026-06-16T05:05:00Z",
+      "reactions": [],
+      "thread_ts": "2026-06-09T13:09:00Z"
+    },
+    {
+      "channel": "#general",
+      "user": "john_doe",
+      "message": "Customer Y contract signed ?  !!!.  ?  .  ??  ?",
+      "timestamp": "2026-06-15T22:39:00Z",
+      "reactions": [
+        "\ud83d\udcaa",
+        "\ud83c\udf89",
+        "\ud83d\udd34"
+      ],
+      "thread_ts": "2026-07-14T13:04:00Z"
+    },
+    {
+      "channel": "#engineering",
+      "user": "alice_johnson",
+      "message": "Customer Y contract signed ..?.  .!!..!.!?.! ?!",
+      "timestamp": "2026-06-15T22:34:00Z",
+      "reactions": [
+        "\u2764\ufe0f"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#engineering",
+      "user": "alice_johnson",
+      "message": "Office renovation  ???.!?! . !?. !? !?",
+      "timestamp": "2026-06-15T20:40:00Z",
+      "reactions": [
+        "\ud83d\ude80",
+        "\ud83c\udf89",
+        "\u2764\ufe0f"
+      ],
+      "thread_ts": "2026-07-05T14:58:00Z"
+    },
+    {
+      "channel": "#sales",
+      "user": "mike_rodriguez",
+      "message": "Database migration ????.!  .?.!? !!?   ",
+      "timestamp": "2026-06-15T02:48:00Z",
+      "reactions": [
+        "\ud83d\udcaa",
+        "\u26a0\ufe0f"
+      ],
+      "thread_ts": "2026-06-22T17:44:00Z"
+    },
+    {
+      "channel": "#finance",
+      "user": "sarah_chen",
+      "message": "Mobile app roadmap ? ! ?!? !? ..! ?..!.",
+      "timestamp": "2026-06-14T19:20:00Z",
+      "reactions": [],
+      "thread_ts": "2026-06-16T05:13:00Z"
+    },
+    {
+      "channel": "#leadership",
+      "user": "tom_brown",
+      "message": "Design mockups approved . .?! ..!. !??!!! ! ",
+      "timestamp": "2026-06-14T18:39:00Z",
+      "reactions": [
+        "\u2705",
+        "\ud83d\udd25"
+      ],
+      "thread_ts": "2026-07-01T00:23:00Z"
+    },
+    {
+      "channel": "#random",
+      "user": "emma_wilson",
+      "message": "Investor call summary  ..?...??.!. . .! ?!",
+      "timestamp": "2026-06-14T17:34:00Z",
+      "reactions": [],
+      "thread_ts": "2026-06-30T10:29:00Z"
+    },
+    {
+      "channel": "#finance",
+      "user": "mike_rodriguez",
+      "message": "Database migration  ..????!  ? !. ?!!?.",
+      "timestamp": "2026-06-14T17:15:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#general",
+      "user": "david_kim",
+      "message": "Compliance check .!!.??!!! .?  !?.!. ",
+      "timestamp": "2026-06-14T07:22:00Z",
+      "reactions": [
+        "\ud83d\udc40",
+        "\ud83d\udd34",
+        "\u26a0\ufe0f"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#finance",
+      "user": "mike_rodriguez",
+      "message": "Design mockups approved .??.? ?.?!.?!!?? ?.?",
+      "timestamp": "2026-06-14T02:35:00Z",
+      "reactions": [
+        "\ud83d\udd34",
+        "\ud83d\udc40",
+        "\ud83d\udd25"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#sales",
+      "user": "sarah_chen",
+      "message": "Office renovation ??.!.?  !.!!..??. !.",
+      "timestamp": "2026-06-13T22:29:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#engineering",
+      "user": "alice_johnson",
+      "message": "Product demo feedback . ?.??.. !!...  .!  ",
+      "timestamp": "2026-06-13T17:55:00Z",
+      "reactions": [
+        "\ud83c\udf89",
+        "\ud83d\ude80"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#sales",
+      "user": "mike_rodriguez",
+      "message": "\ud83d\ude80 HUGE NEWS: Series A closed! ?!  .!!?.!.!?    ? ?",
+      "timestamp": "2026-06-13T15:10:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#engineering",
+      "user": "lisa_martinez",
+      "message": "Vendor contract ! ? .?   !?  ?!? .? ",
+      "timestamp": "2026-06-13T11:37:00Z",
+      "reactions": [
+        "\ud83c\udf89",
+        "\ud83d\udd34",
+        "\u2764\ufe0f"
+      ],
+      "thread_ts": "2026-06-08T17:13:00Z"
+    },
+    {
+      "channel": "#finance",
+      "user": "lisa_martinez",
+      "message": "OKR finalization   ?.!..!??.  .?? !!!",
+      "timestamp": "2026-06-13T08:44:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#general",
+      "user": "sarah_chen",
+      "message": "Referral program ??..  . .. ??..!.!.!",
+      "timestamp": "2026-06-13T07:29:00Z",
+      "reactions": [
+        "\ud83d\udc40",
+        "\ud83c\udf89"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#leadership",
+      "user": "john_doe",
+      "message": "Security audit results  ?   !.??  ! ?. ?!.?",
+      "timestamp": "2026-06-13T01:52:00Z",
+      "reactions": [
+        "\u26a0\ufe0f"
+      ],
+      "thread_ts": "2026-07-18T23:36:00Z"
+    },
+    {
+      "channel": "#support",
+      "user": "john_doe",
+      "message": "Team lunch tomorrow ?!  !.?. ? !!..!!! .",
+      "timestamp": "2026-06-12T14:09:00Z",
+      "reactions": [
+        "\ud83d\udc4d",
+        "\ud83d\udcaa",
+        "\u2764\ufe0f"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#leadership",
+      "user": "mark_taylor",
+      "message": "Security audit results !.....?!?.?  ? !?.?!",
+      "timestamp": "2026-06-12T09:54:00Z",
+      "reactions": [
+        "\ud83c\udf89",
+        "\ud83d\udd34"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#support",
+      "user": "mark_taylor",
+      "message": "\ud83d\ude80 HUGE NEWS: Series A closed! ? !!?? !!?. ..!.  .?",
+      "timestamp": "2026-06-12T06:58:00Z",
+      "reactions": [
+        "\ud83d\udd25",
+        "\u2764\ufe0f"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#general",
+      "user": "carol_lee",
+      "message": "Team lunch tomorrow ?  !!...?.? ?.??!?? ",
+      "timestamp": "2026-06-11T23:24:00Z",
+      "reactions": [
+        "\ud83d\ude80",
+        "\u2705"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#random",
+      "user": "john_doe",
+      "message": "Referral program ?  !? ... !...??.??!",
+      "timestamp": "2026-06-11T14:42:00Z",
+      "reactions": [
+        "\u26a0\ufe0f",
+        "\u2764\ufe0f",
+        "\u2705"
+      ],
+      "thread_ts": "2026-06-01T13:39:00Z"
+    },
+    {
+      "channel": "#leadership",
+      "user": "mike_rodriguez",
+      "message": "Marketing campaign launch !.. ! !!.? .?!. !?? ",
+      "timestamp": "2026-06-11T07:46:00Z",
+      "reactions": [
+        "\ud83d\udd25",
+        "\ud83d\udc4d"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#support",
+      "user": "sarah_chen",
+      "message": "Investor call summary ?! !?!!.? !!??!!? ! ",
+      "timestamp": "2026-06-10T23:01:00Z",
+      "reactions": [
+        "\ud83d\udd25",
+        "\u2764\ufe0f",
+        "\ud83d\ude80"
+      ],
+      "thread_ts": "2026-06-07T19:19:00Z"
+    },
+    {
+      "channel": "#engineering",
+      "user": "lisa_martinez",
+      "message": "Team lunch tomorrow  .?.? !?.?.!?!. !!?.",
+      "timestamp": "2026-06-10T22:50:00Z",
+      "reactions": [
+        "\u26a0\ufe0f"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#finance",
+      "user": "tom_brown",
+      "message": "Office renovation ???...!!?!???!?.????",
+      "timestamp": "2026-06-10T21:46:00Z",
+      "reactions": [
+        "\ud83d\udcaa"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#finance",
+      "user": "david_kim",
+      "message": "Compliance check !!. ! !?!.    !!!!!!",
+      "timestamp": "2026-06-10T17:35:00Z",
+      "reactions": [
+        "\ud83d\udd25",
+        "\u2705",
+        "\ud83c\udf89"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#general",
+      "user": "mark_taylor",
+      "message": "Product demo feedback  .!?? ?. !!.!?  !  ?",
+      "timestamp": "2026-06-10T15:07:00Z",
+      "reactions": [],
+      "thread_ts": "2026-06-21T14:26:00Z"
+    },
+    {
+      "channel": "#general",
+      "user": "david_kim",
+      "message": "Team lunch tomorrow ? !????! ?.??  ??. !",
+      "timestamp": "2026-06-10T12:51:00Z",
+      "reactions": [
+        "\u2705"
+      ],
+      "thread_ts": "2026-06-14T07:22:00Z"
+    },
+    {
+      "channel": "#product",
+      "user": "carol_lee",
+      "message": "Hiring pipeline ? ?.!!.!  ??.. ? . .",
+      "timestamp": "2026-06-10T11:40:00Z",
+      "reactions": [
+        "\ud83d\udd25",
+        "\ud83d\ude80",
+        "\u26a0\ufe0f"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#leadership",
+      "user": "david_kim",
+      "message": "Security audit results  ! .? ? !.!..!!...?.",
+      "timestamp": "2026-06-10T09:12:00Z",
+      "reactions": [
+        "\ud83c\udf89",
+        "\ud83d\udd25",
+        "\u26a0\ufe0f"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#sales",
+      "user": "lisa_martinez",
+      "message": "Product demo feedback .! !! ?  ..!. !  ?.?",
+      "timestamp": "2026-06-10T07:34:00Z",
+      "reactions": [
+        "\u26a0\ufe0f",
+        "\ud83d\ude80"
+      ],
+      "thread_ts": "2026-08-03T19:30:00Z"
+    },
+    {
+      "channel": "#general",
+      "user": "sarah_chen",
+      "message": "Referral program  !!  .?.   ?. !! ?!.",
+      "timestamp": "2026-06-10T07:16:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#sales",
+      "user": "lisa_martinez",
+      "message": "Customer X outage update ???!.! ! .?????? . .",
+      "timestamp": "2026-06-10T05:49:00Z",
+      "reactions": [],
+      "thread_ts": "2026-06-02T15:14:00Z"
+    },
+    {
+      "channel": "#engineering",
+      "user": "lisa_martinez",
+      "message": "Sprint planning ..!. ??.?! ? !. .!. ",
+      "timestamp": "2026-06-09T22:56:00Z",
+      "reactions": [],
+      "thread_ts": "2026-06-22T20:14:00Z"
+    },
+    {
+      "channel": "#random",
+      "user": "sarah_chen",
+      "message": "Referral program ?!!.!..!?. .??.?  .?",
+      "timestamp": "2026-06-09T22:45:00Z",
+      "reactions": [
+        "\u2764\ufe0f",
+        "\ud83d\udc40"
+      ],
+      "thread_ts": "2026-06-10T07:16:00Z"
+    },
+    {
+      "channel": "#product",
+      "user": "emma_wilson",
+      "message": "Security audit results ? !.????? !?? !!! ?.",
+      "timestamp": "2026-06-09T16:19:00Z",
+      "reactions": [
+        "\ud83c\udf89",
+        "\ud83d\ude80",
+        "\ud83d\udc4d"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#finance",
+      "user": "lisa_martinez",
+      "message": "Sprint planning   ??!..!? . ?.?!?...",
+      "timestamp": "2026-06-09T15:53:00Z",
+      "reactions": [
+        "\ud83d\ude80",
+        "\ud83d\udc4d",
+        "\u26a0\ufe0f"
+      ],
+      "thread_ts": "2026-06-20T19:08:00Z"
+    },
+    {
+      "channel": "#leadership",
+      "user": "mark_taylor",
+      "message": "Vendor contract .?..  ..? !? ?.! ..?",
+      "timestamp": "2026-06-09T15:25:00Z",
+      "reactions": [
+        "\ud83d\ude80",
+        "\u2705",
+        "\u2764\ufe0f"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#general",
+      "user": "sarah_chen",
+      "message": "Customer Y contract signed ...   ???? ??? . !. ",
+      "timestamp": "2026-06-09T13:09:00Z",
+      "reactions": [
+        "\u2705"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#general",
+      "user": "john_doe",
+      "message": "Security audit results !? ?? !? . !.?. !..?",
+      "timestamp": "2026-06-09T13:08:00Z",
+      "reactions": [
+        "\u2764\ufe0f",
+        "\ud83d\ude80",
+        "\ud83d\udcaa"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#support",
+      "user": "emma_wilson",
+      "message": "New hire announcement ? ! !  ???  .. ! .!.",
+      "timestamp": "2026-06-09T10:37:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#sales",
+      "user": "david_kim",
+      "message": "Design mockups approved ? !.?!!?!?!.!!?. ..!",
+      "timestamp": "2026-06-09T04:53:00Z",
+      "reactions": [
+        "\u26a0\ufe0f",
+        "\ud83d\udc40"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#random",
+      "user": "sarah_chen",
+      "message": "Customer X outage update   ?!.?...?.!?. ....?",
+      "timestamp": "2026-06-08T21:52:00Z",
+      "reactions": [
+        "\u2705",
+        "\u26a0\ufe0f",
+        "\ud83d\ude80"
+      ],
+      "thread_ts": "2026-06-13T08:44:00Z"
+    },
+    {
+      "channel": "#random",
+      "user": "david_kim",
+      "message": "New hire announcement .?  ?  !! .! ! .??  ",
+      "timestamp": "2026-06-08T17:54:00Z",
+      "reactions": [],
+      "thread_ts": "2026-06-06T12:20:00Z"
+    },
+    {
+      "channel": "#finance",
+      "user": "tom_brown",
+      "message": "PR #128 review !? .?  ! !! ?.   .! ",
+      "timestamp": "2026-06-08T17:13:00Z",
+      "reactions": [
+        "\ud83d\udd34",
+        "\ud83d\udc4d"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#engineering",
+      "user": "carol_lee",
+      "message": "Referral program !.!?!!.? . ..!?  !! ",
+      "timestamp": "2026-06-08T08:58:00Z",
+      "reactions": [
+        "\u2705",
+        "\ud83c\udf89",
+        "\u26a0\ufe0f"
+      ],
+      "thread_ts": "2026-07-10T16:49:00Z"
+    },
+    {
+      "channel": "#leadership",
+      "user": "lisa_martinez",
+      "message": "Office renovation   !  !??.?!. ? .. ! ",
+      "timestamp": "2026-06-08T07:57:00Z",
+      "reactions": [],
+      "thread_ts": "2026-06-10T17:35:00Z"
+    },
+    {
+      "channel": "#finance",
+      "user": "alice_johnson",
+      "message": "Database migration   !???!  ?!.  !??!? ",
+      "timestamp": "2026-06-08T05:11:00Z",
+      "reactions": [
+        "\u2705",
+        "\ud83d\udc40"
+      ],
+      "thread_ts": "2026-07-27T14:58:00Z"
+    },
+    {
+      "channel": "#sales",
+      "user": "emma_wilson",
+      "message": "Marketing campaign launch ?  ?.?? !.!??? !?! !",
+      "timestamp": "2026-06-08T02:13:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#engineering",
+      "user": "john_doe",
+      "message": "Product demo feedback ..?.!!.!..? .!!!?  .",
+      "timestamp": "2026-06-07T19:19:00Z",
+      "reactions": [
+        "\ud83c\udf89",
+        "\ud83d\udd25",
+        "\u26a0\ufe0f"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#finance",
+      "user": "sarah_chen",
+      "message": "Office renovation ! .. !. .!.??. ??.?!",
+      "timestamp": "2026-06-07T15:55:00Z",
+      "reactions": [
+        "\ud83d\udcaa"
+      ],
+      "thread_ts": "2026-06-02T08:59:00Z"
+    },
+    {
+      "channel": "#finance",
+      "user": "mark_taylor",
+      "message": "Sales Q2 review ?.!  .   !?.!!! .!??",
+      "timestamp": "2026-06-07T05:10:00Z",
+      "reactions": [],
+      "thread_ts": "2026-06-08T17:54:00Z"
+    },
+    {
+      "channel": "#product",
+      "user": "john_doe",
+      "message": "Security audit results .! .!! !!?!.... !?.?",
+      "timestamp": "2026-06-07T04:04:00Z",
+      "reactions": [
+        "\ud83c\udf89"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#sales",
+      "user": "carol_lee",
+      "message": "Server maintenance ?? ?? !.?.?!!...  ! ",
+      "timestamp": "2026-06-06T21:15:00Z",
+      "reactions": [
+        "\ud83d\ude80",
+        "\u2764\ufe0f",
+        "\ud83d\udd34"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#support",
+      "user": "sarah_chen",
+      "message": "Salary review ..! ?   ?! ? !? ?.?!",
+      "timestamp": "2026-06-06T19:17:00Z",
+      "reactions": [
+        "\ud83d\udd25",
+        "\ud83d\udcaa"
+      ],
+      "thread_ts": "2026-07-05T12:44:00Z"
+    },
+    {
+      "channel": "#sales",
+      "user": "david_kim",
+      "message": "Hiring pipeline ????! ?? .!!!! ! !. ",
+      "timestamp": "2026-06-06T14:36:00Z",
+      "reactions": [],
+      "thread_ts": "2026-06-05T22:43:00Z"
+    },
+    {
+      "channel": "#leadership",
+      "user": "emma_wilson",
+      "message": "\ud83d\ude80 HUGE NEWS: Series A closed!  ?...!.  ! ?!.   !!.",
+      "timestamp": "2026-06-06T13:33:00Z",
+      "reactions": [
+        "\ud83c\udf89",
+        "\u26a0\ufe0f",
+        "\u2764\ufe0f"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#engineering",
+      "user": "sarah_chen",
+      "message": "Office renovation .?.?..?.!?. .?.!?   ",
+      "timestamp": "2026-06-06T12:20:00Z",
+      "reactions": [
+        "\ud83d\udc4d",
+        "\ud83d\udd25"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#support",
+      "user": "sarah_chen",
+      "message": "Office renovation !. ??? ?.. .!.? .!. ",
+      "timestamp": "2026-06-06T12:08:00Z",
+      "reactions": [],
+      "thread_ts": "2026-07-03T21:43:00Z"
+    },
+    {
+      "channel": "#support",
+      "user": "tom_brown",
+      "message": "Marketing campaign launch !.!.??!??..?.?! !?!.",
+      "timestamp": "2026-06-06T11:41:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#leadership",
+      "user": "mike_rodriguez",
+      "message": "Security audit results ?!?  !!!. .. ! !!?. ",
+      "timestamp": "2026-06-06T03:44:00Z",
+      "reactions": [
+        "\u26a0\ufe0f",
+        "\u2705",
+        "\u2764\ufe0f"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#engineering",
+      "user": "david_kim",
+      "message": "Vendor contract ?.?  ! !.!?.?!?! ..!",
+      "timestamp": "2026-06-06T02:39:00Z",
+      "reactions": [
+        "\u2764\ufe0f",
+        "\ud83d\udd34",
+        "\ud83d\udc4d"
+      ],
+      "thread_ts": "2026-07-07T11:15:00Z"
+    },
+    {
+      "channel": "#engineering",
+      "user": "alice_johnson",
+      "message": "Marketing campaign launch ..  ?!.!!! !!!!. .!?",
+      "timestamp": "2026-06-05T23:18:00Z",
+      "reactions": [
+        "\ud83d\udc4d",
+        "\u26a0\ufe0f",
+        "\ud83d\udc40"
+      ],
+      "thread_ts": "2026-06-13T01:52:00Z"
+    },
+    {
+      "channel": "#engineering",
+      "user": "mike_rodriguez",
+      "message": "Design mockups approved ?..  ? !??.!.....??!",
+      "timestamp": "2026-06-05T22:43:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#engineering",
+      "user": "tom_brown",
+      "message": "PR #128 review !!!?? .!!.!!!?! .!!!",
+      "timestamp": "2026-06-05T20:43:00Z",
+      "reactions": [
+        "\ud83d\udcaa",
+        "\ud83d\ude80"
+      ],
+      "thread_ts": "2026-08-02T23:51:00Z"
+    },
+    {
+      "channel": "#general",
+      "user": "mike_rodriguez",
+      "message": "New hire announcement ?!....?    ! ?!.!! .",
+      "timestamp": "2026-06-05T15:44:00Z",
+      "reactions": [
+        "\ud83d\udc4d"
+      ],
+      "thread_ts": "2026-07-05T09:43:00Z"
+    },
+    {
+      "channel": "#sales",
+      "user": "mike_rodriguez",
+      "message": "Vendor contract ?. !. . !.!?..  ..?!",
+      "timestamp": "2026-06-05T12:26:00Z",
+      "reactions": [
+        "\ud83d\udc4d",
+        "\u2764\ufe0f",
+        "\u26a0\ufe0f"
+      ],
+      "thread_ts": "2026-06-05T15:44:00Z"
+    },
+    {
+      "channel": "#leadership",
+      "user": "david_kim",
+      "message": "Security audit results  .!  !.. !. .!.?! ?.",
+      "timestamp": "2026-06-05T10:17:00Z",
+      "reactions": [
+        "\u2705",
+        "\ud83d\udcaa"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#leadership",
+      "user": "tom_brown",
+      "message": "\ud83d\ude80 HUGE NEWS: Series A closed! !?! . ? . !!? ? .?!!",
+      "timestamp": "2026-06-05T07:27:00Z",
+      "reactions": [],
+      "thread_ts": "2026-06-26T11:52:00Z"
+    },
+    {
+      "channel": "#product",
+      "user": "mark_taylor",
+      "message": "PR #128 review ?.?  ....!! ?!!!??.!",
+      "timestamp": "2026-06-05T04:14:00Z",
+      "reactions": [],
+      "thread_ts": "2026-06-28T18:02:00Z"
+    },
+    {
+      "channel": "#product",
+      "user": "mike_rodriguez",
+      "message": "Referral program ??!!?!. ! .. ?. ?. !",
+      "timestamp": "2026-06-05T03:02:00Z",
+      "reactions": [
+        "\ud83d\udd25"
+      ],
+      "thread_ts": "2026-07-07T15:51:00Z"
+    },
+    {
+      "channel": "#random",
+      "user": "lisa_martinez",
+      "message": "Office renovation  !?!...! ??! ..? ?!!",
+      "timestamp": "2026-06-04T22:46:00Z",
+      "reactions": [
+        "\u2764\ufe0f",
+        "\ud83d\udcaa",
+        "\ud83d\udd25"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#support",
+      "user": "alice_johnson",
+      "message": "Security audit results    .. ! . ?! !?!.!?.",
+      "timestamp": "2026-06-04T18:05:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#engineering",
+      "user": "mark_taylor",
+      "message": "Support ticket backlog !???.!.!??. . .?.?.?",
+      "timestamp": "2026-06-04T17:54:00Z",
+      "reactions": [
+        "\ud83d\udd34",
+        "\ud83c\udf89"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#engineering",
+      "user": "sarah_chen",
+      "message": "Vendor contract  . ..!  ?.?  . .  ! ",
+      "timestamp": "2026-06-04T15:10:00Z",
+      "reactions": [
+        "\u26a0\ufe0f"
+      ],
+      "thread_ts": "2026-06-09T04:53:00Z"
+    },
+    {
+      "channel": "#support",
+      "user": "carol_lee",
+      "message": "\ud83d\ude80 HUGE NEWS: Series A closed! ?.?!??!!   !  ..?.. ",
+      "timestamp": "2026-06-04T10:29:00Z",
+      "reactions": [
+        "\ud83c\udf89",
+        "\ud83d\udc40",
+        "\u2705"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#engineering",
+      "user": "carol_lee",
+      "message": "Product demo feedback ? .!.. .. !.  . ?..?",
+      "timestamp": "2026-06-04T06:15:00Z",
+      "reactions": [
+        "\ud83d\udd34"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#random",
+      "user": "sarah_chen",
+      "message": "Database migration   !!..?!.?!!!! !?? .",
+      "timestamp": "2026-06-04T01:55:00Z",
+      "reactions": [
+        "\ud83d\udcaa",
+        "\ud83d\udc4d",
+        "\u26a0\ufe0f"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#product",
+      "user": "tom_brown",
+      "message": "Compliance check .?!?! . !! .! .?!! .",
+      "timestamp": "2026-06-04T01:53:00Z",
+      "reactions": [
+        "\ud83d\udc40",
+        "\u2705"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#product",
+      "user": "mike_rodriguez",
+      "message": "API gateway update ?.?! ?! ?.  !  ?! !?",
+      "timestamp": "2026-06-03T23:21:00Z",
+      "reactions": [
+        "\u2705",
+        "\ud83d\udc4d",
+        "\u2764\ufe0f"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#general",
+      "user": "mike_rodriguez",
+      "message": "Referral program ? !  !!!? ..   ? ?.?",
+      "timestamp": "2026-06-03T08:04:00Z",
+      "reactions": [
+        "\ud83d\udd25",
+        "\ud83d\udd34",
+        "\ud83d\ude80"
+      ],
+      "thread_ts": "2026-08-03T19:03:00Z"
+    },
+    {
+      "channel": "#random",
+      "user": "lisa_martinez",
+      "message": "Sales Q2 review ??  ? ?. !....??.! .",
+      "timestamp": "2026-06-03T03:25:00Z",
+      "reactions": [
+        "\ud83d\udcaa"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#sales",
+      "user": "mark_taylor",
+      "message": "Vendor contract !. .?   !!!???!!?! !",
+      "timestamp": "2026-06-03T02:45:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#general",
+      "user": "sarah_chen",
+      "message": "Hiring pipeline ?. ! !?.? !?!! ?!.  ",
+      "timestamp": "2026-06-02T22:27:00Z",
+      "reactions": [
+        "\ud83d\udcaa",
+        "\ud83d\udd25"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#engineering",
+      "user": "carol_lee",
+      "message": "Security audit results .!?..!?.!?! ?!  !. .",
+      "timestamp": "2026-06-02T20:22:00Z",
+      "reactions": [
+        "\ud83d\udc4d"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#general",
+      "user": "emma_wilson",
+      "message": "New hire announcement ! ?.! ?.?.?  !?. . ?",
+      "timestamp": "2026-06-02T20:01:00Z",
+      "reactions": [
+        "\ud83d\udd34",
+        "\ud83d\udcaa"
+      ],
+      "thread_ts": "2026-06-01T21:12:00Z"
+    },
+    {
+      "channel": "#product",
+      "user": "mark_taylor",
+      "message": "Compliance check ?.?.! .  !...! .. .!",
+      "timestamp": "2026-06-02T19:52:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#leadership",
+      "user": "carol_lee",
+      "message": "New hire announcement .!!.!?!  !?? !!! ?? ",
+      "timestamp": "2026-06-02T15:33:00Z",
+      "reactions": [
+        "\ud83d\ude80"
+      ],
+      "thread_ts": "2026-06-27T10:07:00Z"
+    },
+    {
+      "channel": "#finance",
+      "user": "lisa_martinez",
+      "message": "Database migration  ! .???? !. !.. ?!.?",
+      "timestamp": "2026-06-02T15:14:00Z",
+      "reactions": [],
+      "thread_ts": "2026-07-10T05:00:00Z"
+    },
+    {
+      "channel": "#sales",
+      "user": "john_doe",
+      "message": "Design mockups approved .?..? !?!.!!.!.!??? ",
+      "timestamp": "2026-06-02T14:18:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#random",
+      "user": "mike_rodriguez",
+      "message": "Sprint planning .? !! .?.?!.?? !?. ?",
+      "timestamp": "2026-06-02T11:50:00Z",
+      "reactions": [
+        "\u2705",
+        "\ud83d\udd25"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#sales",
+      "user": "mike_rodriguez",
+      "message": "Support ticket backlog ..!.!.  ? ..?? ??!  ",
+      "timestamp": "2026-06-02T08:59:00Z",
+      "reactions": [
+        "\ud83d\ude80",
+        "\u26a0\ufe0f",
+        "\ud83d\udc40"
+      ],
+      "thread_ts": "2026-07-04T14:00:00Z"
+    },
+    {
+      "channel": "#support",
+      "user": "mark_taylor",
+      "message": "Product demo feedback !. ?.. ?. .?! .! .?.",
+      "timestamp": "2026-06-02T05:09:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#engineering",
+      "user": "john_doe",
+      "message": "Cloud infra costs !.!   ?! !!?!.!.!.  ",
+      "timestamp": "2026-06-01T23:12:00Z",
+      "reactions": [
+        "\ud83d\udc40"
+      ],
+      "thread_ts": "2026-06-02T15:33:00Z"
+    },
+    {
+      "channel": "#support",
+      "user": "alice_johnson",
+      "message": "Investor call summary ? .?.!!. .. !??.?!?!",
+      "timestamp": "2026-06-01T21:31:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#general",
+      "user": "lisa_martinez",
+      "message": "Office renovation ?! .  .?.?.?? ! !? ?",
+      "timestamp": "2026-06-01T21:12:00Z",
+      "reactions": [
+        "\ud83d\udc4d",
+        "\ud83d\udd34"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#random",
+      "user": "lisa_martinez",
+      "message": "Cloud infra costs  ! ..!..? !. .. !.!!",
+      "timestamp": "2026-06-01T20:53:00Z",
+      "reactions": [
+        "\ud83d\udc40"
+      ],
+      "thread_ts": "2026-06-30T13:24:00Z"
+    },
+    {
+      "channel": "#engineering",
+      "user": "carol_lee",
+      "message": "Support ticket backlog ? ? ?!!!? .. ?!? !?.",
+      "timestamp": "2026-06-01T18:09:00Z",
+      "reactions": [
+        "\ud83d\udd34",
+        "\u26a0\ufe0f",
+        "\ud83d\udc40"
+      ],
+      "thread_ts": "2026-06-27T12:35:00Z"
+    },
+    {
+      "channel": "#finance",
+      "user": "mike_rodriguez",
+      "message": "Server maintenance ?!!   ! .? ?!??.!. .",
+      "timestamp": "2026-06-01T17:18:00Z",
+      "reactions": [
+        "\u2764\ufe0f"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#random",
+      "user": "tom_brown",
+      "message": "Vendor contract ? ?.!! .!!!? .??.?!.",
+      "timestamp": "2026-06-01T13:39:00Z",
+      "reactions": [
+        "\ud83c\udf89",
+        "\ud83d\udd34",
+        "\ud83d\udcaa"
+      ],
+      "thread_ts": "2026-06-10T07:34:00Z"
+    },
+    {
+      "channel": "#finance",
+      "user": "alice_johnson",
+      "message": "Office renovation ? ?..?!.  !.. ??????",
+      "timestamp": "2026-06-01T11:16:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#product",
+      "user": "sarah_chen",
+      "message": "Security audit results !.?!! .!.??? !?!?. .",
+      "timestamp": "2026-06-01T10:08:00Z",
+      "reactions": [
+        "\ud83d\ude80",
+        "\u2764\ufe0f",
+        "\ud83c\udf89"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#engineering",
+      "user": "carol_lee",
+      "message": "Customer Y contract signed !. !  .?!.?.?.  .!. ",
+      "timestamp": "2026-06-01T06:49:00Z",
+      "reactions": [
+        "\u26a0\ufe0f"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#random",
+      "user": "sarah_chen",
+      "message": "Salary review .?!. .  !?! ?!.!! .?",
+      "timestamp": "2026-06-01T06:43:00Z",
+      "reactions": [],
+      "thread_ts": null
+    },
+    {
+      "channel": "#sales",
+      "user": "tom_brown",
+      "message": "Mobile app roadmap ? . !  ! .?? !. !!.?",
+      "timestamp": "2026-06-01T04:30:00Z",
+      "reactions": [
+        "\ud83d\ude80",
+        "\ud83d\udd34"
+      ],
+      "thread_ts": "2026-06-04T15:10:00Z"
+    },
+    {
+      "channel": "#support",
+      "user": "sarah_chen",
+      "message": "Vendor contract !.! !?!? ?..? ? . .?",
+      "timestamp": "2026-06-01T04:04:00Z",
+      "reactions": [],
+      "thread_ts": "2026-06-13T15:10:00Z"
+    },
+    {
+      "channel": "#finance",
+      "user": "alice_johnson",
+      "message": "Sales Q2 review !?.? ?  !?? ??.. ...",
+      "timestamp": "2026-06-01T03:30:00Z",
+      "reactions": [
+        "\ud83d\udc40"
+      ],
+      "thread_ts": null
+    },
+    {
+      "channel": "#engineering",
+      "user": "david_kim",
+      "message": "Design mockups approved ?!!  !!! ?!!..  .   ",
+      "timestamp": "2026-06-01T00:20:00Z",
+      "reactions": [],
+      "thread_ts": null
+    }
+  ],
+  "emails": [
+    {
+      "subject": "Security Audit Q2",
+      "sender": "tom_brown@company.com",
+      "snippet": "Detailed content about Security audit results...",
+      "received_date": "2026-08-04T09:19:00Z",
+      "importance": "medium",
+      "category": "Engineering",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Office Renovation Update",
+      "sender": "emma_wilson@prospective.com",
+      "snippet": "Detailed content about Customer X outage update... Budget: $737k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-08-04T02:22:00Z",
+      "importance": "medium",
+      "category": "Finance",
+      "is_unread": true,
+      "has_attachments": false
+    },
+    {
+      "subject": "Budget Clarification",
+      "sender": "john_doe@security.com",
+      "snippet": "Detailed content about \ud83d\ude80 HUGE NEWS: Series A closed!...",
+      "received_date": "2026-08-03T23:21:00Z",
+      "importance": "medium",
+      "category": "Finance",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Customer Y Contract Signed! \ud83c\udf89",
+      "sender": "emma_wilson@vc.com",
+      "snippet": "Detailed content about Office renovation... Budget: $271k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-08-03T08:33:00Z",
+      "importance": "low",
+      "category": "Product",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Security Vulnerability CVE-2026",
+      "sender": "lisa_martinez@prospective.com",
+      "snippet": "Detailed content about Mobile app roadmap... Budget: $332k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-08-02T23:58:00Z",
+      "importance": "high",
+      "category": "Sales",
+      "is_unread": true,
+      "has_attachments": true
+    },
+    {
+      "subject": "Revenue Projections Q3",
+      "sender": "david_kim@finance.com",
+      "snippet": "Detailed content about Support ticket backlog...",
+      "received_date": "2026-08-02T16:14:00Z",
+      "importance": "high",
+      "category": "Engineering",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Engineering Hiring Plan",
+      "sender": "mark_taylor@vc.com",
+      "snippet": "Detailed content about Investor call summary... Budget: $238k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-08-02T11:21:00Z",
+      "importance": "medium",
+      "category": "HR",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Product Roadmap Q4",
+      "sender": "mark_taylor@vc.com",
+      "snippet": "Detailed content about New hire announcement...",
+      "received_date": "2026-08-02T05:02:00Z",
+      "importance": "medium",
+      "category": "Engineering",
+      "is_unread": true,
+      "has_attachments": true
+    },
+    {
+      "subject": "Marketing Campaign Q3",
+      "sender": "mike_rodriguez@security.com",
+      "snippet": "Detailed content about Security audit results... Budget: $793k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-08-01T15:10:00Z",
+      "importance": "medium",
+      "category": "Sales",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Q3 OKRs Leadership",
+      "sender": "sarah_chen@vc.com",
+      "snippet": "Detailed content about \ud83d\ude80 HUGE NEWS: Series A closed!... Budget: $974k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-08-01T03:51:00Z",
+      "importance": "high",
+      "category": "General",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Security Audit Q2",
+      "sender": "sarah_chen@prospective.com",
+      "snippet": "Detailed content about Mobile app roadmap... Budget: $737k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-08-01T03:02:00Z",
+      "importance": "medium",
+      "category": "Product",
+      "is_unread": true,
+      "has_attachments": true
+    },
+    {
+      "subject": "Customer X - Critical Outage",
+      "sender": "lisa_martinez@finance.com",
+      "snippet": "Detailed content about Compliance check...",
+      "received_date": "2026-08-01T01:45:00Z",
+      "importance": "low",
+      "category": "Product",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Customer Y Contract Signed! \ud83c\udf89",
+      "sender": "david_kim@security.com",
+      "snippet": "Detailed content about Compliance check...",
+      "received_date": "2026-07-31T00:35:00Z",
+      "importance": "low",
+      "category": "Finance",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "RE: Infrastructure Costs",
+      "sender": "alice_johnson@vc.com",
+      "snippet": "Detailed content about Customer Y contract signed...",
+      "received_date": "2026-07-30T09:08:00Z",
+      "importance": "medium",
+      "category": "Product",
+      "is_unread": false,
+      "has_attachments": false
+    },
+    {
+      "subject": "Customer Y Contract Signed! \ud83c\udf89",
+      "sender": "david_kim@customery.com",
+      "snippet": "Detailed content about Salary review...",
+      "received_date": "2026-07-30T03:25:00Z",
+      "importance": "medium",
+      "category": "Engineering",
+      "is_unread": false,
+      "has_attachments": false
+    },
+    {
+      "subject": "Budget Clarification",
+      "sender": "tom_brown@finance.com",
+      "snippet": "Detailed content about Design mockups approved... Budget: $761k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-07-30T02:14:00Z",
+      "importance": "medium",
+      "category": "Support",
+      "is_unread": true,
+      "has_attachments": true
+    },
+    {
+      "subject": "Marketing Campaign Q3",
+      "sender": "john_doe@prospective.com",
+      "snippet": "Detailed content about Team lunch tomorrow... Budget: $492k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-07-29T19:15:00Z",
+      "importance": "low",
+      "category": "Engineering",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Invoice Payment Schedule",
+      "sender": "tom_brown@hr.com",
+      "snippet": "Detailed content about Database migration... Budget: $680k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-07-29T18:26:00Z",
+      "importance": "low",
+      "category": "Support",
+      "is_unread": true,
+      "has_attachments": true
+    },
+    {
+      "subject": "Security Audit Q2",
+      "sender": "carol_lee@finance.com",
+      "snippet": "Detailed content about Design mockups approved...",
+      "received_date": "2026-07-29T00:28:00Z",
+      "importance": "low",
+      "category": "Finance",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Product Roadmap Q4",
+      "sender": "mike_rodriguez@company.com",
+      "snippet": "Detailed content about \ud83d\ude80 HUGE NEWS: Series A closed!...",
+      "received_date": "2026-07-28T12:32:00Z",
+      "importance": "medium",
+      "category": "Support",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Server Maintenance",
+      "sender": "emma_wilson@security.com",
+      "snippet": "Detailed content about Sprint planning...",
+      "received_date": "2026-07-28T01:40:00Z",
+      "importance": "medium",
+      "category": "Engineering",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Engineering Hiring Plan",
+      "sender": "sarah_chen@vc.com",
+      "snippet": "Detailed content about Support ticket backlog... Budget: $578k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-07-27T18:46:00Z",
+      "importance": "high",
+      "category": "Engineering",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Office Renovation Update",
+      "sender": "lisa_martinez@vc.com",
+      "snippet": "Detailed content about Referral program... Budget: $843k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-07-26T21:06:00Z",
+      "importance": "high",
+      "category": "Sales",
+      "is_unread": true,
+      "has_attachments": true
+    },
+    {
+      "subject": "Vendor Renewal",
+      "sender": "mike_rodriguez@finance.com",
+      "snippet": "Detailed content about Sales Q2 review...",
+      "received_date": "2026-07-25T16:43:00Z",
+      "importance": "high",
+      "category": "Engineering",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Security Audit Q2",
+      "sender": "mike_rodriguez@hr.com",
+      "snippet": "Detailed content about Security audit results... Budget: $436k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-07-25T13:48:00Z",
+      "importance": "low",
+      "category": "Product",
+      "is_unread": true,
+      "has_attachments": false
+    },
+    {
+      "subject": "PR #128 - Auth Fix",
+      "sender": "mike_rodriguez@prospective.com",
+      "snippet": "Detailed content about Database migration...",
+      "received_date": "2026-07-25T12:37:00Z",
+      "importance": "high",
+      "category": "Product",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Q3 OKRs Leadership",
+      "sender": "john_doe@prospective.com",
+      "snippet": "Detailed content about Salary review... Budget: $884k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-07-25T07:05:00Z",
+      "importance": "low",
+      "category": "HR",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Engineering Hiring Plan",
+      "sender": "mark_taylor@security.com",
+      "snippet": "Detailed content about Marketing campaign launch... Budget: $320k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-07-25T04:59:00Z",
+      "importance": "low",
+      "category": "Support",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Weekly Sync Agenda",
+      "sender": "carol_lee@finance.com",
+      "snippet": "Detailed content about New hire announcement...",
+      "received_date": "2026-07-24T17:44:00Z",
+      "importance": "low",
+      "category": "Finance",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Product Roadmap Q4",
+      "sender": "lisa_martinez@vc.com",
+      "snippet": "Detailed content about Salary review... Budget: $192k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-07-22T17:22:00Z",
+      "importance": "medium",
+      "category": "HR",
+      "is_unread": true,
+      "has_attachments": false
+    },
+    {
+      "subject": "Compliance Audit Reminder",
+      "sender": "tom_brown@finance.com",
+      "snippet": "Detailed content about Cloud infra costs...",
+      "received_date": "2026-07-22T08:12:00Z",
+      "importance": "high",
+      "category": "Sales",
+      "is_unread": false,
+      "has_attachments": false
+    },
+    {
+      "subject": "Customer Y Contract Signed! \ud83c\udf89",
+      "sender": "carol_lee@customery.com",
+      "snippet": "Detailed content about \ud83d\ude80 HUGE NEWS: Series A closed!... Budget: $349k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-07-22T02:12:00Z",
+      "importance": "high",
+      "category": "Support",
+      "is_unread": true,
+      "has_attachments": true
+    },
+    {
+      "subject": "Sprint Retrospective",
+      "sender": "david_kim@security.com",
+      "snippet": "Detailed content about Marketing campaign launch...",
+      "received_date": "2026-07-21T10:11:00Z",
+      "importance": "high",
+      "category": "Engineering",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Q3 OKRs Leadership",
+      "sender": "mark_taylor@finance.com",
+      "snippet": "Detailed content about OKR finalization... Budget: $967k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-07-20T08:38:00Z",
+      "importance": "medium",
+      "category": "HR",
+      "is_unread": false,
+      "has_attachments": false
+    },
+    {
+      "subject": "Invoice Payment Schedule",
+      "sender": "mike_rodriguez@company.com",
+      "snippet": "Detailed content about New hire announcement...",
+      "received_date": "2026-07-19T22:06:00Z",
+      "importance": "medium",
+      "category": "Support",
+      "is_unread": true,
+      "has_attachments": true
+    },
+    {
+      "subject": "PR #128 - Auth Fix",
+      "sender": "sarah_chen@prospective.com",
+      "snippet": "Detailed content about Sprint planning... Budget: $200k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-07-19T14:06:00Z",
+      "importance": "medium",
+      "category": "Sales",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Weekly Sync Agenda",
+      "sender": "sarah_chen@vc.com",
+      "snippet": "Detailed content about Compliance check... Budget: $529k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-07-19T06:05:00Z",
+      "importance": "high",
+      "category": "General",
+      "is_unread": true,
+      "has_attachments": true
+    },
+    {
+      "subject": "RE: Infrastructure Costs",
+      "sender": "carol_lee@prospective.com",
+      "snippet": "Detailed content about Server maintenance...",
+      "received_date": "2026-07-19T04:28:00Z",
+      "importance": "low",
+      "category": "Support",
+      "is_unread": true,
+      "has_attachments": false
+    },
+    {
+      "subject": "Invoice Payment Schedule",
+      "sender": "lisa_martinez@finance.com",
+      "snippet": "Detailed content about Referral program... Budget: $864k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-07-19T01:51:00Z",
+      "importance": "high",
+      "category": "Support",
+      "is_unread": true,
+      "has_attachments": true
+    },
+    {
+      "subject": "Office Renovation Update",
+      "sender": "tom_brown@company.com",
+      "snippet": "Detailed content about Q3 budget meeting...",
+      "received_date": "2026-07-18T07:31:00Z",
+      "importance": "low",
+      "category": "Engineering",
+      "is_unread": true,
+      "has_attachments": false
+    },
+    {
+      "subject": "Thank you Customer X",
+      "sender": "sarah_chen@finance.com",
+      "snippet": "Detailed content about Vendor contract...",
+      "received_date": "2026-07-17T23:50:00Z",
+      "importance": "medium",
+      "category": "Support",
+      "is_unread": true,
+      "has_attachments": true
+    },
+    {
+      "subject": "Security Audit Q2",
+      "sender": "sarah_chen@vc.com",
+      "snippet": "Detailed content about Cloud infra costs...",
+      "received_date": "2026-07-17T22:13:00Z",
+      "importance": "low",
+      "category": "Finance",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "New Employee Onboarding",
+      "sender": "mark_taylor@security.com",
+      "snippet": "Detailed content about Marketing campaign launch... Budget: $841k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-07-17T12:48:00Z",
+      "importance": "high",
+      "category": "Engineering",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "PR #128 - Auth Fix",
+      "sender": "mike_rodriguez@customery.com",
+      "snippet": "Detailed content about Compliance check...",
+      "received_date": "2026-07-16T19:53:00Z",
+      "importance": "low",
+      "category": "General",
+      "is_unread": true,
+      "has_attachments": false
+    },
+    {
+      "subject": "Engineering Hiring Plan",
+      "sender": "carol_lee@hr.com",
+      "snippet": "Detailed content about Server maintenance...",
+      "received_date": "2026-07-16T00:05:00Z",
+      "importance": "low",
+      "category": "Support",
+      "is_unread": true,
+      "has_attachments": false
+    },
+    {
+      "subject": "Q3 Budget Review - Final Approval",
+      "sender": "mark_taylor@customery.com",
+      "snippet": "Detailed content about Investor call summary...",
+      "received_date": "2026-07-15T16:35:00Z",
+      "importance": "low",
+      "category": "Finance",
+      "is_unread": true,
+      "has_attachments": true
+    },
+    {
+      "subject": "RE: Infrastructure Costs",
+      "sender": "mark_taylor@customery.com",
+      "snippet": "Detailed content about Hiring pipeline... Budget: $797k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-07-15T09:40:00Z",
+      "importance": "low",
+      "category": "General",
+      "is_unread": false,
+      "has_attachments": false
+    },
+    {
+      "subject": "Security Vulnerability CVE-2026",
+      "sender": "sarah_chen@prospective.com",
+      "snippet": "Detailed content about Design mockups approved...",
+      "received_date": "2026-07-14T22:16:00Z",
+      "importance": "low",
+      "category": "HR",
+      "is_unread": false,
+      "has_attachments": false
+    },
+    {
+      "subject": "\ud83d\ude80 Series A Funding - Congratulations!",
+      "sender": "carol_lee@customery.com",
+      "snippet": "Detailed content about Sales Q2 review... Budget: $581k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-07-14T18:26:00Z",
+      "importance": "high",
+      "category": "General",
+      "is_unread": false,
+      "has_attachments": false
+    },
+    {
+      "subject": "PR #128 - Auth Fix",
+      "sender": "john_doe@vc.com",
+      "snippet": "Detailed content about OKR finalization...",
+      "received_date": "2026-07-13T19:28:00Z",
+      "importance": "low",
+      "category": "Engineering",
+      "is_unread": true,
+      "has_attachments": true
+    },
+    {
+      "subject": "\ud83d\ude80 Series A Funding - Congratulations!",
+      "sender": "emma_wilson@vc.com",
+      "snippet": "Detailed content about Q3 budget meeting...",
+      "received_date": "2026-07-12T21:52:00Z",
+      "importance": "low",
+      "category": "Sales",
+      "is_unread": true,
+      "has_attachments": true
+    },
+    {
+      "subject": "Sprint Retrospective",
+      "sender": "mike_rodriguez@customery.com",
+      "snippet": "Detailed content about Mobile app roadmap...",
+      "received_date": "2026-07-12T12:25:00Z",
+      "importance": "medium",
+      "category": "Sales",
+      "is_unread": true,
+      "has_attachments": false
+    },
+    {
+      "subject": "Compliance Audit Reminder",
+      "sender": "alice_johnson@customery.com",
+      "snippet": "Detailed content about Hiring pipeline... Budget: $794k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-07-11T17:25:00Z",
+      "importance": "high",
+      "category": "Sales",
+      "is_unread": true,
+      "has_attachments": false
+    },
+    {
+      "subject": "Security Audit Q2",
+      "sender": "emma_wilson@finance.com",
+      "snippet": "Detailed content about Design mockups approved... Budget: $550k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-07-10T01:34:00Z",
+      "importance": "medium",
+      "category": "General",
+      "is_unread": true,
+      "has_attachments": false
+    },
+    {
+      "subject": "Customer Z Demo Request",
+      "sender": "carol_lee@company.com",
+      "snippet": "Detailed content about Q3 budget meeting...",
+      "received_date": "2026-07-09T01:44:00Z",
+      "importance": "high",
+      "category": "Finance",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "RE: Infrastructure Costs",
+      "sender": "tom_brown@company.com",
+      "snippet": "Detailed content about Compliance check... Budget: $171k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-07-08T15:29:00Z",
+      "importance": "low",
+      "category": "Sales",
+      "is_unread": true,
+      "has_attachments": false
+    },
+    {
+      "subject": "Design Mockups",
+      "sender": "mike_rodriguez@company.com",
+      "snippet": "Detailed content about Office renovation... Budget: $825k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-07-07T22:43:00Z",
+      "importance": "low",
+      "category": "Finance",
+      "is_unread": true,
+      "has_attachments": true
+    },
+    {
+      "subject": "PR #128 - Auth Fix",
+      "sender": "mark_taylor@prospective.com",
+      "snippet": "Detailed content about Design mockups approved...",
+      "received_date": "2026-07-07T13:36:00Z",
+      "importance": "low",
+      "category": "Engineering",
+      "is_unread": false,
+      "has_attachments": false
+    },
+    {
+      "subject": "Design Mockups",
+      "sender": "lisa_martinez@vc.com",
+      "snippet": "Detailed content about OKR finalization...",
+      "received_date": "2026-07-06T17:09:00Z",
+      "importance": "medium",
+      "category": "Finance",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Customer X - Critical Outage",
+      "sender": "lisa_martinez@hr.com",
+      "snippet": "Detailed content about Referral program... Budget: $279k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-07-06T11:13:00Z",
+      "importance": "low",
+      "category": "HR",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Project Alpha Final Review",
+      "sender": "lisa_martinez@hr.com",
+      "snippet": "Detailed content about Server maintenance...",
+      "received_date": "2026-07-05T09:28:00Z",
+      "importance": "medium",
+      "category": "General",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Budget Clarification",
+      "sender": "alice_johnson@vc.com",
+      "snippet": "Detailed content about Sprint planning... Budget: $920k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-07-04T10:52:00Z",
+      "importance": "low",
+      "category": "Engineering",
+      "is_unread": true,
+      "has_attachments": false
+    },
+    {
+      "subject": "\ud83d\ude80 Series A Funding - Congratulations!",
+      "sender": "mike_rodriguez@hr.com",
+      "snippet": "Detailed content about Referral program... Budget: $239k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-07-03T22:12:00Z",
+      "importance": "low",
+      "category": "HR",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "RE: Infrastructure Costs",
+      "sender": "mike_rodriguez@customery.com",
+      "snippet": "Detailed content about PR #128 review... Budget: $513k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-07-03T20:49:00Z",
+      "importance": "high",
+      "category": "General",
+      "is_unread": true,
+      "has_attachments": true
+    },
+    {
+      "subject": "Weekly Sync Agenda",
+      "sender": "john_doe@hr.com",
+      "snippet": "Detailed content about Salary review... Budget: $154k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-07-03T19:42:00Z",
+      "importance": "medium",
+      "category": "Support",
+      "is_unread": true,
+      "has_attachments": true
+    },
+    {
+      "subject": "Q2 Sales Review",
+      "sender": "lisa_martinez@finance.com",
+      "snippet": "Detailed content about Vendor contract...",
+      "received_date": "2026-07-03T14:43:00Z",
+      "importance": "medium",
+      "category": "General",
+      "is_unread": true,
+      "has_attachments": true
+    },
+    {
+      "subject": "Customer Y Contract Signed! \ud83c\udf89",
+      "sender": "tom_brown@finance.com",
+      "snippet": "Detailed content about Sprint planning... Budget: $492k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-07-02T16:36:00Z",
+      "importance": "medium",
+      "category": "General",
+      "is_unread": true,
+      "has_attachments": false
+    },
+    {
+      "subject": "Product Roadmap Q4",
+      "sender": "tom_brown@company.com",
+      "snippet": "Detailed content about API gateway update...",
+      "received_date": "2026-07-02T14:37:00Z",
+      "importance": "medium",
+      "category": "Sales",
+      "is_unread": true,
+      "has_attachments": true
+    },
+    {
+      "subject": "Security Audit Q2",
+      "sender": "emma_wilson@vc.com",
+      "snippet": "Detailed content about Marketing campaign launch... Budget: $532k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-07-01T08:54:00Z",
+      "importance": "medium",
+      "category": "Sales",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Revenue Projections Q3",
+      "sender": "john_doe@company.com",
+      "snippet": "Detailed content about \ud83d\ude80 HUGE NEWS: Series A closed!... Budget: $825k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-07-01T06:57:00Z",
+      "importance": "low",
+      "category": "HR",
+      "is_unread": false,
+      "has_attachments": false
+    },
+    {
+      "subject": "RE: Infrastructure Costs",
+      "sender": "lisa_martinez@finance.com",
+      "snippet": "Detailed content about Cloud infra costs... Budget: $144k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-30T19:38:00Z",
+      "importance": "medium",
+      "category": "Engineering",
+      "is_unread": true,
+      "has_attachments": false
+    },
+    {
+      "subject": "Budget Clarification",
+      "sender": "sarah_chen@security.com",
+      "snippet": "Detailed content about Product demo feedback...",
+      "received_date": "2026-06-30T18:25:00Z",
+      "importance": "high",
+      "category": "General",
+      "is_unread": false,
+      "has_attachments": false
+    },
+    {
+      "subject": "Marketing Campaign Q3",
+      "sender": "john_doe@security.com",
+      "snippet": "Detailed content about Q3 budget meeting... Budget: $302k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-30T12:10:00Z",
+      "importance": "high",
+      "category": "Finance",
+      "is_unread": false,
+      "has_attachments": false
+    },
+    {
+      "subject": "Engineering Hiring Plan",
+      "sender": "carol_lee@security.com",
+      "snippet": "Detailed content about Sprint planning... Budget: $222k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-29T17:15:00Z",
+      "importance": "low",
+      "category": "Sales",
+      "is_unread": true,
+      "has_attachments": true
+    },
+    {
+      "subject": "Customer Y Contract Signed! \ud83c\udf89",
+      "sender": "david_kim@finance.com",
+      "snippet": "Detailed content about Server maintenance... Budget: $702k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-29T05:20:00Z",
+      "importance": "high",
+      "category": "General",
+      "is_unread": true,
+      "has_attachments": true
+    },
+    {
+      "subject": "Vendor Renewal",
+      "sender": "john_doe@company.com",
+      "snippet": "Detailed content about Team lunch tomorrow...",
+      "received_date": "2026-06-29T02:39:00Z",
+      "importance": "medium",
+      "category": "Product",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Revenue Projections Q3",
+      "sender": "alice_johnson@security.com",
+      "snippet": "Detailed content about Server maintenance... Budget: $673k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-29T00:16:00Z",
+      "importance": "medium",
+      "category": "Support",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Customer X - Critical Outage",
+      "sender": "alice_johnson@prospective.com",
+      "snippet": "Detailed content about Sprint planning... Budget: $836k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-29T00:01:00Z",
+      "importance": "high",
+      "category": "Support",
+      "is_unread": true,
+      "has_attachments": true
+    },
+    {
+      "subject": "Thank you Customer X",
+      "sender": "emma_wilson@hr.com",
+      "snippet": "Detailed content about Design mockups approved... Budget: $588k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-28T16:57:00Z",
+      "importance": "medium",
+      "category": "Engineering",
+      "is_unread": true,
+      "has_attachments": false
+    },
+    {
+      "subject": "RE: Infrastructure Costs",
+      "sender": "alice_johnson@prospective.com",
+      "snippet": "Detailed content about Vendor contract...",
+      "received_date": "2026-06-27T23:58:00Z",
+      "importance": "high",
+      "category": "Engineering",
+      "is_unread": true,
+      "has_attachments": false
+    },
+    {
+      "subject": "Vendor Renewal",
+      "sender": "john_doe@hr.com",
+      "snippet": "Detailed content about Bug bash results... Budget: $566k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-27T19:53:00Z",
+      "importance": "high",
+      "category": "Finance",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Engineering Hiring Plan",
+      "sender": "john_doe@vc.com",
+      "snippet": "Detailed content about Design mockups approved... Budget: $960k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-27T16:11:00Z",
+      "importance": "low",
+      "category": "Support",
+      "is_unread": true,
+      "has_attachments": true
+    },
+    {
+      "subject": "PR #128 - Auth Fix",
+      "sender": "sarah_chen@hr.com",
+      "snippet": "Detailed content about PR #128 review... Budget: $812k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-26T12:48:00Z",
+      "importance": "low",
+      "category": "Sales",
+      "is_unread": true,
+      "has_attachments": true
+    },
+    {
+      "subject": "Q3 Budget Review - Final Approval",
+      "sender": "mike_rodriguez@prospective.com",
+      "snippet": "Detailed content about Database migration...",
+      "received_date": "2026-06-26T10:45:00Z",
+      "importance": "medium",
+      "category": "General",
+      "is_unread": false,
+      "has_attachments": false
+    },
+    {
+      "subject": "\ud83d\ude80 Series A Funding - Congratulations!",
+      "sender": "mark_taylor@company.com",
+      "snippet": "Detailed content about Hiring pipeline...",
+      "received_date": "2026-06-26T06:44:00Z",
+      "importance": "medium",
+      "category": "Engineering",
+      "is_unread": false,
+      "has_attachments": false
+    },
+    {
+      "subject": "Marketing Campaign Q3",
+      "sender": "alice_johnson@customery.com",
+      "snippet": "Detailed content about Product demo feedback... Budget: $114k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-25T13:56:00Z",
+      "importance": "medium",
+      "category": "Support",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Vendor Renewal",
+      "sender": "mike_rodriguez@prospective.com",
+      "snippet": "Detailed content about Customer Y contract signed...",
+      "received_date": "2026-06-25T12:14:00Z",
+      "importance": "low",
+      "category": "HR",
+      "is_unread": true,
+      "has_attachments": false
+    },
+    {
+      "subject": "PR #128 - Auth Fix",
+      "sender": "david_kim@company.com",
+      "snippet": "Detailed content about Server maintenance... Budget: $366k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-25T12:12:00Z",
+      "importance": "high",
+      "category": "Sales",
+      "is_unread": true,
+      "has_attachments": false
+    },
+    {
+      "subject": "Q2 Sales Review",
+      "sender": "john_doe@customery.com",
+      "snippet": "Detailed content about Design mockups approved...",
+      "received_date": "2026-06-24T18:59:00Z",
+      "importance": "medium",
+      "category": "Finance",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Compliance Audit Reminder",
+      "sender": "sarah_chen@finance.com",
+      "snippet": "Detailed content about Customer Y contract signed... Budget: $604k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-24T16:39:00Z",
+      "importance": "high",
+      "category": "Finance",
+      "is_unread": true,
+      "has_attachments": false
+    },
+    {
+      "subject": "Design Mockups",
+      "sender": "carol_lee@vc.com",
+      "snippet": "Detailed content about \ud83d\ude80 HUGE NEWS: Series A closed!...",
+      "received_date": "2026-06-24T14:59:00Z",
+      "importance": "medium",
+      "category": "Product",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Security Audit Q2",
+      "sender": "alice_johnson@customery.com",
+      "snippet": "Detailed content about Database migration... Budget: $967k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-23T18:30:00Z",
+      "importance": "low",
+      "category": "Product",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Team Lunch RSVP",
+      "sender": "alice_johnson@company.com",
+      "snippet": "Detailed content about Cloud infra costs...",
+      "received_date": "2026-06-23T13:54:00Z",
+      "importance": "medium",
+      "category": "Finance",
+      "is_unread": true,
+      "has_attachments": false
+    },
+    {
+      "subject": "Sprint Retrospective",
+      "sender": "mike_rodriguez@security.com",
+      "snippet": "Detailed content about \ud83d\ude80 HUGE NEWS: Series A closed!...",
+      "received_date": "2026-06-23T03:23:00Z",
+      "importance": "medium",
+      "category": "Finance",
+      "is_unread": true,
+      "has_attachments": true
+    },
+    {
+      "subject": "Server Maintenance",
+      "sender": "carol_lee@hr.com",
+      "snippet": "Detailed content about Office renovation... Budget: $249k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-22T17:49:00Z",
+      "importance": "high",
+      "category": "Engineering",
+      "is_unread": false,
+      "has_attachments": false
+    },
+    {
+      "subject": "Office Renovation Update",
+      "sender": "alice_johnson@finance.com",
+      "snippet": "Detailed content about Design mockups approved...",
+      "received_date": "2026-06-22T16:55:00Z",
+      "importance": "high",
+      "category": "Support",
+      "is_unread": true,
+      "has_attachments": true
+    },
+    {
+      "subject": "Customer X - Critical Outage",
+      "sender": "tom_brown@customery.com",
+      "snippet": "Detailed content about Office renovation... Budget: $180k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-22T05:08:00Z",
+      "importance": "low",
+      "category": "Support",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Q3 Budget Review - Final Approval",
+      "sender": "tom_brown@vc.com",
+      "snippet": "Detailed content about Mobile app roadmap...",
+      "received_date": "2026-06-22T01:30:00Z",
+      "importance": "low",
+      "category": "Sales",
+      "is_unread": true,
+      "has_attachments": false
+    },
+    {
+      "subject": "Project Alpha Final Review",
+      "sender": "john_doe@finance.com",
+      "snippet": "Detailed content about Compliance check... Budget: $181k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-21T23:08:00Z",
+      "importance": "low",
+      "category": "HR",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Customer X - Critical Outage",
+      "sender": "mark_taylor@hr.com",
+      "snippet": "Detailed content about API gateway update... Budget: $208k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-20T20:16:00Z",
+      "importance": "high",
+      "category": "Support",
+      "is_unread": false,
+      "has_attachments": false
+    },
+    {
+      "subject": "Compliance Audit Reminder",
+      "sender": "mark_taylor@prospective.com",
+      "snippet": "Detailed content about Design mockups approved... Budget: $141k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-20T19:36:00Z",
+      "importance": "high",
+      "category": "Engineering",
+      "is_unread": true,
+      "has_attachments": true
+    },
+    {
+      "subject": "Customer Y Contract Signed! \ud83c\udf89",
+      "sender": "emma_wilson@customery.com",
+      "snippet": "Detailed content about Investor call summary...",
+      "received_date": "2026-06-20T14:26:00Z",
+      "importance": "medium",
+      "category": "Product",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "\ud83d\ude80 Series A Funding - Congratulations!",
+      "sender": "john_doe@company.com",
+      "snippet": "Detailed content about Office renovation...",
+      "received_date": "2026-06-19T09:47:00Z",
+      "importance": "high",
+      "category": "Product",
+      "is_unread": false,
+      "has_attachments": false
+    },
+    {
+      "subject": "Q3 Budget Review - Final Approval",
+      "sender": "john_doe@finance.com",
+      "snippet": "Detailed content about Referral program... Budget: $136k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-19T07:24:00Z",
+      "importance": "medium",
+      "category": "HR",
+      "is_unread": true,
+      "has_attachments": false
+    },
+    {
+      "subject": "RE: Infrastructure Costs",
+      "sender": "tom_brown@security.com",
+      "snippet": "Detailed content about Sprint planning...",
+      "received_date": "2026-06-18T18:13:00Z",
+      "importance": "medium",
+      "category": "Product",
+      "is_unread": false,
+      "has_attachments": false
+    },
+    {
+      "subject": "RE: Infrastructure Costs",
+      "sender": "emma_wilson@finance.com",
+      "snippet": "Detailed content about OKR finalization...",
+      "received_date": "2026-06-18T15:32:00Z",
+      "importance": "low",
+      "category": "Finance",
+      "is_unread": true,
+      "has_attachments": false
+    },
+    {
+      "subject": "Team Lunch RSVP",
+      "sender": "carol_lee@security.com",
+      "snippet": "Detailed content about Referral program...",
+      "received_date": "2026-06-18T11:04:00Z",
+      "importance": "low",
+      "category": "Engineering",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Project Alpha Final Review",
+      "sender": "mark_taylor@security.com",
+      "snippet": "Detailed content about Q3 budget meeting... Budget: $144k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-18T10:43:00Z",
+      "importance": "medium",
+      "category": "General",
+      "is_unread": false,
+      "has_attachments": false
+    },
+    {
+      "subject": "Revenue Projections Q3",
+      "sender": "alice_johnson@prospective.com",
+      "snippet": "Detailed content about Vendor contract... Budget: $565k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-18T07:32:00Z",
+      "importance": "low",
+      "category": "Support",
+      "is_unread": true,
+      "has_attachments": true
+    },
+    {
+      "subject": "Revenue Projections Q3",
+      "sender": "mike_rodriguez@company.com",
+      "snippet": "Detailed content about Database migration... Budget: $276k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-18T05:12:00Z",
+      "importance": "low",
+      "category": "Support",
+      "is_unread": true,
+      "has_attachments": false
+    },
+    {
+      "subject": "Sprint Retrospective",
+      "sender": "lisa_martinez@hr.com",
+      "snippet": "Detailed content about Investor call summary... Budget: $620k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-17T19:19:00Z",
+      "importance": "low",
+      "category": "Finance",
+      "is_unread": true,
+      "has_attachments": true
+    },
+    {
+      "subject": "Product Roadmap Q4",
+      "sender": "alice_johnson@security.com",
+      "snippet": "Detailed content about New hire announcement...",
+      "received_date": "2026-06-17T15:42:00Z",
+      "importance": "medium",
+      "category": "Engineering",
+      "is_unread": true,
+      "has_attachments": false
+    },
+    {
+      "subject": "Thank you Customer X",
+      "sender": "tom_brown@finance.com",
+      "snippet": "Detailed content about Cloud infra costs... Budget: $166k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-17T07:10:00Z",
+      "importance": "high",
+      "category": "Finance",
+      "is_unread": true,
+      "has_attachments": true
+    },
+    {
+      "subject": "Customer Y Contract Signed! \ud83c\udf89",
+      "sender": "lisa_martinez@security.com",
+      "snippet": "Detailed content about Security audit results...",
+      "received_date": "2026-06-17T06:15:00Z",
+      "importance": "high",
+      "category": "Product",
+      "is_unread": true,
+      "has_attachments": false
+    },
+    {
+      "subject": "Thank you Customer X",
+      "sender": "sarah_chen@hr.com",
+      "snippet": "Detailed content about Security audit results... Budget: $592k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-17T03:28:00Z",
+      "importance": "high",
+      "category": "Sales",
+      "is_unread": true,
+      "has_attachments": false
+    },
+    {
+      "subject": "Server Maintenance",
+      "sender": "john_doe@prospective.com",
+      "snippet": "Detailed content about Sales Q2 review... Budget: $361k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-17T02:23:00Z",
+      "importance": "medium",
+      "category": "General",
+      "is_unread": true,
+      "has_attachments": false
+    },
+    {
+      "subject": "Q2 Sales Review",
+      "sender": "mark_taylor@company.com",
+      "snippet": "Detailed content about Marketing campaign launch...",
+      "received_date": "2026-06-16T20:57:00Z",
+      "importance": "medium",
+      "category": "Product",
+      "is_unread": false,
+      "has_attachments": false
+    },
+    {
+      "subject": "Customer Z Demo Request",
+      "sender": "emma_wilson@customery.com",
+      "snippet": "Detailed content about Cloud infra costs... Budget: $829k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-16T12:31:00Z",
+      "importance": "medium",
+      "category": "Product",
+      "is_unread": true,
+      "has_attachments": true
+    },
+    {
+      "subject": "Marketing Campaign Q3",
+      "sender": "carol_lee@customery.com",
+      "snippet": "Detailed content about API gateway update... Budget: $973k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-16T11:30:00Z",
+      "importance": "high",
+      "category": "General",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Customer Y Contract Signed! \ud83c\udf89",
+      "sender": "john_doe@finance.com",
+      "snippet": "Detailed content about Design mockups approved... Budget: $449k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-16T09:33:00Z",
+      "importance": "high",
+      "category": "Product",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Office Renovation Update",
+      "sender": "lisa_martinez@finance.com",
+      "snippet": "Detailed content about Product demo feedback... Budget: $615k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-16T01:38:00Z",
+      "importance": "high",
+      "category": "Product",
+      "is_unread": true,
+      "has_attachments": true
+    },
+    {
+      "subject": "Office Renovation Update",
+      "sender": "tom_brown@customery.com",
+      "snippet": "Detailed content about Product demo feedback...",
+      "received_date": "2026-06-15T21:50:00Z",
+      "importance": "high",
+      "category": "Product",
+      "is_unread": true,
+      "has_attachments": true
+    },
+    {
+      "subject": "Design Mockups",
+      "sender": "john_doe@security.com",
+      "snippet": "Detailed content about API gateway update... Budget: $547k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-15T20:51:00Z",
+      "importance": "medium",
+      "category": "HR",
+      "is_unread": true,
+      "has_attachments": true
+    },
+    {
+      "subject": "Product Roadmap Q4",
+      "sender": "mark_taylor@hr.com",
+      "snippet": "Detailed content about Support ticket backlog... Budget: $162k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-15T09:32:00Z",
+      "importance": "high",
+      "category": "Support",
+      "is_unread": true,
+      "has_attachments": false
+    },
+    {
+      "subject": "Weekly Sync Agenda",
+      "sender": "emma_wilson@prospective.com",
+      "snippet": "Detailed content about \ud83d\ude80 HUGE NEWS: Series A closed!...",
+      "received_date": "2026-06-15T07:49:00Z",
+      "importance": "low",
+      "category": "Product",
+      "is_unread": false,
+      "has_attachments": false
+    },
+    {
+      "subject": "Security Audit Q2",
+      "sender": "emma_wilson@customery.com",
+      "snippet": "Detailed content about Sales Q2 review... Budget: $130k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-15T00:09:00Z",
+      "importance": "high",
+      "category": "Sales",
+      "is_unread": false,
+      "has_attachments": false
+    },
+    {
+      "subject": "Q3 OKRs Leadership",
+      "sender": "john_doe@vc.com",
+      "snippet": "Detailed content about Hiring pipeline...",
+      "received_date": "2026-06-14T00:14:00Z",
+      "importance": "high",
+      "category": "Product",
+      "is_unread": true,
+      "has_attachments": true
+    },
+    {
+      "subject": "Security Vulnerability CVE-2026",
+      "sender": "tom_brown@hr.com",
+      "snippet": "Detailed content about New hire announcement... Budget: $101k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-13T22:31:00Z",
+      "importance": "medium",
+      "category": "HR",
+      "is_unread": false,
+      "has_attachments": false
+    },
+    {
+      "subject": "RE: Infrastructure Costs",
+      "sender": "david_kim@company.com",
+      "snippet": "Detailed content about API gateway update...",
+      "received_date": "2026-06-13T18:01:00Z",
+      "importance": "high",
+      "category": "HR",
+      "is_unread": true,
+      "has_attachments": false
+    },
+    {
+      "subject": "Office Renovation Update",
+      "sender": "carol_lee@finance.com",
+      "snippet": "Detailed content about Security audit results... Budget: $663k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-13T03:30:00Z",
+      "importance": "high",
+      "category": "Sales",
+      "is_unread": true,
+      "has_attachments": false
+    },
+    {
+      "subject": "Security Audit Q2",
+      "sender": "lisa_martinez@company.com",
+      "snippet": "Detailed content about Bug bash results... Budget: $614k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-13T03:22:00Z",
+      "importance": "medium",
+      "category": "HR",
+      "is_unread": true,
+      "has_attachments": true
+    },
+    {
+      "subject": "Customer Z Demo Request",
+      "sender": "mark_taylor@hr.com",
+      "snippet": "Detailed content about Salary review...",
+      "received_date": "2026-06-12T23:28:00Z",
+      "importance": "medium",
+      "category": "Support",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Customer X - Critical Outage",
+      "sender": "alice_johnson@vc.com",
+      "snippet": "Detailed content about Compliance check... Budget: $424k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-12T17:58:00Z",
+      "importance": "high",
+      "category": "General",
+      "is_unread": true,
+      "has_attachments": false
+    },
+    {
+      "subject": "Engineering Hiring Plan",
+      "sender": "alice_johnson@hr.com",
+      "snippet": "Detailed content about Vendor contract... Budget: $866k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-12T16:59:00Z",
+      "importance": "high",
+      "category": "Finance",
+      "is_unread": false,
+      "has_attachments": false
+    },
+    {
+      "subject": "New Employee Onboarding",
+      "sender": "tom_brown@finance.com",
+      "snippet": "Detailed content about Sprint planning... Budget: $709k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-12T03:59:00Z",
+      "importance": "high",
+      "category": "HR",
+      "is_unread": true,
+      "has_attachments": true
+    },
+    {
+      "subject": "Customer Z Demo Request",
+      "sender": "john_doe@hr.com",
+      "snippet": "Detailed content about \ud83d\ude80 HUGE NEWS: Series A closed!...",
+      "received_date": "2026-06-12T03:16:00Z",
+      "importance": "high",
+      "category": "HR",
+      "is_unread": true,
+      "has_attachments": false
+    },
+    {
+      "subject": "Thank you Customer X",
+      "sender": "sarah_chen@company.com",
+      "snippet": "Detailed content about Sprint planning... Budget: $394k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-11T19:37:00Z",
+      "importance": "high",
+      "category": "Finance",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Security Audit Q2",
+      "sender": "tom_brown@hr.com",
+      "snippet": "Detailed content about Design mockups approved...",
+      "received_date": "2026-06-11T19:06:00Z",
+      "importance": "high",
+      "category": "HR",
+      "is_unread": true,
+      "has_attachments": false
+    },
+    {
+      "subject": "Project Alpha Final Review",
+      "sender": "alice_johnson@vc.com",
+      "snippet": "Detailed content about PR #128 review... Budget: $989k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-11T13:52:00Z",
+      "importance": "medium",
+      "category": "Support",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Product Roadmap Q4",
+      "sender": "alice_johnson@vc.com",
+      "snippet": "Detailed content about Design mockups approved...",
+      "received_date": "2026-06-11T04:16:00Z",
+      "importance": "medium",
+      "category": "General",
+      "is_unread": false,
+      "has_attachments": false
+    },
+    {
+      "subject": "Team Lunch RSVP",
+      "sender": "lisa_martinez@hr.com",
+      "snippet": "Detailed content about New hire announcement... Budget: $715k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-10T22:54:00Z",
+      "importance": "low",
+      "category": "Engineering",
+      "is_unread": false,
+      "has_attachments": false
+    },
+    {
+      "subject": "Security Audit Q2",
+      "sender": "tom_brown@finance.com",
+      "snippet": "Detailed content about Referral program...",
+      "received_date": "2026-06-10T22:31:00Z",
+      "importance": "high",
+      "category": "General",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Engineering Hiring Plan",
+      "sender": "john_doe@security.com",
+      "snippet": "Detailed content about Security audit results... Budget: $516k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-10T21:26:00Z",
+      "importance": "medium",
+      "category": "Finance",
+      "is_unread": false,
+      "has_attachments": false
+    },
+    {
+      "subject": "PR #128 - Auth Fix",
+      "sender": "tom_brown@security.com",
+      "snippet": "Detailed content about Hiring pipeline...",
+      "received_date": "2026-06-10T16:35:00Z",
+      "importance": "high",
+      "category": "Finance",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Server Maintenance",
+      "sender": "lisa_martinez@customery.com",
+      "snippet": "Detailed content about Compliance check... Budget: $250k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-10T15:55:00Z",
+      "importance": "high",
+      "category": "Engineering",
+      "is_unread": true,
+      "has_attachments": false
+    },
+    {
+      "subject": "Budget Clarification",
+      "sender": "carol_lee@finance.com",
+      "snippet": "Detailed content about Investor call summary... Budget: $655k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-10T08:26:00Z",
+      "importance": "low",
+      "category": "Finance",
+      "is_unread": true,
+      "has_attachments": true
+    },
+    {
+      "subject": "Q3 OKRs Leadership",
+      "sender": "emma_wilson@vc.com",
+      "snippet": "Detailed content about Hiring pipeline... Budget: $102k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-10T04:03:00Z",
+      "importance": "medium",
+      "category": "Product",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "\ud83d\ude80 Series A Funding - Congratulations!",
+      "sender": "lisa_martinez@security.com",
+      "snippet": "Detailed content about Bug bash results...",
+      "received_date": "2026-06-10T03:59:00Z",
+      "importance": "medium",
+      "category": "Product",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Weekly Sync Agenda",
+      "sender": "tom_brown@customery.com",
+      "snippet": "Detailed content about Q3 budget meeting... Budget: $225k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-09T22:20:00Z",
+      "importance": "medium",
+      "category": "Engineering",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Thank you Customer X",
+      "sender": "mike_rodriguez@company.com",
+      "snippet": "Detailed content about Customer Y contract signed... Budget: $543k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-09T18:05:00Z",
+      "importance": "medium",
+      "category": "Sales",
+      "is_unread": true,
+      "has_attachments": true
+    },
+    {
+      "subject": "Security Vulnerability CVE-2026",
+      "sender": "mike_rodriguez@customery.com",
+      "snippet": "Detailed content about Sprint planning...",
+      "received_date": "2026-06-09T17:58:00Z",
+      "importance": "medium",
+      "category": "General",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Sprint Retrospective",
+      "sender": "sarah_chen@hr.com",
+      "snippet": "Detailed content about Customer Y contract signed... Budget: $370k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-09T14:15:00Z",
+      "importance": "high",
+      "category": "Product",
+      "is_unread": false,
+      "has_attachments": false
+    },
+    {
+      "subject": "Compliance Audit Reminder",
+      "sender": "john_doe@company.com",
+      "snippet": "Detailed content about Compliance check... Budget: $794k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-09T09:32:00Z",
+      "importance": "medium",
+      "category": "Product",
+      "is_unread": true,
+      "has_attachments": true
+    },
+    {
+      "subject": "New Employee Onboarding",
+      "sender": "john_doe@security.com",
+      "snippet": "Detailed content about Office renovation... Budget: $625k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-09T04:04:00Z",
+      "importance": "medium",
+      "category": "HR",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Sprint Retrospective",
+      "sender": "sarah_chen@vc.com",
+      "snippet": "Detailed content about Team lunch tomorrow...",
+      "received_date": "2026-06-08T20:41:00Z",
+      "importance": "low",
+      "category": "Sales",
+      "is_unread": true,
+      "has_attachments": true
+    },
+    {
+      "subject": "Project Alpha Final Review",
+      "sender": "tom_brown@vc.com",
+      "snippet": "Detailed content about Product demo feedback... Budget: $293k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-08T02:36:00Z",
+      "importance": "medium",
+      "category": "General",
+      "is_unread": true,
+      "has_attachments": false
+    },
+    {
+      "subject": "Weekly Sync Agenda",
+      "sender": "mike_rodriguez@prospective.com",
+      "snippet": "Detailed content about Investor call summary... Budget: $199k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-08T00:15:00Z",
+      "importance": "medium",
+      "category": "General",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "PR #128 - Auth Fix",
+      "sender": "lisa_martinez@company.com",
+      "snippet": "Detailed content about Office renovation...",
+      "received_date": "2026-06-07T21:57:00Z",
+      "importance": "medium",
+      "category": "HR",
+      "is_unread": true,
+      "has_attachments": false
+    },
+    {
+      "subject": "Project Alpha Final Review",
+      "sender": "mark_taylor@finance.com",
+      "snippet": "Detailed content about Mobile app roadmap... Budget: $308k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-07T14:33:00Z",
+      "importance": "low",
+      "category": "General",
+      "is_unread": false,
+      "has_attachments": false
+    },
+    {
+      "subject": "Sprint Retrospective",
+      "sender": "tom_brown@vc.com",
+      "snippet": "Detailed content about Q3 budget meeting...",
+      "received_date": "2026-06-07T11:00:00Z",
+      "importance": "medium",
+      "category": "Support",
+      "is_unread": false,
+      "has_attachments": false
+    },
+    {
+      "subject": "RE: Infrastructure Costs",
+      "sender": "mark_taylor@hr.com",
+      "snippet": "Detailed content about Support ticket backlog... Budget: $184k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-07T07:33:00Z",
+      "importance": "medium",
+      "category": "Finance",
+      "is_unread": true,
+      "has_attachments": false
+    },
+    {
+      "subject": "Q3 OKRs Leadership",
+      "sender": "sarah_chen@finance.com",
+      "snippet": "Detailed content about Marketing campaign launch... Budget: $917k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-07T04:34:00Z",
+      "importance": "low",
+      "category": "Sales",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Customer Y Contract Signed! \ud83c\udf89",
+      "sender": "lisa_martinez@finance.com",
+      "snippet": "Detailed content about Salary review... Budget: $828k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-07T02:35:00Z",
+      "importance": "high",
+      "category": "Support",
+      "is_unread": false,
+      "has_attachments": false
+    },
+    {
+      "subject": "Customer Z Demo Request",
+      "sender": "lisa_martinez@company.com",
+      "snippet": "Detailed content about Office renovation...",
+      "received_date": "2026-06-06T22:58:00Z",
+      "importance": "medium",
+      "category": "Support",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Vendor Renewal",
+      "sender": "mike_rodriguez@finance.com",
+      "snippet": "Detailed content about Team lunch tomorrow...",
+      "received_date": "2026-06-06T21:00:00Z",
+      "importance": "low",
+      "category": "Support",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "RE: Infrastructure Costs",
+      "sender": "carol_lee@customery.com",
+      "snippet": "Detailed content about Q3 budget meeting... Budget: $466k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-06T01:07:00Z",
+      "importance": "high",
+      "category": "Engineering",
+      "is_unread": true,
+      "has_attachments": true
+    },
+    {
+      "subject": "RE: Infrastructure Costs",
+      "sender": "lisa_martinez@vc.com",
+      "snippet": "Detailed content about API gateway update... Budget: $266k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-06T00:33:00Z",
+      "importance": "high",
+      "category": "General",
+      "is_unread": true,
+      "has_attachments": false
+    },
+    {
+      "subject": "Q3 OKRs Leadership",
+      "sender": "mike_rodriguez@prospective.com",
+      "snippet": "Detailed content about Security audit results... Budget: $757k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-05T22:51:00Z",
+      "importance": "low",
+      "category": "HR",
+      "is_unread": false,
+      "has_attachments": false
+    },
+    {
+      "subject": "Sprint Retrospective",
+      "sender": "mike_rodriguez@vc.com",
+      "snippet": "Detailed content about Design mockups approved...",
+      "received_date": "2026-06-05T20:24:00Z",
+      "importance": "medium",
+      "category": "Finance",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Sprint Retrospective",
+      "sender": "mike_rodriguez@vc.com",
+      "snippet": "Detailed content about \ud83d\ude80 HUGE NEWS: Series A closed!... Budget: $583k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-05T14:04:00Z",
+      "importance": "high",
+      "category": "Sales",
+      "is_unread": true,
+      "has_attachments": true
+    },
+    {
+      "subject": "Vendor Renewal",
+      "sender": "alice_johnson@company.com",
+      "snippet": "Detailed content about Team lunch tomorrow...",
+      "received_date": "2026-06-05T09:53:00Z",
+      "importance": "high",
+      "category": "Engineering",
+      "is_unread": false,
+      "has_attachments": false
+    },
+    {
+      "subject": "Q2 Sales Review",
+      "sender": "sarah_chen@company.com",
+      "snippet": "Detailed content about Q3 budget meeting... Budget: $983k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-04T23:34:00Z",
+      "importance": "low",
+      "category": "Engineering",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Security Vulnerability CVE-2026",
+      "sender": "emma_wilson@hr.com",
+      "snippet": "Detailed content about Team lunch tomorrow... Budget: $993k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-04T12:21:00Z",
+      "importance": "medium",
+      "category": "General",
+      "is_unread": false,
+      "has_attachments": false
+    },
+    {
+      "subject": "Office Renovation Update",
+      "sender": "mark_taylor@vc.com",
+      "snippet": "Detailed content about Bug bash results...",
+      "received_date": "2026-06-04T12:00:00Z",
+      "importance": "medium",
+      "category": "General",
+      "is_unread": false,
+      "has_attachments": false
+    },
+    {
+      "subject": "RE: Infrastructure Costs",
+      "sender": "lisa_martinez@finance.com",
+      "snippet": "Detailed content about Cloud infra costs...",
+      "received_date": "2026-06-04T07:37:00Z",
+      "importance": "high",
+      "category": "General",
+      "is_unread": true,
+      "has_attachments": false
+    },
+    {
+      "subject": "PR #128 - Auth Fix",
+      "sender": "mike_rodriguez@hr.com",
+      "snippet": "Detailed content about Marketing campaign launch...",
+      "received_date": "2026-06-03T18:55:00Z",
+      "importance": "medium",
+      "category": "HR",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Office Renovation Update",
+      "sender": "tom_brown@security.com",
+      "snippet": "Detailed content about Investor call summary...",
+      "received_date": "2026-06-03T06:11:00Z",
+      "importance": "high",
+      "category": "HR",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Vendor Renewal",
+      "sender": "carol_lee@prospective.com",
+      "snippet": "Detailed content about Product demo feedback... Budget: $998k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-03T05:03:00Z",
+      "importance": "medium",
+      "category": "Sales",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Invoice Payment Schedule",
+      "sender": "david_kim@company.com",
+      "snippet": "Detailed content about PR #128 review... Budget: $968k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-02T20:31:00Z",
+      "importance": "medium",
+      "category": "General",
+      "is_unread": false,
+      "has_attachments": false
+    },
+    {
+      "subject": "Customer Y Contract Signed! \ud83c\udf89",
+      "sender": "david_kim@hr.com",
+      "snippet": "Detailed content about Sales Q2 review...",
+      "received_date": "2026-06-02T18:24:00Z",
+      "importance": "medium",
+      "category": "Product",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Team Lunch RSVP",
+      "sender": "john_doe@customery.com",
+      "snippet": "Detailed content about \ud83d\ude80 HUGE NEWS: Series A closed!... Budget: $673k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-02T16:12:00Z",
+      "importance": "medium",
+      "category": "Product",
+      "is_unread": true,
+      "has_attachments": true
+    },
+    {
+      "subject": "Team Lunch RSVP",
+      "sender": "emma_wilson@customery.com",
+      "snippet": "Detailed content about Support ticket backlog... Budget: $133k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-02T15:02:00Z",
+      "importance": "low",
+      "category": "Sales",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Q2 Sales Review",
+      "sender": "mark_taylor@company.com",
+      "snippet": "Detailed content about Database migration... Budget: $600k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-02T10:35:00Z",
+      "importance": "medium",
+      "category": "Sales",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Project Alpha Final Review",
+      "sender": "carol_lee@vc.com",
+      "snippet": "Detailed content about Customer X outage update... Budget: $166k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-02T10:33:00Z",
+      "importance": "medium",
+      "category": "Sales",
+      "is_unread": true,
+      "has_attachments": true
+    },
+    {
+      "subject": "New Employee Onboarding",
+      "sender": "david_kim@finance.com",
+      "snippet": "Detailed content about Security audit results... Budget: $508k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-02T09:43:00Z",
+      "importance": "low",
+      "category": "Product",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "New Employee Onboarding",
+      "sender": "mark_taylor@security.com",
+      "snippet": "Detailed content about Security audit results...",
+      "received_date": "2026-06-02T01:56:00Z",
+      "importance": "medium",
+      "category": "Sales",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Vendor Renewal",
+      "sender": "lisa_martinez@finance.com",
+      "snippet": "Detailed content about API gateway update... Budget: $894k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-02T01:08:00Z",
+      "importance": "medium",
+      "category": "HR",
+      "is_unread": true,
+      "has_attachments": true
+    },
+    {
+      "subject": "Team Lunch RSVP",
+      "sender": "mike_rodriguez@hr.com",
+      "snippet": "Detailed content about Hiring pipeline... Budget: $711k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-01T20:39:00Z",
+      "importance": "high",
+      "category": "Product",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "New Employee Onboarding",
+      "sender": "mike_rodriguez@vc.com",
+      "snippet": "Detailed content about New hire announcement...",
+      "received_date": "2026-06-01T19:44:00Z",
+      "importance": "medium",
+      "category": "Product",
+      "is_unread": false,
+      "has_attachments": false
+    },
+    {
+      "subject": "Budget Clarification",
+      "sender": "emma_wilson@prospective.com",
+      "snippet": "Detailed content about Customer Y contract signed... Budget: $825k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-01T17:09:00Z",
+      "importance": "high",
+      "category": "Sales",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Vendor Renewal",
+      "sender": "emma_wilson@finance.com",
+      "snippet": "Detailed content about OKR finalization... Budget: $588k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-01T14:02:00Z",
+      "importance": "high",
+      "category": "Engineering",
+      "is_unread": false,
+      "has_attachments": false
+    },
+    {
+      "subject": "Revenue Projections Q3",
+      "sender": "lisa_martinez@vc.com",
+      "snippet": "Detailed content about Q3 budget meeting... Budget: $580k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-01T13:09:00Z",
+      "importance": "medium",
+      "category": "Finance",
+      "is_unread": true,
+      "has_attachments": false
+    },
+    {
+      "subject": "Q3 OKRs Leadership",
+      "sender": "mike_rodriguez@security.com",
+      "snippet": "Detailed content about Sales Q2 review...",
+      "received_date": "2026-06-01T11:52:00Z",
+      "importance": "high",
+      "category": "Finance",
+      "is_unread": true,
+      "has_attachments": false
+    },
+    {
+      "subject": "Revenue Projections Q3",
+      "sender": "lisa_martinez@company.com",
+      "snippet": "Detailed content about Database migration...",
+      "received_date": "2026-06-01T08:47:00Z",
+      "importance": "medium",
+      "category": "Support",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Weekly Sync Agenda",
+      "sender": "carol_lee@finance.com",
+      "snippet": "Detailed content about Q3 budget meeting... Budget: $472k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-01T08:04:00Z",
+      "importance": "medium",
+      "category": "Sales",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Marketing Campaign Q3",
+      "sender": "emma_wilson@hr.com",
+      "snippet": "Detailed content about Compliance check...",
+      "received_date": "2026-06-01T07:56:00Z",
+      "importance": "low",
+      "category": "Sales",
+      "is_unread": true,
+      "has_attachments": true
+    },
+    {
+      "subject": "Server Maintenance",
+      "sender": "alice_johnson@security.com",
+      "snippet": "Detailed content about Salary review...",
+      "received_date": "2026-06-01T07:26:00Z",
+      "importance": "medium",
+      "category": "HR",
+      "is_unread": true,
+      "has_attachments": false
+    },
+    {
+      "subject": "\ud83d\ude80 Series A Funding - Congratulations!",
+      "sender": "alice_johnson@security.com",
+      "snippet": "Detailed content about Office renovation...",
+      "received_date": "2026-06-01T06:52:00Z",
+      "importance": "low",
+      "category": "Support",
+      "is_unread": true,
+      "has_attachments": true
+    },
+    {
+      "subject": "Q2 Sales Review",
+      "sender": "tom_brown@customery.com",
+      "snippet": "Detailed content about Support ticket backlog...",
+      "received_date": "2026-06-01T04:40:00Z",
+      "importance": "medium",
+      "category": "HR",
+      "is_unread": false,
+      "has_attachments": true
+    },
+    {
+      "subject": "Team Lunch RSVP",
+      "sender": "carol_lee@company.com",
+      "snippet": "Detailed content about Security audit results... Budget: $880k. Contact john.personal@gmail.com for details.",
+      "received_date": "2026-06-01T00:49:00Z",
+      "importance": "high",
+      "category": "Product",
+      "is_unread": false,
+      "has_attachments": false
+    }
+  ],
+  "documents": [
+    {
+      "name": "Revenue_Projections_Q3.xlsx",
+      "owner": "mark_taylor",
+      "last_modified": "2026-08-04T22:39:00Z",
+      "folder": "/drive/legal",
+      "comments": [
+        {
+          "author": "tom_brown",
+          "comment": "Reviewing this. Please check the numbers.",
+          "timestamp": "2026-07-10T00:24:00Z"
+        },
+        {
+          "author": "alice_johnson",
+          "comment": "Reviewing this. Please check the contract.",
+          "timestamp": "2026-08-04T21:29:00Z"
+        }
+      ],
+      "version": "5.7"
+    },
+    {
+      "name": "Security_Audit_Q2.pdf",
+      "owner": "david_kim",
+      "last_modified": "2026-08-04T19:37:00Z",
+      "folder": "/drive/product",
+      "comments": [
+        {
+          "author": "tom_brown",
+          "comment": "Reviewing this. Please check the numbers.",
+          "timestamp": "2026-06-18T05:35:00Z"
+        }
+      ],
+      "version": "3.3"
+    },
+    {
+      "name": "Invoice_Automation.docx",
+      "owner": "emma_wilson",
+      "last_modified": "2026-08-03T23:37:00Z",
+      "folder": "/drive/product",
+      "comments": [],
+      "version": "1.4"
+    },
+    {
+      "name": "Security_Audit_Q2.pdf",
+      "owner": "john_doe",
+      "last_modified": "2026-08-03T15:15:00Z",
+      "folder": "/drive/sales",
+      "comments": [],
+      "version": "4.3"
+    },
+    {
+      "name": "Customer_Onboarding_Deck.pptx",
+      "owner": "david_kim",
+      "last_modified": "2026-08-01T23:14:00Z",
+      "folder": "/drive/product",
+      "comments": [
+        {
+          "author": "alice_johnson",
+          "comment": "Reviewing this. Please check the code.",
+          "timestamp": "2026-06-30T01:25:00Z"
+        }
+      ],
+      "version": "4.9"
+    },
+    {
+      "name": "Customer_Y_Contract.pdf",
+      "owner": "mike_rodriguez",
+      "last_modified": "2026-08-01T03:11:00Z",
+      "folder": "/drive/sales",
+      "comments": [
+        {
+          "author": "emma_wilson",
+          "comment": "Reviewing this. Please check the contract.",
+          "timestamp": "2026-06-14T20:20:00Z"
+        },
+        {
+          "author": "lisa_martinez",
+          "comment": "Reviewing this. Please check the design.",
+          "timestamp": "2026-06-27T02:02:00Z"
+        },
+        {
+          "author": "lisa_martinez",
+          "comment": "Reviewing this. Please check the design.",
+          "timestamp": "2026-06-10T13:42:00Z"
+        }
+      ],
+      "version": "1.7"
+    },
+    {
+      "name": "Revenue_Projections_Q3.xlsx",
+      "owner": "john_doe",
+      "last_modified": "2026-07-30T18:55:00Z",
+      "folder": "/drive/product",
+      "comments": [
+        {
+          "author": "carol_lee",
+          "comment": "Reviewing this. Please check the code.",
+          "timestamp": "2026-08-01T08:42:00Z"
+        }
+      ],
+      "version": "1.6"
+    },
+    {
+      "name": "Q3_Budget_Final.xlsx",
+      "owner": "tom_brown",
+      "last_modified": "2026-07-30T02:48:00Z",
+      "folder": "/drive/finance",
+      "comments": [],
+      "version": "4.7"
+    },
+    {
+      "name": "Marketing_Campaign_Q3.pdf",
+      "owner": "carol_lee",
+      "last_modified": "2026-07-29T04:02:00Z",
+      "folder": "/drive/hr",
+      "comments": [],
+      "version": "2.6"
+    },
+    {
+      "name": "Security_Audit_Q2.pdf",
+      "owner": "sarah_chen",
+      "last_modified": "2026-07-27T11:58:00Z",
+      "folder": "/drive/hr",
+      "comments": [
+        {
+          "author": "john_doe",
+          "comment": "Reviewing this. Please check the design.",
+          "timestamp": "2026-07-31T00:08:00Z"
+        }
+      ],
+      "version": "3.3"
+    },
+    {
+      "name": "Q3_OKRs_Leadership.xlsx",
+      "owner": "mark_taylor",
+      "last_modified": "2026-07-26T11:33:00Z",
+      "folder": "/drive/legal",
+      "comments": [
+        {
+          "author": "mike_rodriguez",
+          "comment": "Reviewing this. Please check the design.",
+          "timestamp": "2026-06-21T09:04:00Z"
+        },
+        {
+          "author": "emma_wilson",
+          "comment": "Reviewing this. Please check the design.",
+          "timestamp": "2026-06-01T18:18:00Z"
+        }
+      ],
+      "version": "4.1"
+    },
+    {
+      "name": "Customer_Onboarding_Deck.pptx",
+      "owner": "alice_johnson",
+      "last_modified": "2026-07-26T11:32:00Z",
+      "folder": "/drive/engineering",
+      "comments": [],
+      "version": "3.0"
+    },
+    {
+      "name": "Engineering_Hiring_Plan.docx",
+      "owner": "tom_brown",
+      "last_modified": "2026-07-26T05:17:00Z",
+      "folder": "/drive/sales",
+      "comments": [
+        {
+          "author": "sarah_chen",
+          "comment": "Reviewing this. Please check the contract.",
+          "timestamp": "2026-06-22T11:53:00Z"
+        },
+        {
+          "author": "john_doe",
+          "comment": "Reviewing this. Please check the contract.",
+          "timestamp": "2026-07-22T09:00:00Z"
+        }
+      ],
+      "version": "1.2"
+    },
+    {
+      "name": "Engineering_Hiring_Plan.docx",
+      "owner": "mike_rodriguez",
+      "last_modified": "2026-07-26T01:17:00Z",
+      "folder": "/drive/hr",
+      "comments": [],
+      "version": "4.0"
+    },
+    {
+      "name": "Project_Alpha_Design.pdf",
+      "owner": "john_doe",
+      "last_modified": "2026-07-25T20:58:00Z",
+      "folder": "/drive/product",
+      "comments": [
+        {
+          "author": "john_doe",
+          "comment": "Reviewing this. Please check the code.",
+          "timestamp": "2026-06-19T14:15:00Z"
+        }
+      ],
+      "version": "1.6"
+    },
+    {
+      "name": "Series_A_Agreement.pdf",
+      "owner": "john_doe",
+      "last_modified": "2026-07-23T20:55:00Z",
+      "folder": "/drive/engineering",
+      "comments": [
+        {
+          "author": "lisa_martinez",
+          "comment": "Reviewing this. Please check the contract.",
+          "timestamp": "2026-06-25T18:30:00Z"
+        },
+        {
+          "author": "mike_rodriguez",
+          "comment": "Reviewing this. Please check the contract.",
+          "timestamp": "2026-06-22T06:44:00Z"
+        },
+        {
+          "author": "john_doe",
+          "comment": "Reviewing this. Please check the design.",
+          "timestamp": "2026-07-05T05:23:00Z"
+        }
+      ],
+      "version": "1.2"
+    },
+    {
+      "name": "Q3_Budget_Final.xlsx",
+      "owner": "david_kim",
+      "last_modified": "2026-07-23T12:13:00Z",
+      "folder": "/drive/finance",
+      "comments": [
+        {
+          "author": "emma_wilson",
+          "comment": "Reviewing this. Please check the contract.",
+          "timestamp": "2026-06-13T06:06:00Z"
+        }
+      ],
+      "version": "4.0"
+    },
+    {
+      "name": "Customer_Onboarding_Deck.pptx",
+      "owner": "tom_brown",
+      "last_modified": "2026-07-22T08:12:00Z",
+      "folder": "/drive/hr",
+      "comments": [],
+      "version": "5.1"
+    },
+    {
+      "name": "Invoice_Automation.docx",
+      "owner": "sarah_chen",
+      "last_modified": "2026-07-22T03:40:00Z",
+      "folder": "/drive/finance",
+      "comments": [
+        {
+          "author": "mark_taylor",
+          "comment": "Reviewing this. Please check the numbers.",
+          "timestamp": "2026-06-02T17:31:00Z"
+        },
+        {
+          "author": "mark_taylor",
+          "comment": "Reviewing this. Please check the numbers.",
+          "timestamp": "2026-06-01T23:49:00Z"
+        },
+        {
+          "author": "mike_rodriguez",
+          "comment": "Reviewing this. Please check the numbers.",
+          "timestamp": "2026-06-05T15:20:00Z"
+        }
+      ],
+      "version": "4.4"
+    },
+    {
+      "name": "Mobile_UI_Mockups.pdf",
+      "owner": "emma_wilson",
+      "last_modified": "2026-07-22T03:16:00Z",
+      "folder": "/drive/legal",
+      "comments": [
+        {
+          "author": "john_doe",
+          "comment": "Reviewing this. Please check the numbers.",
+          "timestamp": "2026-06-20T06:30:00Z"
+        }
+      ],
+      "version": "3.8"
+    },
+    {
+      "name": "Q3_OKRs_Leadership.xlsx",
+      "owner": "sarah_chen",
+      "last_modified": "2026-07-22T00:14:00Z",
+      "folder": "/drive/legal",
+      "comments": [
+        {
+          "author": "sarah_chen",
+          "comment": "Reviewing this. Please check the code.",
+          "timestamp": "2026-07-07T11:49:00Z"
+        }
+      ],
+      "version": "4.3"
+    },
+    {
+      "name": "Engineering_Hiring_Plan.docx",
+      "owner": "carol_lee",
+      "last_modified": "2026-07-21T23:27:00Z",
+      "folder": "/drive/finance",
+      "comments": [],
+      "version": "1.0"
+    },
+    {
+      "name": "Mobile_UI_Mockups.pdf",
+      "owner": "lisa_martinez",
+      "last_modified": "2026-07-18T14:20:00Z",
+      "folder": "/drive/engineering",
+      "comments": [],
+      "version": "4.8"
+    },
+    {
+      "name": "Mobile_UI_Mockups.pdf",
+      "owner": "sarah_chen",
+      "last_modified": "2026-07-17T04:33:00Z",
+      "folder": "/drive/finance",
+      "comments": [
+        {
+          "author": "emma_wilson",
+          "comment": "Reviewing this. Please check the contract.",
+          "timestamp": "2026-06-16T17:45:00Z"
+        }
+      ],
+      "version": "5.4"
+    },
+    {
+      "name": "Server_Maintenance_Schedule.txt",
+      "owner": "mark_taylor",
+      "last_modified": "2026-07-15T20:37:00Z",
+      "folder": "/drive/engineering",
+      "comments": [],
+      "version": "2.0"
+    },
+    {
+      "name": "Q3_OKRs_Leadership.xlsx",
+      "owner": "tom_brown",
+      "last_modified": "2026-07-15T00:04:00Z",
+      "folder": "/drive/engineering",
+      "comments": [
+        {
+          "author": "john_doe",
+          "comment": "Reviewing this. Please check the numbers.",
+          "timestamp": "2026-06-19T03:00:00Z"
+        }
+      ],
+      "version": "5.1"
+    },
+    {
+      "name": "Mobile_UI_Mockups.pdf",
+      "owner": "mike_rodriguez",
+      "last_modified": "2026-07-13T19:16:00Z",
+      "folder": "/drive/legal",
+      "comments": [
+        {
+          "author": "tom_brown",
+          "comment": "Reviewing this. Please check the contract.",
+          "timestamp": "2026-07-17T17:48:00Z"
+        }
+      ],
+      "version": "1.5"
+    },
+    {
+      "name": "Invoice_Automation.docx",
+      "owner": "tom_brown",
+      "last_modified": "2026-07-13T13:39:00Z",
+      "folder": "/drive/legal",
+      "comments": [
+        {
+          "author": "mark_taylor",
+          "comment": "Reviewing this. Please check the numbers.",
+          "timestamp": "2026-06-23T00:37:00Z"
+        },
+        {
+          "author": "sarah_chen",
+          "comment": "Reviewing this. Please check the code.",
+          "timestamp": "2026-06-10T21:59:00Z"
+        }
+      ],
+      "version": "5.0"
+    },
+    {
+      "name": "Server_Maintenance_Schedule.txt",
+      "owner": "mark_taylor",
+      "last_modified": "2026-07-13T09:47:00Z",
+      "folder": "/drive/sales",
+      "comments": [
+        {
+          "author": "alice_johnson",
+          "comment": "Reviewing this. Please check the design.",
+          "timestamp": "2026-06-18T02:49:00Z"
+        },
+        {
+          "author": "john_doe",
+          "comment": "Reviewing this. Please check the code.",
+          "timestamp": "2026-06-21T11:23:00Z"
+        },
+        {
+          "author": "sarah_chen",
+          "comment": "Reviewing this. Please check the numbers.",
+          "timestamp": "2026-06-04T12:20:00Z"
+        }
+      ],
+      "version": "2.5"
+    },
+    {
+      "name": "Q3_Budget_Final.xlsx",
+      "owner": "tom_brown",
+      "last_modified": "2026-07-13T04:40:00Z",
+      "folder": "/drive/sales",
+      "comments": [
+        {
+          "author": "tom_brown",
+          "comment": "Reviewing this. Please check the code.",
+          "timestamp": "2026-08-04T06:58:00Z"
+        },
+        {
+          "author": "alice_johnson",
+          "comment": "Reviewing this. Please check the numbers.",
+          "timestamp": "2026-07-15T05:01:00Z"
+        }
+      ],
+      "version": "3.7"
+    },
+    {
+      "name": "Q3_Budget_Final.xlsx",
+      "owner": "tom_brown",
+      "last_modified": "2026-07-12T17:42:00Z",
+      "folder": "/drive/product",
+      "comments": [],
+      "version": "3.1"
+    },
+    {
+      "name": "Security_Audit_Q2.pdf",
+      "owner": "mike_rodriguez",
+      "last_modified": "2026-07-12T08:52:00Z",
+      "folder": "/drive/hr",
+      "comments": [
+        {
+          "author": "tom_brown",
+          "comment": "Reviewing this. Please check the contract.",
+          "timestamp": "2026-06-30T17:15:00Z"
+        },
+        {
+          "author": "david_kim",
+          "comment": "Reviewing this. Please check the design.",
+          "timestamp": "2026-07-07T19:10:00Z"
+        },
+        {
+          "author": "mark_taylor",
+          "comment": "Reviewing this. Please check the design.",
+          "timestamp": "2026-07-23T04:15:00Z"
+        }
+      ],
+      "version": "4.6"
+    },
+    {
+      "name": "Invoice_Automation.docx",
+      "owner": "alice_johnson",
+      "last_modified": "2026-07-12T08:18:00Z",
+      "folder": "/drive/legal",
+      "comments": [],
+      "version": "5.6"
+    },
+    {
+      "name": "Project_Alpha_Design.pdf",
+      "owner": "alice_johnson",
+      "last_modified": "2026-07-11T23:55:00Z",
+      "folder": "/drive/hr",
+      "comments": [],
+      "version": "3.1"
+    },
+    {
+      "name": "Server_Maintenance_Schedule.txt",
+      "owner": "emma_wilson",
+      "last_modified": "2026-07-11T20:42:00Z",
+      "folder": "/drive/finance",
+      "comments": [
+        {
+          "author": "alice_johnson",
+          "comment": "Reviewing this. Please check the design.",
+          "timestamp": "2026-07-31T22:35:00Z"
+        },
+        {
+          "author": "carol_lee",
+          "comment": "Reviewing this. Please check the contract.",
+          "timestamp": "2026-06-21T11:13:00Z"
+        }
+      ],
+      "version": "2.9"
+    },
+    {
+      "name": "Marketing_Campaign_Q3.pdf",
+      "owner": "lisa_martinez",
+      "last_modified": "2026-07-11T00:40:00Z",
+      "folder": "/drive/sales",
+      "comments": [],
+      "version": "5.8"
+    },
+    {
+      "name": "Security_Audit_Q2.pdf",
+      "owner": "mike_rodriguez",
+      "last_modified": "2026-07-10T14:27:00Z",
+      "folder": "/drive/legal",
+      "comments": [
+        {
+          "author": "tom_brown",
+          "comment": "Reviewing this. Please check the code.",
+          "timestamp": "2026-06-27T01:47:00Z"
+        }
+      ],
+      "version": "1.9"
+    },
+    {
+      "name": "Security_Audit_Q2.pdf",
+      "owner": "mark_taylor",
+      "last_modified": "2026-07-10T13:59:00Z",
+      "folder": "/drive/legal",
+      "comments": [
+        {
+          "author": "emma_wilson",
+          "comment": "Reviewing this. Please check the design.",
+          "timestamp": "2026-06-08T22:10:00Z"
+        }
+      ],
+      "version": "4.7"
+    },
+    {
+      "name": "Customer_X_Outage_Report.pdf",
+      "owner": "john_doe",
+      "last_modified": "2026-07-09T21:15:00Z",
+      "folder": "/drive/finance",
+      "comments": [],
+      "version": "3.1"
+    },
+    {
+      "name": "Invoice_Automation.docx",
+      "owner": "tom_brown",
+      "last_modified": "2026-07-08T19:03:00Z",
+      "folder": "/drive/hr",
+      "comments": [
+        {
+          "author": "emma_wilson",
+          "comment": "Reviewing this. Please check the design.",
+          "timestamp": "2026-07-01T00:09:00Z"
+        }
+      ],
+      "version": "3.3"
+    },
+    {
+      "name": "Q3_Budget_Final.xlsx",
+      "owner": "alice_johnson",
+      "last_modified": "2026-07-05T18:17:00Z",
+      "folder": "/drive/engineering",
+      "comments": [
+        {
+          "author": "sarah_chen",
+          "comment": "Reviewing this. Please check the design.",
+          "timestamp": "2026-08-04T03:46:00Z"
+        }
+      ],
+      "version": "4.2"
+    },
+    {
+      "name": "Mobile_UI_Mockups.pdf",
+      "owner": "john_doe",
+      "last_modified": "2026-07-04T02:55:00Z",
+      "folder": "/drive/engineering",
+      "comments": [],
+      "version": "2.2"
+    },
+    {
+      "name": "Invoice_Automation.docx",
+      "owner": "john_doe",
+      "last_modified": "2026-07-03T13:37:00Z",
+      "folder": "/drive/legal",
+      "comments": [],
+      "version": "2.4"
+    },
+    {
+      "name": "Project_Alpha_Design.pdf",
+      "owner": "alice_johnson",
+      "last_modified": "2026-06-30T17:24:00Z",
+      "folder": "/drive/sales",
+      "comments": [],
+      "version": "1.3"
+    },
+    {
+      "name": "Series_A_Agreement.pdf",
+      "owner": "john_doe",
+      "last_modified": "2026-06-29T19:15:00Z",
+      "folder": "/drive/legal",
+      "comments": [],
+      "version": "1.8"
+    },
+    {
+      "name": "Series_A_Agreement.pdf",
+      "owner": "mark_taylor",
+      "last_modified": "2026-06-29T03:47:00Z",
+      "folder": "/drive/legal",
+      "comments": [],
+      "version": "5.1"
+    },
+    {
+      "name": "Customer_Onboarding_Deck.pptx",
+      "owner": "mark_taylor",
+      "last_modified": "2026-06-29T02:28:00Z",
+      "folder": "/drive/hr",
+      "comments": [],
+      "version": "5.1"
+    },
+    {
+      "name": "Revenue_Projections_Q3.xlsx",
+      "owner": "john_doe",
+      "last_modified": "2026-06-27T13:13:00Z",
+      "folder": "/drive/finance",
+      "comments": [
+        {
+          "author": "mike_rodriguez",
+          "comment": "Reviewing this. Please check the code.",
+          "timestamp": "2026-07-15T19:07:00Z"
+        },
+        {
+          "author": "carol_lee",
+          "comment": "Reviewing this. Please check the contract.",
+          "timestamp": "2026-07-12T22:46:00Z"
+        },
+        {
+          "author": "emma_wilson",
+          "comment": "Reviewing this. Please check the design.",
+          "timestamp": "2026-06-23T19:22:00Z"
+        }
+      ],
+      "version": "2.5"
+    },
+    {
+      "name": "Q3_Budget_Final.xlsx",
+      "owner": "tom_brown",
+      "last_modified": "2026-06-27T00:13:00Z",
+      "folder": "/drive/engineering",
+      "comments": [
+        {
+          "author": "sarah_chen",
+          "comment": "Reviewing this. Please check the code.",
+          "timestamp": "2026-07-07T04:01:00Z"
+        }
+      ],
+      "version": "4.5"
+    },
+    {
+      "name": "Project_Alpha_Design.pdf",
+      "owner": "alice_johnson",
+      "last_modified": "2026-06-26T15:44:00Z",
+      "folder": "/drive/engineering",
+      "comments": [],
+      "version": "4.7"
+    },
+    {
+      "name": "Revenue_Projections_Q3.xlsx",
+      "owner": "mike_rodriguez",
+      "last_modified": "2026-06-26T10:22:00Z",
+      "folder": "/drive/finance",
+      "comments": [
+        {
+          "author": "john_doe",
+          "comment": "Reviewing this. Please check the code.",
+          "timestamp": "2026-07-24T16:43:00Z"
+        },
+        {
+          "author": "mike_rodriguez",
+          "comment": "Reviewing this. Please check the code.",
+          "timestamp": "2026-07-07T12:03:00Z"
+        }
+      ],
+      "version": "3.6"
+    },
+    {
+      "name": "Mobile_Roadmap.pptx",
+      "owner": "emma_wilson",
+      "last_modified": "2026-06-24T16:56:00Z",
+      "folder": "/drive/finance",
+      "comments": [
+        {
+          "author": "mark_taylor",
+          "comment": "Reviewing this. Please check the numbers.",
+          "timestamp": "2026-06-15T22:18:00Z"
+        }
+      ],
+      "version": "5.3"
+    },
+    {
+      "name": "Security_Audit_Q2.pdf",
+      "owner": "mike_rodriguez",
+      "last_modified": "2026-06-24T06:13:00Z",
+      "folder": "/drive/product",
+      "comments": [
+        {
+          "author": "tom_brown",
+          "comment": "Reviewing this. Please check the numbers.",
+          "timestamp": "2026-07-04T17:06:00Z"
+        }
+      ],
+      "version": "3.0"
+    },
+    {
+      "name": "Series_A_Agreement.pdf",
+      "owner": "tom_brown",
+      "last_modified": "2026-06-23T16:50:00Z",
+      "folder": "/drive/finance",
+      "comments": [
+        {
+          "author": "mike_rodriguez",
+          "comment": "Reviewing this. Please check the design.",
+          "timestamp": "2026-06-11T10:09:00Z"
+        },
+        {
+          "author": "alice_johnson",
+          "comment": "Reviewing this. Please check the code.",
+          "timestamp": "2026-07-17T03:33:00Z"
+        }
+      ],
+      "version": "5.3"
+    },
+    {
+      "name": "Customer_Y_Contract.pdf",
+      "owner": "david_kim",
+      "last_modified": "2026-06-22T03:26:00Z",
+      "folder": "/drive/sales",
+      "comments": [
+        {
+          "author": "mark_taylor",
+          "comment": "Reviewing this. Please check the contract.",
+          "timestamp": "2026-06-03T07:02:00Z"
+        }
+      ],
+      "version": "2.2"
+    },
+    {
+      "name": "Engineering_Hiring_Plan.docx",
+      "owner": "tom_brown",
+      "last_modified": "2026-06-21T22:19:00Z",
+      "folder": "/drive/sales",
+      "comments": [
+        {
+          "author": "sarah_chen",
+          "comment": "Reviewing this. Please check the design.",
+          "timestamp": "2026-06-27T18:43:00Z"
+        },
+        {
+          "author": "carol_lee",
+          "comment": "Reviewing this. Please check the contract.",
+          "timestamp": "2026-08-04T08:55:00Z"
+        },
+        {
+          "author": "david_kim",
+          "comment": "Reviewing this. Please check the numbers.",
+          "timestamp": "2026-06-04T18:59:00Z"
+        }
+      ],
+      "version": "4.0"
+    },
+    {
+      "name": "Security_Audit_Q2.pdf",
+      "owner": "lisa_martinez",
+      "last_modified": "2026-06-20T03:15:00Z",
+      "folder": "/drive/product",
+      "comments": [
+        {
+          "author": "mike_rodriguez",
+          "comment": "Reviewing this. Please check the code.",
+          "timestamp": "2026-06-11T05:45:00Z"
+        },
+        {
+          "author": "lisa_martinez",
+          "comment": "Reviewing this. Please check the code.",
+          "timestamp": "2026-06-24T16:32:00Z"
+        },
+        {
+          "author": "alice_johnson",
+          "comment": "Reviewing this. Please check the numbers.",
+          "timestamp": "2026-07-06T22:15:00Z"
+        }
+      ],
+      "version": "1.9"
+    },
+    {
+      "name": "Customer_X_Outage_Report.pdf",
+      "owner": "sarah_chen",
+      "last_modified": "2026-06-20T00:33:00Z",
+      "folder": "/drive/finance",
+      "comments": [],
+      "version": "2.7"
+    },
+    {
+      "name": "Customer_X_Outage_Report.pdf",
+      "owner": "john_doe",
+      "last_modified": "2026-06-18T07:25:00Z",
+      "folder": "/drive/sales",
+      "comments": [
+        {
+          "author": "tom_brown",
+          "comment": "Reviewing this. Please check the code.",
+          "timestamp": "2026-08-02T01:41:00Z"
+        }
+      ],
+      "version": "5.3"
+    },
+    {
+      "name": "Engineering_Hiring_Plan.docx",
+      "owner": "sarah_chen",
+      "last_modified": "2026-06-17T18:42:00Z",
+      "folder": "/drive/hr",
+      "comments": [
+        {
+          "author": "lisa_martinez",
+          "comment": "Reviewing this. Please check the code.",
+          "timestamp": "2026-06-16T03:41:00Z"
+        },
+        {
+          "author": "john_doe",
+          "comment": "Reviewing this. Please check the design.",
+          "timestamp": "2026-06-07T20:36:00Z"
+        }
+      ],
+      "version": "4.0"
+    },
+    {
+      "name": "Customer_Onboarding_Deck.pptx",
+      "owner": "emma_wilson",
+      "last_modified": "2026-06-17T00:57:00Z",
+      "folder": "/drive/product",
+      "comments": [],
+      "version": "1.3"
+    },
+    {
+      "name": "Invoice_Automation.docx",
+      "owner": "john_doe",
+      "last_modified": "2026-06-17T00:46:00Z",
+      "folder": "/drive/finance",
+      "comments": [],
+      "version": "4.5"
+    },
+    {
+      "name": "Series_A_Agreement.pdf",
+      "owner": "sarah_chen",
+      "last_modified": "2026-06-16T18:44:00Z",
+      "folder": "/drive/sales",
+      "comments": [
+        {
+          "author": "alice_johnson",
+          "comment": "Reviewing this. Please check the design.",
+          "timestamp": "2026-06-04T23:40:00Z"
+        }
+      ],
+      "version": "3.5"
+    },
+    {
+      "name": "Mobile_UI_Mockups.pdf",
+      "owner": "emma_wilson",
+      "last_modified": "2026-06-16T11:58:00Z",
+      "folder": "/drive/engineering",
+      "comments": [
+        {
+          "author": "carol_lee",
+          "comment": "Reviewing this. Please check the contract.",
+          "timestamp": "2026-07-19T11:02:00Z"
+        },
+        {
+          "author": "tom_brown",
+          "comment": "Reviewing this. Please check the design.",
+          "timestamp": "2026-07-06T04:41:00Z"
+        }
+      ],
+      "version": "2.7"
+    },
+    {
+      "name": "Marketing_Campaign_Q3.pdf",
+      "owner": "tom_brown",
+      "last_modified": "2026-06-16T03:58:00Z",
+      "folder": "/drive/sales",
+      "comments": [],
+      "version": "2.7"
+    },
+    {
+      "name": "Server_Maintenance_Schedule.txt",
+      "owner": "emma_wilson",
+      "last_modified": "2026-06-14T23:27:00Z",
+      "folder": "/drive/legal",
+      "comments": [],
+      "version": "1.2"
+    },
+    {
+      "name": "Server_Maintenance_Schedule.txt",
+      "owner": "alice_johnson",
+      "last_modified": "2026-06-13T19:40:00Z",
+      "folder": "/drive/sales",
+      "comments": [
+        {
+          "author": "lisa_martinez",
+          "comment": "Reviewing this. Please check the code.",
+          "timestamp": "2026-08-01T05:18:00Z"
+        }
+      ],
+      "version": "4.7"
+    },
+    {
+      "name": "Customer_X_Outage_Report.pdf",
+      "owner": "david_kim",
+      "last_modified": "2026-06-13T18:48:00Z",
+      "folder": "/drive/legal",
+      "comments": [
+        {
+          "author": "emma_wilson",
+          "comment": "Reviewing this. Please check the numbers.",
+          "timestamp": "2026-07-23T13:28:00Z"
+        },
+        {
+          "author": "alice_johnson",
+          "comment": "Reviewing this. Please check the contract.",
+          "timestamp": "2026-07-30T11:46:00Z"
+        },
+        {
+          "author": "mark_taylor",
+          "comment": "Reviewing this. Please check the code.",
+          "timestamp": "2026-06-06T06:32:00Z"
+        }
+      ],
+      "version": "1.8"
+    },
+    {
+      "name": "Q3_OKRs_Leadership.xlsx",
+      "owner": "tom_brown",
+      "last_modified": "2026-06-13T06:43:00Z",
+      "folder": "/drive/sales",
+      "comments": [
+        {
+          "author": "alice_johnson",
+          "comment": "Reviewing this. Please check the contract.",
+          "timestamp": "2026-07-17T20:01:00Z"
+        },
+        {
+          "author": "david_kim",
+          "comment": "Reviewing this. Please check the code.",
+          "timestamp": "2026-07-27T08:32:00Z"
+        },
+        {
+          "author": "lisa_martinez",
+          "comment": "Reviewing this. Please check the code.",
+          "timestamp": "2026-06-04T01:35:00Z"
+        }
+      ],
+      "version": "5.5"
+    },
+    {
+      "name": "Customer_Y_Contract.pdf",
+      "owner": "john_doe",
+      "last_modified": "2026-06-13T04:03:00Z",
+      "folder": "/drive/sales",
+      "comments": [],
+      "version": "3.8"
+    },
+    {
+      "name": "Marketing_Campaign_Q3.pdf",
+      "owner": "carol_lee",
+      "last_modified": "2026-06-12T18:17:00Z",
+      "folder": "/drive/product",
+      "comments": [
+        {
+          "author": "lisa_martinez",
+          "comment": "Reviewing this. Please check the design.",
+          "timestamp": "2026-06-02T12:18:00Z"
+        }
+      ],
+      "version": "4.8"
+    },
+    {
+      "name": "Customer_Y_Contract.pdf",
+      "owner": "alice_johnson",
+      "last_modified": "2026-06-11T22:47:00Z",
+      "folder": "/drive/product",
+      "comments": [],
+      "version": "5.7"
+    },
+    {
+      "name": "Project_Alpha_Design.pdf",
+      "owner": "alice_johnson",
+      "last_modified": "2026-06-11T11:21:00Z",
+      "folder": "/drive/engineering",
+      "comments": [],
+      "version": "3.6"
+    },
+    {
+      "name": "Server_Maintenance_Schedule.txt",
+      "owner": "mike_rodriguez",
+      "last_modified": "2026-06-10T18:18:00Z",
+      "folder": "/drive/finance",
+      "comments": [],
+      "version": "5.0"
+    },
+    {
+      "name": "Invoice_Automation.docx",
+      "owner": "david_kim",
+      "last_modified": "2026-06-09T23:16:00Z",
+      "folder": "/drive/engineering",
+      "comments": [],
+      "version": "2.3"
+    },
+    {
+      "name": "Server_Maintenance_Schedule.txt",
+      "owner": "david_kim",
+      "last_modified": "2026-06-09T10:58:00Z",
+      "folder": "/drive/engineering",
+      "comments": [
+        {
+          "author": "mark_taylor",
+          "comment": "Reviewing this. Please check the design.",
+          "timestamp": "2026-07-21T23:00:00Z"
+        },
+        {
+          "author": "emma_wilson",
+          "comment": "Reviewing this. Please check the code.",
+          "timestamp": "2026-07-13T12:28:00Z"
+        },
+        {
+          "author": "david_kim",
+          "comment": "Reviewing this. Please check the code.",
+          "timestamp": "2026-07-07T01:04:00Z"
+        }
+      ],
+      "version": "2.0"
+    },
+    {
+      "name": "Server_Maintenance_Schedule.txt",
+      "owner": "david_kim",
+      "last_modified": "2026-06-08T18:35:00Z",
+      "folder": "/drive/engineering",
+      "comments": [
+        {
+          "author": "sarah_chen",
+          "comment": "Reviewing this. Please check the code.",
+          "timestamp": "2026-08-04T22:59:00Z"
+        },
+        {
+          "author": "john_doe",
+          "comment": "Reviewing this. Please check the numbers.",
+          "timestamp": "2026-06-28T15:49:00Z"
+        },
+        {
+          "author": "carol_lee",
+          "comment": "Reviewing this. Please check the design.",
+          "timestamp": "2026-07-15T23:41:00Z"
+        }
+      ],
+      "version": "4.7"
+    },
+    {
+      "name": "Revenue_Projections_Q3.xlsx",
+      "owner": "tom_brown",
+      "last_modified": "2026-06-08T06:43:00Z",
+      "folder": "/drive/legal",
+      "comments": [],
+      "version": "1.8"
+    },
+    {
+      "name": "Mobile_UI_Mockups.pdf",
+      "owner": "mark_taylor",
+      "last_modified": "2026-06-08T04:15:00Z",
+      "folder": "/drive/product",
+      "comments": [
+        {
+          "author": "alice_johnson",
+          "comment": "Reviewing this. Please check the numbers.",
+          "timestamp": "2026-06-23T14:43:00Z"
+        },
+        {
+          "author": "carol_lee",
+          "comment": "Reviewing this. Please check the design.",
+          "timestamp": "2026-07-05T11:11:00Z"
+        }
+      ],
+      "version": "4.6"
+    },
+    {
+      "name": "Q3_OKRs_Leadership.xlsx",
+      "owner": "tom_brown",
+      "last_modified": "2026-06-07T13:01:00Z",
+      "folder": "/drive/sales",
+      "comments": [
+        {
+          "author": "sarah_chen",
+          "comment": "Reviewing this. Please check the contract.",
+          "timestamp": "2026-06-12T10:33:00Z"
+        }
+      ],
+      "version": "2.8"
+    },
+    {
+      "name": "Invoice_Automation.docx",
+      "owner": "alice_johnson",
+      "last_modified": "2026-06-07T11:57:00Z",
+      "folder": "/drive/legal",
+      "comments": [
+        {
+          "author": "carol_lee",
+          "comment": "Reviewing this. Please check the code.",
+          "timestamp": "2026-06-19T22:46:00Z"
+        },
+        {
+          "author": "emma_wilson",
+          "comment": "Reviewing this. Please check the design.",
+          "timestamp": "2026-07-25T19:51:00Z"
+        }
+      ],
+      "version": "3.0"
+    },
+    {
+      "name": "Q3_OKRs_Leadership.xlsx",
+      "owner": "emma_wilson",
+      "last_modified": "2026-06-06T12:47:00Z",
+      "folder": "/drive/product",
+      "comments": [],
+      "version": "1.5"
+    },
+    {
+      "name": "Mobile_Roadmap.pptx",
+      "owner": "mark_taylor",
+      "last_modified": "2026-06-05T10:54:00Z",
+      "folder": "/drive/hr",
+      "comments": [],
+      "version": "2.0"
+    },
+    {
+      "name": "Q3_Budget_Final.xlsx",
+      "owner": "alice_johnson",
+      "last_modified": "2026-06-05T06:13:00Z",
+      "folder": "/drive/product",
+      "comments": [],
+      "version": "4.8"
+    },
+    {
+      "name": "Revenue_Projections_Q3.xlsx",
+      "owner": "tom_brown",
+      "last_modified": "2026-06-04T22:24:00Z",
+      "folder": "/drive/hr",
+      "comments": [
+        {
+          "author": "john_doe",
+          "comment": "Reviewing this. Please check the contract.",
+          "timestamp": "2026-07-20T19:27:00Z"
+        }
+      ],
+      "version": "2.7"
+    },
+    {
+      "name": "Engineering_Hiring_Plan.docx",
+      "owner": "tom_brown",
+      "last_modified": "2026-06-04T14:06:00Z",
+      "folder": "/drive/engineering",
+      "comments": [
+        {
+          "author": "mike_rodriguez",
+          "comment": "Reviewing this. Please check the numbers.",
+          "timestamp": "2026-06-26T15:12:00Z"
+        },
+        {
+          "author": "sarah_chen",
+          "comment": "Reviewing this. Please check the design.",
+          "timestamp": "2026-06-11T06:32:00Z"
+        },
+        {
+          "author": "emma_wilson",
+          "comment": "Reviewing this. Please check the numbers.",
+          "timestamp": "2026-07-02T17:24:00Z"
+        }
+      ],
+      "version": "2.7"
+    },
+    {
+      "name": "Q3_Budget_Final.xlsx",
+      "owner": "tom_brown",
+      "last_modified": "2026-06-04T09:29:00Z",
+      "folder": "/drive/hr",
+      "comments": [
+        {
+          "author": "carol_lee",
+          "comment": "Reviewing this. Please check the design.",
+          "timestamp": "2026-07-31T21:50:00Z"
+        },
+        {
+          "author": "john_doe",
+          "comment": "Reviewing this. Please check the code.",
+          "timestamp": "2026-06-01T02:03:00Z"
+        },
+        {
+          "author": "alice_johnson",
+          "comment": "Reviewing this. Please check the numbers.",
+          "timestamp": "2026-06-23T07:08:00Z"
+        }
+      ],
+      "version": "2.4"
+    },
+    {
+      "name": "Security_Audit_Q2.pdf",
+      "owner": "sarah_chen",
+      "last_modified": "2026-06-04T03:34:00Z",
+      "folder": "/drive/engineering",
+      "comments": [
+        {
+          "author": "tom_brown",
+          "comment": "Reviewing this. Please check the code.",
+          "timestamp": "2026-06-01T17:25:00Z"
+        }
+      ],
+      "version": "4.2"
+    },
+    {
+      "name": "Server_Maintenance_Schedule.txt",
+      "owner": "carol_lee",
+      "last_modified": "2026-06-03T22:04:00Z",
+      "folder": "/drive/finance",
+      "comments": [
+        {
+          "author": "emma_wilson",
+          "comment": "Reviewing this. Please check the numbers.",
+          "timestamp": "2026-06-05T18:57:00Z"
+        }
+      ],
+      "version": "1.1"
+    },
+    {
+      "name": "Revenue_Projections_Q3.xlsx",
+      "owner": "john_doe",
+      "last_modified": "2026-06-03T18:07:00Z",
+      "folder": "/drive/legal",
+      "comments": [
+        {
+          "author": "sarah_chen",
+          "comment": "Reviewing this. Please check the design.",
+          "timestamp": "2026-07-20T22:03:00Z"
+        },
+        {
+          "author": "tom_brown",
+          "comment": "Reviewing this. Please check the code.",
+          "timestamp": "2026-06-21T00:45:00Z"
+        }
+      ],
+      "version": "5.3"
+    },
+    {
+      "name": "Customer_X_Outage_Report.pdf",
+      "owner": "david_kim",
+      "last_modified": "2026-06-03T14:31:00Z",
+      "folder": "/drive/legal",
+      "comments": [],
+      "version": "4.6"
+    },
+    {
+      "name": "Engineering_Hiring_Plan.docx",
+      "owner": "john_doe",
+      "last_modified": "2026-06-03T13:59:00Z",
+      "folder": "/drive/product",
+      "comments": [],
+      "version": "4.6"
+    },
+    {
+      "name": "Customer_X_Outage_Report.pdf",
+      "owner": "emma_wilson",
+      "last_modified": "2026-06-03T10:40:00Z",
+      "folder": "/drive/finance",
+      "comments": [
+        {
+          "author": "alice_johnson",
+          "comment": "Reviewing this. Please check the contract.",
+          "timestamp": "2026-07-24T03:43:00Z"
+        },
+        {
+          "author": "alice_johnson",
+          "comment": "Reviewing this. Please check the contract.",
+          "timestamp": "2026-06-14T23:43:00Z"
+        }
+      ],
+      "version": "3.3"
+    },
+    {
+      "name": "Customer_Y_Contract.pdf",
+      "owner": "mark_taylor",
+      "last_modified": "2026-06-03T07:05:00Z",
+      "folder": "/drive/legal",
+      "comments": [
+        {
+          "author": "mike_rodriguez",
+          "comment": "Reviewing this. Please check the code.",
+          "timestamp": "2026-07-23T20:07:00Z"
+        },
+        {
+          "author": "david_kim",
+          "comment": "Reviewing this. Please check the code.",
+          "timestamp": "2026-06-04T14:33:00Z"
+        }
+      ],
+      "version": "1.8"
+    },
+    {
+      "name": "Customer_Y_Contract.pdf",
+      "owner": "tom_brown",
+      "last_modified": "2026-06-02T17:53:00Z",
+      "folder": "/drive/hr",
+      "comments": [
+        {
+          "author": "john_doe",
+          "comment": "Reviewing this. Please check the contract.",
+          "timestamp": "2026-07-29T05:43:00Z"
+        },
+        {
+          "author": "tom_brown",
+          "comment": "Reviewing this. Please check the contract.",
+          "timestamp": "2026-06-16T19:27:00Z"
+        }
+      ],
+      "version": "3.3"
+    },
+    {
+      "name": "Q3_Budget_Final.xlsx",
+      "owner": "lisa_martinez",
+      "last_modified": "2026-06-02T06:21:00Z",
+      "folder": "/drive/product",
+      "comments": [],
+      "version": "2.9"
+    },
+    {
+      "name": "Customer_Y_Contract.pdf",
+      "owner": "carol_lee",
+      "last_modified": "2026-06-02T02:42:00Z",
+      "folder": "/drive/engineering",
+      "comments": [
+        {
+          "author": "alice_johnson",
+          "comment": "Reviewing this. Please check the design.",
+          "timestamp": "2026-06-05T07:29:00Z"
+        },
+        {
+          "author": "tom_brown",
+          "comment": "Reviewing this. Please check the code.",
+          "timestamp": "2026-07-11T00:17:00Z"
+        },
+        {
+          "author": "lisa_martinez",
+          "comment": "Reviewing this. Please check the design.",
+          "timestamp": "2026-06-15T14:20:00Z"
+        }
+      ],
+      "version": "5.1"
+    },
+    {
+      "name": "Q3_Budget_Final.xlsx",
+      "owner": "sarah_chen",
+      "last_modified": "2026-06-01T23:15:00Z",
+      "folder": "/drive/engineering",
+      "comments": [
+        {
+          "author": "mike_rodriguez",
+          "comment": "Reviewing this. Please check the code.",
+          "timestamp": "2026-07-23T03:31:00Z"
+        },
+        {
+          "author": "carol_lee",
+          "comment": "Reviewing this. Please check the contract.",
+          "timestamp": "2026-06-09T22:30:00Z"
+        }
+      ],
+      "version": "3.1"
+    },
+    {
+      "name": "Q3_OKRs_Leadership.xlsx",
+      "owner": "tom_brown",
+      "last_modified": "2026-06-01T15:24:00Z",
+      "folder": "/drive/finance",
+      "comments": [
+        {
+          "author": "carol_lee",
+          "comment": "Reviewing this. Please check the contract.",
+          "timestamp": "2026-06-18T20:27:00Z"
+        },
+        {
+          "author": "david_kim",
+          "comment": "Reviewing this. Please check the design.",
+          "timestamp": "2026-06-11T15:47:00Z"
+        },
+        {
+          "author": "alice_johnson",
+          "comment": "Reviewing this. Please check the code.",
+          "timestamp": "2026-06-07T22:02:00Z"
+        }
+      ],
+      "version": "4.9"
+    },
+    {
+      "name": "Engineering_Hiring_Plan.docx",
+      "owner": "sarah_chen",
+      "last_modified": "2026-06-01T03:59:00Z",
+      "folder": "/drive/sales",
+      "comments": [
+        {
+          "author": "mark_taylor",
+          "comment": "Reviewing this. Please check the design.",
+          "timestamp": "2026-07-09T23:56:00Z"
+        },
+        {
+          "author": "david_kim",
+          "comment": "Reviewing this. Please check the numbers.",
+          "timestamp": "2026-06-16T06:01:00Z"
+        },
+        {
+          "author": "tom_brown",
+          "comment": "Reviewing this. Please check the numbers.",
+          "timestamp": "2026-07-18T23:42:00Z"
+        }
+      ],
+      "version": "4.7"
+    }
+  ]
+}
