@@ -1,128 +1,202 @@
 # ☕ CatchUp AI — Personal Context Rehydrator
 
-> Never miss what matters at work. CatchUp AI scans your Slack, emails & documents and distills everything into a crisp, prioritised brief — in seconds.
+> **Never miss what matters at work.**
+> CatchUp AI scans your Slack, emails & documents and distills everything into a crisp, prioritised brief — in seconds.
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?style=flat-square&logo=python)
-![Google ADK](https://img.shields.io/badge/Google%20ADK-Agents-orange?style=flat-square&logo=google)
-![Gemini](https://img.shields.io/badge/Gemini-AI-purple?style=flat-square&logo=google)
-![Streamlit](https://img.shields.io/badge/Streamlit-UI-red?style=flat-square&logo=streamlit)
+![Google ADK](https://img.shields.io/badge/Google%20ADK-Multi--Agent-orange?style=flat-square&logo=google)
+![Gemini](https://img.shields.io/badge/Gemini-2.0%20Flash-purple?style=flat-square&logo=google)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red?style=flat-square&logo=streamlit)
+![MCP](https://img.shields.io/badge/MCP-Server-green?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-Ready-blue?style=flat-square&logo=docker)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
+
+---
+
+## 📌 Table of Contents
+
+- [What is CatchUp AI?](#-what-is-catchup-ai)
+- [The Problem](#-the-problem)
+- [Architecture](#-architecture)
+- [Features](#-features)
+- [Project Structure](#-project-structure)
+- [Quick Start](#-quick-start)
+- [Usage](#-usage)
+- [MCP Server](#-mcp-server)
+- [Security](#-security)
+- [Docker Deployment](#-docker-deployment)
+- [Environment Variables](#-environment-variables)
+- [Tech Stack](#-tech-stack)
+- [Roadmap](#-roadmap)
 
 ---
 
 ## 🧠 What is CatchUp AI?
 
-CatchUp AI is an AI-powered personal briefing tool built with **Google Agent Development Kit (ADK)** and **Gemini**. It runs a multi-agent pipeline that collects, classifies, and summarises your missed communications — giving you a structured, role-aware brief so you can get back up to speed instantly.
+CatchUp AI is an **AI-powered personal briefing tool** built with the **Google Agent Development Kit (ADK)** and **Gemini 2.0 Flash**. It runs a 4-agent sequential pipeline that automatically collects, classifies, and summarises your missed workplace communications — giving you a structured, role-aware brief so you can get back up to speed instantly.
 
-Built as part of the **5-Day AI Agents: Intensive Vibe Coding Course With Google**.
+Built for the **Google 5-Day AI Agents: Intensive Vibe Coding Course**.
 
 ---
 
-## ✨ Features
+## 🚨 The Problem
 
-- 🤖 **Multi-Agent Pipeline** — 4 specialised agents working in sequence
-- 📡 **Smart Collection** — Fetches Slack messages, emails & documents
-- 🧠 **AI Classification** — Groups content by topic using Gemini
-- 🔍 **Action Mining** — Extracts tasks and decisions relevant to you
-- ✍️ **Narrative Generation** — Writes a clean, prioritised brief
-- 👤 **Role-Based View** — Manager vs Employee perspectives
-- 🌐 **Streamlit Dashboard** — Beautiful light-theme web UI
-- 💻 **CLI Support** — Run directly from the terminal
-- 📄 **Export** — Download brief as Markdown or PDF
-- 🔌 **MCP Server** — Model Context Protocol support
-- 🐳 **Docker Ready** — Containerised for easy deployment
-- 🔒 **Offline Fallback** — Works with mock data when API is unavailable
+Every professional knows this: you return from a break and face hundreds of unread Slack messages, emails, and document comments. Reading them all takes **2–3 hours**. By the time you're "caught up," half the day is gone.
+
+**CatchUp AI solves this in under 30 seconds.**
 
 ---
 
 ## 🏗️ Architecture
 
+CatchUp AI runs a **4-agent sequential pipeline** orchestrated by Google ADK:
+
 ```
-┌─────────────────────────────────────────────────────┐
-│                   CatchUp AI Pipeline                │
-│                                                     │
-│  📡 Collector Agent                                 │
-│     └── Fetches Slack, emails & documents           │
-│            ↓                                        │
-│  🧠 Classifier Agent                                │
-│     └── Groups messages by topic with Gemini        │
-│            ↓                                        │
-│  🔍 Action Miner Agent                              │
-│     └── Extracts your personal action items         │
-│            ↓                                        │
-│  ✍️  Narrator Agent                                 │
-│     └── Writes your polished brief                  │
-└─────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────┐
+│                     CatchUp AI Pipeline                     │
+│                  (Google ADK SequentialAgent)               │
+│                                                             │
+│  📡 Collector Agent                                         │
+│     ├── Tool: fetch_slack_messages(time_range)              │
+│     ├── Tool: fetch_emails(time_range)                      │
+│     └── Tool: fetch_documents(time_range)                   │
+│                         ↓ raw_data                          │
+│  🧠 Classifier Agent                                        │
+│     └── Groups all data into topics using Gemini            │
+│         (Funding & Finance, Engineering, Sales, HR...)      │
+│                         ↓ classified_data                   │
+│  🔍 Action Miner Agent                                      │
+│     └── Extracts URGENT / TODAY / FYI action items          │
+│         Role-aware: Manager vs Employee perspective         │
+│                         ↓ action_items                      │
+│  ✍️  Narrator Agent                                         │
+│     └── Writes polished markdown brief with:               │
+│         📰 Headlines + ✅ Action Items + 📋 Full Context    │
+└─────────────────────────────────────────────────────────────┘
+              ↓                           ↓
+        Streamlit UI                  CLI (Click)
+       (Web Dashboard)            python cli.py run
+              ↓
+      📄 PDF / Markdown Export
 ```
+
+### Agent Details
+
+| Agent | Role | Output Key |
+|-------|------|------------|
+| 📡 **Collector** | Calls 3 tools to fetch all data | `raw_data` |
+| 🧠 **Classifier** | Groups by topic with Gemini | `classified_data` |
+| 🔍 **Action Miner** | Extracts prioritised tasks | `action_items` |
+| ✍️ **Narrator** | Writes the final brief | `full_summary` |
+
+---
+
+## ✨ Features
+
+- 🤖 **Multi-Agent Pipeline** — 4 specialised ADK agents working sequentially
+- 📡 **Smart Collection** — Fetches Slack messages, emails & documents
+- 🧠 **AI Classification** — Groups content by topic using Gemini 2.0 Flash
+- 🔍 **Action Mining** — Extracts 🔴 Urgent / 🟡 Today / 🔵 FYI action items
+- ✍️ **Narrative Generation** — Writes a clean, prioritised brief
+- 👤 **Role-Based View** — Manager vs Employee data masking
+- 🔒 **PII Redaction** — Phones, credit cards, emails sanitised before Gemini
+- 🌐 **Streamlit Dashboard** — Beautiful light-theme web UI with PDF export
+- 💻 **CLI Support** — Full terminal interface with progress bars
+- 🔌 **MCP Server** — Model Context Protocol for tool composability
+- 🐳 **Docker Ready** — Container with health check for easy deployment
+- 🔋 **Offline Fallback** — Fully functional with mock data, no API key needed
 
 ---
 
 ## 📁 Project Structure
 
 ```
-Catchup-AI/
+catchup-ai/
 ├── app.py              # Streamlit web dashboard
 ├── agents.py           # Multi-agent pipeline (Google ADK)
-├── cli.py              # Command-line interface
-├── mcp_server.py       # Model Context Protocol server
-├── security.py         # API key & security utilities
-├── utils.py            # Helper functions
-├── mock_data.json      # Offline fallback mock data
-├── brief.md            # Latest generated brief output
+├── cli.py              # Command-line interface (Click)
+├── mcp_server.py       # Model Context Protocol server (FastMCP)
+├── security.py         # PII redaction + role-based masking
+├── utils.py            # Time filtering, mock data loader
+├── mock_data.json      # Offline mock data (Slack, emails, docs)
 ├── Dockerfile          # Docker container config
 ├── requirements.txt    # Python dependencies
 ├── .env.example        # Environment variable template
-├── .gitignore          # Git ignore rules
+├── .gitignore          # Git ignore rules (keeps .env safe)
 └── README.md           # This file
 ```
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Quick Start
 
 ### Prerequisites
 
 - Python 3.12+
-- A Google API Key with Gemini access ([Get one here](https://aistudio.google.com/apikey))
+- A Google API Key with Gemini access → [Get one free here](https://aistudio.google.com/apikey)
 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/catchup-ai.git
+git clone https://github.com/YOUR_USERNAME/catchup-ai.git
 cd catchup-ai
 ```
 
-### 2. Install dependencies
+### 2. Create a virtual environment
+
+```bash
+python -m venv venv
+
+# Windows
+venv\Scripts\activate
+
+# Mac / Linux
+source venv/bin/activate
+```
+
+### 3. Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3. Set up environment variables
+### 4. Set up environment variables
 
 ```bash
 cp .env.example .env
 ```
 
-Edit `.env` and add your API key:
+Open `.env` and add your API key:
 
 ```env
-GOOGLE_API_KEY=your_gemini_api_key_here
+GEMINI_API_KEY=your_gemini_api_key_here
+CATCHUP_MODE=mock
 ```
 
-> ⚠️ **Note:** A billing-enabled Google Cloud account is recommended. Free tier access may have regional restrictions. You can add billing at [console.cloud.google.com/billing](https://console.cloud.google.com/billing) — Google provides $300 in free credits for new accounts.
+> ⚠️ **Never commit your `.env` file.** It's in `.gitignore` by default.
 
----
-
-## 💻 Usage
-
-### Web Dashboard (Streamlit)
+### 5. Run the app
 
 ```bash
 streamlit run app.py --server.port 8502
 ```
 
-Then open [http://localhost:8502](http://localhost:8502) in your browser.
+Open [http://localhost:8502](http://localhost:8502) in your browser.
+
+---
+
+## 💻 Usage
+
+### Web Dashboard
+
+```bash
+streamlit run app.py --server.port 8502
+```
+
+1. Select a **Time Range** in the sidebar (e.g. "1 week ago")
+2. Select your **Role** (Manager or Employee)
+3. Click **✦ Generate Brief**
+4. Download as Markdown or PDF
 
 ### Command Line Interface
 
@@ -130,44 +204,147 @@ Then open [http://localhost:8502](http://localhost:8502) in your browser.
 # Generate a brief for the last week
 python cli.py run --since "1 week ago"
 
-# Generate a brief for the last 2 hours
-python cli.py run --since "2 hours ago"
+# Generate for last 2 hours as an employee
+python cli.py run --since "2 hours ago" --role employee
 
-# Specify a role
-python cli.py run --since "yesterday" --role employee
+# Save to a custom file with verbose logs
+python cli.py run --since "yesterday" --output my_brief.md --verbose
+
+# Check environment status
+python cli.py info
 ```
 
-### Docker
+### CLI Options
+
+| Flag | Default | Description |
+|------|---------|-------------|
+| `--since` | `2 hours ago` | Time range to look back |
+| `--output` | `brief.md` | Output file path |
+| `--role` | `manager` | Your role (manager/employee) |
+| `--verbose` | off | Show agent debug logs |
+
+---
+
+## 🔌 MCP Server
+
+CatchUp AI includes a **Model Context Protocol (MCP)** server that exposes its data tools to any MCP-compatible client (Claude Desktop, other ADK agents, etc.).
+
+### Run the MCP Server
+
+```bash
+python mcp_server.py
+```
+
+### Available Tools
+
+| Tool | Description | Returns |
+|------|-------------|---------|
+| `get_unread_slack` | All Slack messages | `{count, messages}` |
+| `get_unread_emails` | All inbox emails | `{count, emails}` |
+| `get_recent_docs` | Documents with activity | `{count, documents}` |
+
+### Connect from Claude Desktop
+
+Add to your `claude_desktop_config.json`:
+
+```json
+{
+  "mcpServers": {
+    "catchup-ai": {
+      "command": "python",
+      "args": ["/path/to/catchup-ai/mcp_server.py"]
+    }
+  }
+}
+```
+
+---
+
+## 🔒 Security
+
+`security.py` implements a two-layer security model:
+
+### Layer 1 — PII Redaction (all roles)
+
+| Data Type | Before | After |
+|-----------|--------|-------|
+| Phone numbers | `555-867-5309` | `[PHONE REDACTED]` |
+| Credit cards | `4111-1234-5678-9012` | `4111-****-****-9012` |
+| Email addresses | `john.doe@gmail.com` | `joh***@gmail.com` |
+
+### Layer 2 — Role-Based Masking
+
+| Data Type | Manager | Employee |
+|-----------|---------|----------|
+| Financial figures | ✅ Visible | `[AMOUNT REDACTED]` |
+| Personal emails | ✅ Visible | `[PERSONAL EMAIL REDACTED]` |
+| Phone numbers | `[PHONE REDACTED]` | `[PHONE REDACTED]` |
+
+All masking happens **before data is sent to Gemini** — the LLM never sees raw PII.
+
+---
+
+## 🐳 Docker Deployment
+
+### Build and run
 
 ```bash
 # Build the image
 docker build -t catchup-ai .
 
-# Run the container
+# Run with your .env file
 docker run -p 8502:8502 --env-file .env catchup-ai
+
+# Or pass the key directly
+docker run -p 8502:8502 -e GEMINI_API_KEY=your_key catchup-ai
+```
+
+Open [http://localhost:8502](http://localhost:8502)
+
+### Docker Compose (optional)
+
+```yaml
+version: '3.8'
+services:
+  catchup-ai:
+    build: .
+    ports:
+      - "8502:8502"
+    env_file:
+      - .env
+    restart: unless-stopped
+```
+
+```bash
+docker compose up
 ```
 
 ---
 
-## 🤖 Agent Details
+## ⚙️ Environment Variables
 
-| Agent | Role | Description |
-|-------|------|-------------|
-| 📡 **Collector** | Data Fetching | Retrieves Slack messages, emails, and documents from the specified time range |
-| 🧠 **Classifier** | Topic Grouping | Uses Gemini to group and categorise messages by subject and relevance |
-| 🔍 **Action Miner** | Task Extraction | Identifies action items, decisions, and mentions relevant to your role |
-| ✍️ **Narrator** | Brief Writing | Synthesises everything into a clean, structured markdown brief |
+| Variable | Required | Description |
+|----------|----------|-------------|
+| `GEMINI_API_KEY` | ✅ For AI mode | Your Gemini API key from [AI Studio](https://aistudio.google.com/apikey) |
+| `GOOGLE_API_KEY` | Alternative | Same key, ADK-compatible name |
+| `CATCHUP_MODE` | ❌ Optional | Set to `mock` (default) for offline mode |
+
+> 💡 **No API key?** The app runs in offline mode with realistic mock data — great for demos!
 
 ---
 
-## 📊 Output Format
+## 🛠️ Tech Stack
 
-The generated brief includes:
-
-- **📰 Headlines** — Top 3 things that happened while you were away
-- **✅ Action Items** — Prioritised as 🔴 Urgent / 🟡 Today / 🔵 FYI
-- **📋 Full Context** — Complete summary with all relevant details
-- **📄 Export** — Downloadable as `.md` or `.pdf`
+| Layer | Technology | Version |
+|-------|-----------|---------|
+| AI Agents | [Google Agent Development Kit (ADK)](https://google.github.io/adk-docs/) | ≥1.0.0 |
+| LLM | Google Gemini 2.0 Flash | via `google-genai` |
+| Protocol | Model Context Protocol (MCP) | ≥1.0.0 |
+| Web UI | [Streamlit](https://streamlit.io/) | ≥1.35.0 |
+| CLI | [Click](https://click.palletsprojects.com/) | ≥8.1.0 |
+| PDF | fpdf2 | ≥2.7.9 |
+| Container | Docker | Any |
+| Language | Python | 3.12 |
 
 ---
 
@@ -177,35 +354,10 @@ The generated brief includes:
 - [ ] Slack workspace connection via OAuth
 - [ ] Google Drive document sync
 - [ ] Microsoft Teams & Outlook support
-- [ ] Scheduled auto-briefing (morning digest)
+- [ ] Scheduled auto-briefing (morning digest at 8 AM)
+- [ ] Voice output — brief read aloud via TTS
+- [ ] Memory layer — track completed action items
 - [ ] Mobile-friendly PWA
-
----
-
-## 🛠️ Tech Stack
-
-| Layer | Technology |
-|-------|-----------|
-| AI Agents | [Google Agent Development Kit (ADK)](https://google.github.io/adk-docs/) |
-| LLM | Google Gemini 2.0 Flash |
-| Web UI | [Streamlit](https://streamlit.io/) |
-| Protocol | Model Context Protocol (MCP) |
-| Language | Python 3.12 |
-| Container | Docker |
-
----
-
-## ⚙️ Environment Variables
-
-| Variable | Required | Description |
-|----------|----------|-------------|
-| `GOOGLE_API_KEY` | ✅ Yes | Your Gemini API key from [AI Studio](https://aistudio.google.com/apikey) |
-
----
-
-## 📝 License
-
-This project was built for educational purposes as part of the **Google 5-Day Gen AI Intensive Course**.
 
 ---
 
@@ -214,6 +366,7 @@ This project was built for educational purposes as part of the **Google 5-Day Ge
 - [Google DeepMind](https://deepmind.google/) for the Gemini API
 - [Google Agent Development Kit](https://google.github.io/adk-docs/) team
 - [Streamlit](https://streamlit.io/) for the UI framework
+- Built during the **Google 5-Day AI Agents Intensive Vibe Coding Course**
 
 ---
 
