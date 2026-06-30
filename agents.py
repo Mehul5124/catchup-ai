@@ -662,6 +662,13 @@ def _fallback_result(time_range: str, role: str, error: str = "") -> dict:
 
 if __name__ == "__main__":
     import asyncio
+    import io
+
+    # Force UTF-8 output on Windows so emoji/unicode characters don't crash
+    if sys.stdout.encoding and sys.stdout.encoding.lower() != "utf-8":
+        sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
+    if sys.stderr.encoding and sys.stderr.encoding.lower() != "utf-8":
+        sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding="utf-8", errors="replace")
 
     async def _test():
         result = await run_catchup(time_range="1 week ago", role="manager")
